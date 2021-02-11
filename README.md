@@ -1,5 +1,4 @@
 # Training
-# BOJ_tasks
 Baekjoon Online Judge Algorithm Training Task Solve  
 Programmers Coding Tests Training Solve
 
