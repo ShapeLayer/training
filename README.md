@@ -11,7 +11,7 @@ while not talent:
   * [Programmers Coding Tests](https://programmers.co.kr/) Task Solve
 * Language Basics / Notes
   * [Python](./note/lang/python)
-  * [HTML/CSS](./note/lang/html_css)
+  * [HTML/CSS/JS](./note/lang/html_css_js)
   * [SQL](./note/lang/sql.md)
 
 ## Related Link
