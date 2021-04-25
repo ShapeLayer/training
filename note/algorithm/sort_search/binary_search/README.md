@@ -18,8 +18,8 @@
 3. 2(= 2//2번째 요소)는 2이다. 검색 끝
 ```
 
-## 코드
-[binary_search.py](../../basics/python/binary_search.py)
+## 예시 코드
+[binary_search.py](./binary_search.py)
 
 ## 관련 문제
  * [수 찾기](https://www.acmicpc.net/problem/1920) - 백준 1920번 문제
