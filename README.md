@@ -10,8 +10,9 @@ while not talent:
   * [Baekjoon Online Judge](https://www.acmicpc.net/) Algorithm Training Task Solve  
   * [Programmers Coding Tests](https://programmers.co.kr/) Task Solve
 * Language Basics / Notes
-  * [Python](./note/lang/python)
   * [HTML/CSS/JS](./note/lang/html_css_js)
+  * [Python](./note/lang/python)
+  * [R](./note/lang/r)
   * [SQL](./note/lang/sql.md)
 
 ## Related Link
