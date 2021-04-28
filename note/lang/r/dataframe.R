@@ -36,5 +36,36 @@ subset(iris, Sepal.Length > 7 | Petal.Length >= 6.5)
 
 longley[longley$GNP > 200 & longley$Population >= 109 & longley$Year > 1960 & longley$Employed > 50, ]
 sum(longley$GNP + longley$GNP.deflator + longley$Unemployed + longley$Population)
+## # attach(x: dataframe)
+## # : Attachs local object to global
+## # detach(x: dataframe)
+## # : Detachs attached local object from global
+attach(longley)
+longley[GNP > 200 & Population >= 109 & Year > 1960 & Employed > 50, ]
+detach(longley)
 
-# P.84
+df_pimm <- data.frame(
+  id = c(1, 2, 3, 4, 5),
+  name = c('Jonghyeon', 'Jemin', 'Minseo', 'Jeongsuk', 'Hyejin'),
+  grade = c(1, 3, 2, 4, 3),
+  major = c('CE', 'CE', 'DS', 'SW', 'SW')
+)
+df_pimm
+df_pimm[c(3, 4), c('name', 'grade')] # row. 3, 4 / name, grade
+df_pimm[c(T, F, T, T, F), c(F, T, F, T)] # row. 1, 3, 4 / name, major
+df_pimm[df_pimm$grade < 3, ]  # Jonghyeon, Minseo
+df_pimm[df_pimm$grade < 3]    # !?
+df_pimm[df_pimm$grade]        # !?
+order(df_pimm$grade)
+df_pimm[order(df_pimm$grade), ]  # order() Returns Position Vector (Numeric)
+df_pimm[sort(df_pimm$grade)]     # sort() Returns Arrayed Vector
+df_pimm[order(df_pimm$grade, df_pimm$name, decreasing=T), ]
+df_pimm[order(df_pimm$grade, decreasing=T), ]
+df_pimm[order()]
+## # aggregate(formula, data: dataframe, FUN: function)
+## # rbind => Combine Rows
+## # cbind => Combine Columns
+aggregate(grade ~ major, df_pimm, mean) # grade mean by major
+df_pimm$points <- c(1000, 800, 600, 900, 1200)
+aggregate(cbind(df_pimm$grade, df_pimm$points), df_pimm, sum)  # !?
+aggregate(cbind(df_pimm$grade, df_pimm$points) ~ major, df_pimm, sum)
