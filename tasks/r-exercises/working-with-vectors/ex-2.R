@@ -1,0 +1,7 @@
+u <- c(4, 5, 6)
+v <- c(1, 2, 3)
+print(u + v)
+print(u - v)
+print(u * v)
+print(u / v)
+print(u ^ v)
