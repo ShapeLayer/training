@@ -67,5 +67,9 @@ df_pimm[order()]
 ## # cbind => Combine Columns
 aggregate(grade ~ major, df_pimm, mean) # grade mean by major
 df_pimm$points <- c(1000, 800, 600, 900, 1200)
+## # dataframe$new_column <- Vector
 aggregate(cbind(df_pimm$grade, df_pimm$points), df_pimm, sum)  # !?
 aggregate(cbind(df_pimm$grade, df_pimm$points) ~ major, df_pimm, sum)
+## edit() Needs XQuartz in MacOS
+df_pimm <- edit(df_pimm)
+## P. 95
