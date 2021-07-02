@@ -1,0 +1,12 @@
+6c6,14
+<     answer = 0
+---
+>     v2d = [ord(pos[0])-64, int(pos[1])]
+>     abd = [1, 2]
+>     answer = 8
+>     for i in range(2):
+>         for j in [[1, 1], [-1, 1], [-1, -1], [1, -1]]:
+>             nstp = [v2d[0]+abd[i%2]*j[0], v2d[1]+abd[(i+1)%2]*j[1]]
+>             print(nstp, end='')
+>             if min(nstp) <= 0 or max(nstp) > 8:
+>                 answer -= 1

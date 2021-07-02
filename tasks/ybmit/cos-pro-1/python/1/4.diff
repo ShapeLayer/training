@@ -1,0 +1,10 @@
+6c6,8
+<     answer = 0
+---
+>     answer = num
+>     while '0' in str(num):
+>         num += 1
+11c13
+< num = 9949999;
+---
+> num = 9949999

@@ -1,0 +1,12 @@
+17c17
+< class PizzaStore@@@:
+---
+> class PizzaStore(DeliveryStore):
+27c27
+<     def @@@:
+---
+>     def set_order_list(self, order_list):
+31c31
+<     def @@@:
+---
+>     def get_total_price(self):

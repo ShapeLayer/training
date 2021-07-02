@@ -1,0 +1,16 @@
+7c7
+<     while @@@:
+---
+>     while arrA_idx < arrA_len and arrB_idx < arrB_len:
+14c14
+<     while @@@:
+---
+>     while arrA_idx < arrA_len:
+17c17
+<     while @@@:
+---
+>     while arrB_idx < arrB_len:
+26c26
+< ret = solution(arrA, arrB);
+---
+> ret = solution(arrA, arrB)

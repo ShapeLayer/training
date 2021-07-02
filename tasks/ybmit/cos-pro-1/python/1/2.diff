@@ -1,0 +1,8 @@
+3c3
+<     padSize = @@@
+---
+>     padSize = length - len(string)
+15c15
+<         if @@@:
+---
+>         if binaryA[i] != binaryB[i]:
