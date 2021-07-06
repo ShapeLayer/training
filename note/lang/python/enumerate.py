@@ -1,3 +1,7 @@
+## iterable: 반복 가능
+## iterator: iterator 객체 자료형 -- iter()로 사용 가능
+## iterable 요소로 enumerate 사용 가능
+
 dic = {
     'a': 3,
     'b': 5,
