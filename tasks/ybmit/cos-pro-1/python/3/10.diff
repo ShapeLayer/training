@@ -1,0 +1,28 @@
+15c15
+< class HairShop@@@:
+---
+> class HairShop(Shop):
+19,20c19,20
+<     @@@:
+<         if @@@ != 1:
+---
+>     def reserve(self, customer):
+>         if customer.num_of_people != 1:
+23c23
+<             if @@@:
+---
+>             if r.time == customer.time:
+28c28
+< class Restaurant@@@:
+---
+> class Restaurant(Shop):
+32,33c32,33
+<     @@@:
+<         if @@@:
+---
+>     def reserve(self, customer):
+>         if customer.num_of_people > 1 and customer.num_of_people < 9:
+37c37
+<             if @@@:
+---
+>             if r.time == customer.time:

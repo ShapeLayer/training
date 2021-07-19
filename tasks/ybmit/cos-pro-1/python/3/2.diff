@@ -1,0 +1,10 @@
+24,25c24,25
+<             if func_@@@(@@@) == True:
+<                 if func_@@@(@@@) == False:
+---
+>             if func_b(sub_s) == True:
+>                 if func_a(palindromes, sub_s) == False:
+28c28
+<     answer = func_@@@(@@@)
+---
+>     answer = func_c(palindromes, k)

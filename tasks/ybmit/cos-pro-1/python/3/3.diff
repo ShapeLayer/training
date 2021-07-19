@@ -1,0 +1,28 @@
+5a6,27
+>     board = [[0 for __ in range(8)] for _ in range(8)]
+>     for bishop in bishops:
+>         x, y = ord(bishop[0])-65, int(bishop[1])-1
+>         board[x][y] = 1
+>         flags = [True for _ in range(4)] # 사분면
+>         m = 0
+>         while True in flags:
+>             m += 1
+>             for offset in [[1, 1], [-1, 1], [-1, -1], [1, -1]]:
+>                 x_ = x + m*offset[0]
+>                 y_ = y + m*offset[1]
+>                 if x_ > -1 and y_ > -1 and x_ < 8 and y_ < 8:
+>                     board[x_][y_] = 1
+>                 else:
+>                     if offset == [1, 1]:
+>                         flags[0] = False
+>                     elif offset == [1, -1]:
+>                         flags[1] = False
+>                     elif offset == [-1, -1]:
+>                         flags[2] = False
+>                     else:
+>                         flags[3] = False
+6a29,32
+>     for i in board:
+>         for j in i:
+>             if j == 0:
+>                 answer += 1
