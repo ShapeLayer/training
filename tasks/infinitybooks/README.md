@@ -1,0 +1,3 @@
+```sh
+gcc filename -lstdc++ 
+```
