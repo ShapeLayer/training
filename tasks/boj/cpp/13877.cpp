@@ -26,7 +26,7 @@ int hex_to_dec(int n) {
 
 bool contains_9(int n) {
   while (n != 0) {
-    if (n % 10 == 9) return true;
+    if (n % 10 == 9 || n % 10 == 8) return true;
     n /= 10;
   }
   return false;
@@ -41,7 +41,7 @@ int main(void) {
     int conv[3] = {0, target, 0};
     conv[0] = contains_9(target) ? 0 : oct_to_dec(target);
     conv[2] = hex_to_dec(target);
-    cout << i+1 << ' ' << conv[0] << ' ' << conv[1] << ' ' << conv[2] << endl;
+    cout << _ << ' ' << conv[0] << ' ' << conv[1] << ' ' << conv[2] << endl;
   }
   return 0;
 }
