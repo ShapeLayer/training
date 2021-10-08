@@ -27,6 +27,7 @@ int hex_to_dec(int n) {
 bool contains_9(int n) {
   while (n != 0) {
     if (n % 10 == 9) return true;
+    n /= 10;
   }
   return false;
 }
