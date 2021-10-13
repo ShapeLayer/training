@@ -1,1 +1,0 @@
-print('결과는 {}입니다.'.format(sum([(1/i)**2 for i in range(1, int(input('숫자를 입력하세요 : '))+1)])))

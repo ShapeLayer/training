@@ -1,1 +1,0 @@
-print('세 자리의 암스트롱 수 : {}'.format(' '.join(list(map(str, filter(None, [i if (i//100)**3 + ((i%100)//10)**3 + (i%10)**3 == i else None for i in range(100, 1000)]))))))
