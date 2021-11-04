@@ -99,6 +99,7 @@ ffmpeg -i 'https://ioaqpnfaumaj8565423.cdn.ntruss.com/hls/97c3c593-38dd-4825-854
 
 **Windows의 경우**  
 터미널에 `explorer ./`를 입력한다.  
+
 **macOS의 경우**  
 터미널에 `open ./`을 입력한다.  
 
