@@ -36,7 +36,7 @@ macOS에선 brew를 사용해 설치한다. ffmpeg를 사용하기 전에 brew�
 이어서 나타나는 검은 창에 `brew`를 입력하고 `Enter`키를 누르자.
 `zsh: command not found: brew`라고 나타나면 설치되지 않은 것이고, 무언가 긴 것이 나타나면 이미 설치된 것이다.
 
-**brew 설치하기**
+**brew 설치하기**  
 ![](/assets/img/2021-11-04/스크린샷 2021-11-04 오후 3.01.44.png)  
 만약 brew가 없다면 터미널 창에 아래 문장을 복사해서 붙여넣자.
 ```sh
@@ -47,7 +47,7 @@ macOS에선 brew를 사용해 설치한다. ffmpeg를 사용하기 전에 brew�
 ![](/assets/img/2021-11-04/스크린샷 2021-11-04 오후 3.04.12.png)  
 설치가 완료되면 `Installation successful!`이 나타난다.
 
-**ffmpeg 설치하기**
+**ffmpeg 설치하기**  
 맥에 brew가 설치되었다면 brew를 이용해서 ffmpeg를 설치할 수 있다.
 
 터미널 창에 아래 문장을 적어넣자.
