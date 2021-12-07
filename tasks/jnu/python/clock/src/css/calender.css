@@ -1,0 +1,23 @@
+table {
+  margin: auto;
+}
+.cal td, .cal th {
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  transition: .5s ease-in-out;
+}
+.cal td:hover {
+  background-color: #fa5e7d5e;
+  transition: .5s ease-in-out;
+}
+.cal td.focus {
+  background-color: #FA5E7E;
+  color: #fff;
+}
+.cal .is-blue {
+  color: #185BD9;
+}
+.cal .is-red {
+  color: #E1261F;
+}
