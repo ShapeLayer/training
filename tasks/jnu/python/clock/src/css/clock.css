@@ -1,0 +1,54 @@
+.now .wrapper {
+  display: block;
+}
+.now .primary {
+  font-size: 3em;
+}
+
+.clock-body input {
+  border: 0;
+  outline: none;
+  border-radius: 2px;
+  transition: .5s ease-in-out;
+}
+.clock-body input:hover, .clock-body input:focus {
+  background: rgba(0, 0, 0, .075);
+  border-radius: 10px;
+  transition: .5s ease-in-out;
+}
+.clock-body hr {
+  width: 100px;
+  border: 1px solid rgb(107, 107, 107);
+  background-color: rgb(107, 107, 107);
+}
+.clock-datetime {
+  display: block;
+  padding-left: 6px;
+}
+.clock-datetime input {
+  text-align: right;
+  width: 15px;
+}
+.clock-datetime .desc {
+  vertical-align: middle;
+}
+.clock-datetime input#clock-year {
+  width: 30px;
+}
+.clock-primary, .clock-primary input {
+  font-size: 3rem;
+  text-align: right;
+}
+.clock-primary input {
+  width: 55px;
+}
+.clock-secondary .clock-secondary input {
+
+}
+.clock-secondary {
+  margin-left: -10px;
+}
+.clock-secondary input {
+  width: 25px;
+  font-size: 15pt;
+}
