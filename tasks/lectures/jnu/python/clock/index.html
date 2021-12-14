@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<script type="text/javascript" src="./src/js/brython.js"></script>
+<script type="text/javascript" src="./src/js/brython_stdlib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/pythonpad/brython-runner/lib/brython-runner.bundle.js"></script>
+<link rel="stylesheet" href="./src/css/style.css">
+<link rel="stylesheet" href="./src/css/calender.css">
+<link rel="stylesheet" href="./src/css/clock.css">
+<link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css' rel='stylesheet' type='text/css'>
+</head>
+<body onload="brython()">
+  <header>
+    <div class="now">
+      <form id="clock" action="#">
+        <div class="clock-header"></div>
+        <div class="clock-body">
+          <span class="clock-datetime">
+            <span><input type="text" id="clock-year" placeholder="00"><span class="desc">년</span></span>
+            <span><input type="text" id="clock-month" placeholder="00"><span class="desc">월</span></span>
+            <span><input type="text" id="clock-day" placeholder="00"><span class="desc">일</span></span>
+          </span>
+          <span class="clock-primary">
+            <span><input type="text" name="clock-hour" id="clock-hour" placeholder="00">시</span>
+            <span><input type="text" name="clock-min" id="clock-min" placeholder="00">분</span>
+          </span>
+          <span class="clock-secondary">
+            :<input type="text" name="clock-sec" id="clock-sec" placeholder="00">
+          </span>
+          <hr>
+          <input type="button" id="reset-btn" value="초기화" disabled>
+        </div>
+      </form>
+    </div>  
+  </header>
+  <section class="clock">
+    <canvas id="analog-clock" class="analog-clock" width="400" height="400"></canvas>
+  </section>
+  <section>
+    <table class="cal" id="cal">
+      <tr>
+        <th class="is-red">SUN</th><th>MON</th><th>THU</th><th>WED</th><th>THU</th><th>FRI</th><th class="is-blue">SAT</th>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
+    </table>  
+  </section>
+  <script type="text/python" src="./app/ui.py"></script>
+  <script type="text/python" src="./app/main.py"></script>
+</body>
+</html>
