@@ -1,47 +1,86 @@
-use std::io;
-use std::collections::HashMap;
-static mut visited_dfs: Vec<i64> = vec!();
-static mut visited_bfs: Vec<i64> = vec!();
+use std::{io, collections::VecDeque};
 
-fn main() {
-  // Init
-  let mut puts = String::new();
-  io::stdin().read_line(&mut puts);
-  let puts: Vec<usize> = puts.split_whitespace()
-    .map(|i| i.parse::<usize>().unwrap())
-    .collect();
+struct Process {
+  visit: Vec<bool>,
+  map: Vec<Vec<usize>>,
+  result: Vec<usize>
+}
 
-  let (n, m, v) = (puts[0], puts[1], puts[2]);
-  let mut hashmap: HashMap<usize, Vec<i64>> = HashMap::new();
-
-  for _ in 0..m {
+impl Process {
+  fn main(&mut self) {
     let mut puts = String::new();
-    io::stdin().read_line(&mut puts);
+    io::stdin().read_line(&mut puts).unwrap();
     let puts: Vec<usize> = puts.split_whitespace()
       .map(|i| i.parse::<usize>().unwrap())
       .collect();
-    
-    if !hashmap.contains_key(&puts[0]) {
-      hashmap.insert(puts[0], Vec::new());
+    let (n, m, v) = (puts[0], puts[1], puts[2]);
+    self.map = vec![Vec::new(); n+1];
+
+    for _ in 0..m {
+      let mut puts = String::new();
+      io::stdin().read_line(&mut puts).unwrap();
+      let puts: Vec<usize> = puts.split_whitespace()
+        .map(|i| i.parse::<usize>().unwrap())
+        .collect();
+      
+      self.map[puts[0]].push(puts[1]);
+      self.map[puts[1]].push(puts[0]);
     }
-    hashmap.get_mut(&puts[0]).unwrap().push(puts[1] as i64);
-  }
-  for (key, value) in &hashmap {
-    println!("{}: {:?}", key, value);
+    for i in 1..(n + 1) {
+      self.map[i].sort();
+    }
+
+    self.visit = vec![false; n+1];
+    self.dfs(v);
+    for res in &self.result {
+      print!("{} ", res);
+    }
+    println!("");
+
+
+    self.result = Vec::new();
+    self.visit = vec![false; n+1];
+    self.bfs(v);
+    for res in &self.result {
+      print!("{} ", res);
+    }
+    println!("");
   }
 
-  // Call DFS
-  dfs(v as i64, &hashmap);
-  // Call BFS
+  fn dfs(&mut self, n: usize) {
+    self.visit[n] = true;
+    self.result.append(&mut vec![n]);
+    for i in 0..self.map[n].len() {
+      let dot: usize = self.map[n][i];
+      if self.visit[dot] {
+        continue;
+      }
+      self.dfs(dot);
+    }
+  }
+
+  fn bfs(&mut self, init: usize) {
+    let mut queue: VecDeque<usize> = VecDeque::new();
+    queue.push_back(init);
+    while queue.len() != 0 {
+      let now = queue.pop_front().unwrap();
+      if self.visit[now] {
+        continue;
+      }
+      self.visit[now] = true;
+      self.result.append(&mut vec![now]);
+      for dot in &self.map[now] {
+        queue.push_back(*dot);
+      }
+    }
+  }
 }
 
-fn dfs(n: i64, hashmap: &HashMap<usize, Vec<i64>>) {
-  visited_dfs.append(&mut vec![n]);
-  for dot in &hashmap[&(n as usize)] {
-    if !visited_dfs.contains(&dot) {
-      dfs(*dot as i64, &hashmap);
-    }
-  }
+fn main() {
+  let mut process = Process {
+    visit: Vec::new(),
+    map: Vec::new(),
+    result: Vec::new()
+  };
+  process.main();
 }
-
-fn bfs() {}
