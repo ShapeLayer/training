@@ -1,0 +1,32 @@
+{
+  "c": {
+    "name": "C",
+    "dir": "c/",
+    "ext": "c",
+    "github-colors": "C"
+  },
+  "cpp": {
+    "name": "C++",
+    "dir": "cpp/",
+    "ext": "cpp",
+    "github-colors": "C++"
+  },
+  "python": {
+    "name": "Python",
+    "dir": "python/",
+    "ext": "py",
+    "github-colors": "Python"
+  },
+  "rust": {
+    "name": "Rust",
+    "dir": "rust/",
+    "ext": "rs",
+    "github-colors": "Rust"
+  },
+  "text": {
+    "name": "Plain Text",
+    "dir": "text/",
+    "ext": "txt",
+    "github-colors": "__NONE__"
+  }
+}
