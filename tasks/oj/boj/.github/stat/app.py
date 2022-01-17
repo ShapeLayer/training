@@ -1,12 +1,24 @@
+from hashlib import new
 import requests
 from json import loads, dumps
 import os
 from collections import deque
 import datetime
+import time
+import argparse
+
+parser = argparse.ArgumentParser(description='README Generator')
+parser.add_argument('--trace', type=int, default=0, help='set 1 to trace run time')
+run_args = parser.parse_args()
 
 C = {
+    'boj_problem': 'https://acmicpc.net/problem/{problem_id}',
     'solved_api': 'https://solved.ac/api/v3/problem/lookup?problemIds={problem_id}',
-    'solved_badge': 'https://static.solved.ac/tier_small/{level}.svg',
+    'solved_badge': 'https://static.solved.ac/tier_small/{problem_level}.svg',
+    'placeholder': 'https://via.placeholder.com/{placeholder_size}/{placeholder_color}/000?text=%20',
+    'language_color': 'https://raw.githubusercontent.com/ozh/github-colors/master/colors.json',
+    'solved_badge_height': 13,
+    'placeholder_size': 13,
     'ext_links': 'extensionlinks.json',
     'dirignore': '.dirignore',
     'path_offset': '../../',
@@ -16,19 +28,38 @@ C = {
 }
 EXT_LINKS = loads(open(C['ext_links']).read())
 IGNORES = open(C['dirignore']).read().split('\n')
-TABLE = open(C['readme_template']).read()
-TABLE_BODY = '''
+TEMPLATE = open(C['readme_template']).read()
+TEMPLATE_BODY = '''
   <tr>
-    <td>{badge} {id} {title}</td>
+    <td><a href="{boj_problem}"><img src="{badge}" height="{badge_height}"> {problem_id} {title}</a></td>
     <td>{links}</td>
   </tr>
-'''
+'''#.format(boj_problem = C['boj_problem'], badge = C['solved_badge'])
+PROB_CACHE_FORMAT = {
+    'latest-update': '',
+    'problems': {
+    }
+}
 
+def debug(fn):
+    def wrapper(*args, **kwargs):
+        if run_args.trace == 1:
+            init = time.time()
+            res = fn(*args, **kwargs)
+            fina = time.time()
+            print('WrokingTime[{}]: {} sec / {} {}'.format(fn.__name__, fina-init, args, kwargs))
+        else:
+            res = fn(*args, **kwargs)
+        return res
+    return wrapper
+
+@debug
 def get(src: str) -> str:
     headers = {'User-Agent': 'Mozilla/5.0'}
     res = requests.get(src, headers=headers)
     return res.text if res.status_code == 200 else None
 
+@debug
 def get_rating(ids: list) -> dict:
     '''
     반환값
@@ -45,17 +76,16 @@ def get_rating(ids: list) -> dict:
     if not res:
         return
     lookups = loads(res)
-    content = {'hello': 'hello'}
+    content = {}
     for lookup in lookups:
         content[lookup['problemId']] = {
             'id': lookup['problemId'],
             'title': lookup['titleKo'],
             'level': lookup['level']
         }
-    print(True)
-    print(content)
     return content
 
+@debug
 def chk_structure(target: str) -> int:
     '''
     인자값
@@ -74,6 +104,7 @@ def chk_structure(target: str) -> int:
     else:
         return 1
 
+@debug
 def problem_index(target: str) -> list:
     '''
     인자값
@@ -104,23 +135,28 @@ def problem_index(target: str) -> list:
                     problems[problem_id] = [[target, path]]
     return problems
 
-def update_cache(problems):
-    cache = loads(open(C['cache']).read())
+@debug
+def update_cache(problems: list) -> None:
+    cache = PROB_CACHE_FORMAT
+    if os.path.isfile(C['cache']):
+        cache = loads(open(C['cache']).read())
+        latest_update = datetime.datetime.strptime(cache['latest-update'], '%Y-%m-%d %H:%M:%S.%f')
+        if (datetime.datetime.utcnow() - latest_update).days > 14:
+            cache = PROB_CACHE_FORMAT
     problems_cache = cache['problems'].keys()
     arr = []
     for problem in problems:
         if problem not in problems_cache:
             arr += [problem]
-    ratings = get_rating(arr)
-    print(ratings)
-    print(True)
-    cache['problems'].update(ratings)
-    cache['latest-update'] = str(datetime.datetime.now())
+    for i in arr:
+        cache['problems'].update(get_rating([i]))
+    cache['latest-update'] = str(datetime.datetime.utcnow())
     with open(C['cache'], 'w', encoding='utf-8') as f:
         f.write(dumps(cache, ensure_ascii=False, indent=2))
-
-def get_from_cache():
+@debug
+def get_from_cache(problem: str) -> dict:
     cache = loads(open(C['cache']).read())
+    return cache['problems'][problem]
 
 if __name__ == '__main__':
     langs = os.listdir(C['path_offset']) # 'boj' directory
@@ -128,5 +164,38 @@ if __name__ == '__main__':
     for lang in langs:
         if lang in IGNORES:
             continue
+        getted_problem = problem_index(lang)
+        for problem in getted_problem:
+            if problem in problems:
+                problems[problem] += [getted_problem[problem]]
+            else:
+                problems[problem] = [getted_problem[problem]]
         problems.update(problem_index(lang))
     update_cache(problems.keys())
+    COLOR = loads(get(C['language_color']))
+    body = ''
+    for problem_int in sorted(list(map(int, problems.keys()))):
+        problem = str(problem_int)
+        problem_info = get_from_cache(problem)
+        links = []
+        for file in sorted(problems[problem]):
+            language_color = 'fff'
+            if file[0] in EXT_LINKS and EXT_LINKS[file[0]]['github-colors'] != '__NONE__':
+                language_color = COLOR[EXT_LINKS[file[0]]['github-colors']]['color'][1:]
+            links += ['<a href="{src}"><img src="{placeholder}"> {language}</a>'.format(
+                src=file[1],
+                placeholder=C['placeholder'].format(placeholder_size=C['placeholder_size'], placeholder_color=language_color),
+                language=EXT_LINKS[file[0]]['name']
+            )]
+        body += TEMPLATE_BODY.format(
+            boj_problem = C['boj_problem'].format(problem_id=problem),
+            badge = C['solved_badge'].format(problem_level=problem_info['level']),
+            badge_height = C['solved_badge_height'],
+            problem_id = problem,
+            title = problem_info['title'],
+            problem_level = problem_info['level'],
+            links = '<br>'.join(links)
+        )
+    rendered = TEMPLATE.format(table_body=body)
+    with open(C['path_offset']+'README.md', 'w', encoding='utf-8') as f:
+        f.write(rendered)
