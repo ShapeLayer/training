@@ -108,7 +108,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1260"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 1260 DFS와 BFS</a></td>
-    <td><a href="./rust/1260.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./python/1/1260.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -363,7 +363,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2667"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 2667 단지번호붙이기</a></td>
-    <td><a href="./rust/2667.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./python/2/2667.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
