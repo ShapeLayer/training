@@ -6,5 +6,8 @@ while not talent:
     effort()
 ```
 
+## Shortcut
 * [Baekjoon Online Judge Solutions](./tasks/oj/boj/)
-* [Baekjoon Online Judge Profile](https://www.acmicpc.net/user/belline0124)  
+* [Programmers Solutions](./tasks/oj/programmers)
+* [Euler Online Judge Solutions](./tasks/oj/euleroj)
+* LeetCode

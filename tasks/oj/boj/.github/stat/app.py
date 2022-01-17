@@ -29,6 +29,15 @@ C = {
 EXT_LINKS = loads(open(C['ext_links']).read())
 IGNORES = open(C['dirignore']).read().split('\n')
 TEMPLATE = open(C['readme_template']).read()
+TEMPLATE_WRAPPER = '''
+<table>
+  <tr>
+    <th>문제</th>
+    <th>코드</th>
+  </tr>
+  {table_body}
+</table>
+'''
 TEMPLATE_BODY = '''
   <tr>
     <td><a href="{boj_problem}"><img src="{badge}" height="{badge_height}"> {problem_id} {title}</a></td>
@@ -196,6 +205,10 @@ if __name__ == '__main__':
             problem_level = problem_info['level'],
             links = '<br>'.join(links)
         )
-    rendered = TEMPLATE.format(table_body=body)
+    rendered = TEMPLATE.format(
+        statis_table=TEMPLATE_WRAPPER.format(
+            table_body=body
+        )
+    )
     with open(C['path_offset']+'README.md', 'w', encoding='utf-8') as f:
         f.write(rendered)
