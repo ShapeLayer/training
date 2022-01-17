@@ -153,6 +153,7 @@ def update_cache(problems: list) -> None:
     cache['latest-update'] = str(datetime.datetime.utcnow())
     with open(C['cache'], 'w', encoding='utf-8') as f:
         f.write(dumps(cache, ensure_ascii=False, indent=2))
+
 @debug
 def get_from_cache(problem: str) -> dict:
     cache = loads(open(C['cache']).read())
@@ -167,10 +168,9 @@ if __name__ == '__main__':
         getted_problem = problem_index(lang)
         for problem in getted_problem:
             if problem in problems:
-                problems[problem] += [getted_problem[problem]]
+                problems[problem] += getted_problem[problem]
             else:
-                problems[problem] = [getted_problem[problem]]
-        problems.update(problem_index(lang))
+                problems[problem] = getted_problem[problem]
     update_cache(problems.keys())
     COLOR = loads(get(C['language_color']))
     body = ''
