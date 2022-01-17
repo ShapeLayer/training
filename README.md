@@ -6,7 +6,7 @@ while not talent:
     effort()
 ```
 
-## Shortcut
+## Shortcuts
 * [Baekjoon Online Judge Solutions](./tasks/oj/boj/)
 * [Programmers Solutions](./tasks/oj/programmers)
 * [Euler Online Judge Solutions](./tasks/oj/euleroj)
