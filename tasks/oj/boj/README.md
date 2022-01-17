@@ -745,18 +745,13 @@
   </tr>
 
   <tr>
-    <td><a href="https://acmicpc.net/problem/10849"><img src="https://static.solved.ac/tier_small/18.svg" height="13"> 10849 A Journey to Greece</a></td>
-    <td><a href="./python/10/10849.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
-  </tr>
-
-  <tr>
     <td><a href="https://acmicpc.net/problem/10866"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10866 덱</a></td>
     <td><a href="./python/10/10866.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
     <td><a href="https://acmicpc.net/problem/10869"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10869 사칙연산</a></td>
-    <td><a href="./cpp/10869.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./rust/10869.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/10869.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10869.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10869.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
