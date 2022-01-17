@@ -6,7 +6,5 @@ while not talent:
     effort()
 ```
 
----
-## Related Link
-[Baekjoon Online Judge Profile](https://www.acmicpc.net/user/belline0124)  
-
+* [Baekjoon Online Judge Solutions](./tasks/oj/boj/)
+* [Baekjoon Online Judge Profile](https://www.acmicpc.net/user/belline0124)  
