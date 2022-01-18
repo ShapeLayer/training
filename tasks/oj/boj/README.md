@@ -425,6 +425,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2805"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2805 나무 자르기</a></td>
+    <td><a href="./rust/2805.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2839"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2839 설탕 배달</a></td>
     <td><a href="./python/2/2839.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
