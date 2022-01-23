@@ -160,6 +160,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1697"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1697 숨바꼭질</a></td>
+    <td><a href="./rust/1697.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1712"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1712 손익분기점</a></td>
     <td><a href="./python/1/1712.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
