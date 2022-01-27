@@ -645,6 +645,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9655"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 9655 돌 게임</a></td>
+    <td><a href="./rust/9655.1.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./rust/9655.2.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9999"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 9999 구구</a></td>
     <td><a href="./text/9999.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Plain Text</a></td>
   </tr>
