@@ -160,6 +160,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1697"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1697 숨바꼭질</a></td>
+    <td><a href="./rust/1697.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1712"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1712 손익분기점</a></td>
     <td><a href="./python/1/1712.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -177,6 +182,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1837"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1837 암호제작</a></td>
     <td><a href="./python/1/1837.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1904"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1904 01타일</a></td>
+    <td><a href="./rust/1904.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -587,6 +597,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/9085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9085 더하기</a></td>
     <td><a href="./cpp/9085.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/9184"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 9184 신나는 함수 실행</a></td>
+    <td><a href="./rust/9184.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
