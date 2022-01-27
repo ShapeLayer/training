@@ -330,6 +330,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2565"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2565 전깃줄</a></td>
+    <td><a href="./rust/2565.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2573"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 2573 빙산</a></td>
     <td><a href="./python/2/2573.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -842,6 +847,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11050"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 11050 이항 계수 1</a></td>
     <td><a href="./python/11/11050.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11053"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 11053 가장 긴 증가하는 부분 수열</a></td>
+    <td><a href="./rust/11053.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
