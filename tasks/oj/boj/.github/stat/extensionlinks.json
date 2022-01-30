@@ -11,6 +11,18 @@
     "ext": "cpp",
     "github-colors": "C++"
   },
+  "cs": {
+    "name": "C#",
+    "dir": "cs/",
+    "ext": "cs",
+    "github-colors": "C#"
+  },
+  "java": {
+    "name": "Java",
+    "dir": "java/",
+    "ext": "java",
+    "github-colors": "Java"
+  },
   "python": {
     "name": "Python",
     "dir": "python/",

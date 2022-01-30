@@ -136,7 +136,7 @@ def problem_index(target: str) -> list:
         dir_offset += '/' if dir_offset != '' else ''
         for f in os.listdir(langdir+dir_offset):
             if f.split('.')[-1] == EXT_LINKS[target]['ext']:
-                problem_id = f.split('.')[0]
+                problem_id = f.split('.')[0].replace('_', '')
                 path = C['root_offset'] + EXT_LINKS[target]['dir'] + dir_offset + f
                 if problem_id in problems:
                     problems[problem_id] += [[target, path]]
@@ -148,7 +148,7 @@ def problem_index(target: str) -> list:
 def update_cache(problems: list) -> None:
     cache = PROB_CACHE_FORMAT
     if os.path.isfile(C['cache']):
-        cache = loads(open(C['cache']).read())
+        cache = loads(open(C['cache'], encoding='utf-8').read())
         latest_update = datetime.datetime.strptime(cache['latest-update'], '%Y-%m-%d %H:%M:%S.%f')
         if (datetime.datetime.utcnow() - latest_update).days > 14:
             cache = PROB_CACHE_FORMAT
@@ -165,7 +165,7 @@ def update_cache(problems: list) -> None:
 
 @debug
 def get_from_cache(problem: str) -> dict:
-    cache = loads(open(C['cache']).read())
+    cache = loads(open(C['cache'], encoding='utf-8').read())
     return cache['problems'][problem]
 
 if __name__ == '__main__':
