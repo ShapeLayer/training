@@ -525,6 +525,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/4659"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 4659 비밀번호 발음하기</a></td>
+    <td><a href="./python/4/4659.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/4673"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 4673 셀프 넘버</a></td>
     <td><a href="./python/4/4673.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -710,6 +715,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10384"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 10384 팬그램</a></td>
+    <td><a href="./python/10/10384.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10430"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10430 나머지</a></td>
     <td><a href="./cpp/10430.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10430.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -885,6 +895,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11650"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11650 좌표 정렬하기</a></td>
+    <td><a href="./rust/11650.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11653"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11653 소인수분해</a></td>
     <td><a href="./cpp/11653.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/11/11653.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1007,6 +1022,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/18258"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 18258 큐 2</a></td>
     <td><a href="./python/18/18258.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/18388"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 18388 SECHT</a></td>
+    <td><a href="./python/18/18388.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
