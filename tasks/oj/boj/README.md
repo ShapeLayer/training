@@ -615,6 +615,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9252"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 9252 LCS 2</a></td>
+    <td><a href="./rust/9252.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9325"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9325 얼마?</a></td>
     <td><a href="./python/9/9325.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
