@@ -925,6 +925,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/14501"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 14501 퇴사</a></td>
+    <td><a href="./rust/14501.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/14659"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 14659 한조서열정리하고옴ㅋㅋ</a></td>
     <td><a href="./cpp/14659.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
