@@ -11,12 +11,12 @@
   
   <tr>
     <td><a href="https://acmicpc.net/problem/1000"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1000 A+B</a></td>
-    <td><a href="./cpp/1000.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/1/1000.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1000.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/1000.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1000.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1000.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1000.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1001"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1001 A-B</a></td>
-    <td><a href="./cpp/1001.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/1/1001.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1001.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/1001.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1001.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1001.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1001.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -321,7 +321,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2557"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2557 Hello World</a></td>
-    <td><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/_2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -696,12 +696,12 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/10171"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10171 고양이</a></td>
-    <td><a href="./cpp/10171.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10171.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10171.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/10171.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/10171.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/10/10171.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10171.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
     <td><a href="https://acmicpc.net/problem/10172"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10172 개</a></td>
-    <td><a href="./cpp/10172.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10172.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10172.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/10172.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/10172.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/10/10172.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10172.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -736,7 +736,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/10718"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10718 We love kriii</a></td>
-    <td><a href="./cpp/10718.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10718.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10718.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/10718.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/10718.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/10/10718.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10718.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
