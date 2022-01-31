@@ -755,6 +755,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10798"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 10798 세로읽기</a></td>
+    <td><a href="./java/10798.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10808"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10808 알파벳 개수</a></td>
     <td><a href="./cpp/10808.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
@@ -822,6 +827,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10886"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10886 0 = not cute / 1 = cute</a></td>
     <td><a href="./python/10/10886.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10926"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10926 ??!</a></td>
+    <td><a href="./java/10926.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -915,6 +925,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11942"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 11942 고려대는 사랑입니다</a></td>
+    <td><a href="./java/11942.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/12092"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 12092 포켓몬 GO 진화</a></td>
     <td><a href="./python/12/12092.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -985,6 +1000,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/15680"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 15680 연세대학교</a></td>
+    <td><a href="./java/15680.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/15736"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 15736 청기 백기</a></td>
     <td><a href="./python/15/15736.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1017,6 +1037,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/17521"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 17521 Byte Coin</a></td>
     <td><a href="./cpp/17521.1.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cpp/17521.2.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/18108"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 18108 1998년생인 내가 태국에서는 2541년생?!</a></td>
+    <td><a href="./java/18108.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
