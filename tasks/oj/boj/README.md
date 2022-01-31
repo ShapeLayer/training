@@ -11,12 +11,12 @@
   
   <tr>
     <td><a href="https://acmicpc.net/problem/1000"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1000 A+B</a></td>
-    <td><a href="./cpp/1000.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1000.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1000.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1000.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/1000.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/1000.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1000.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1000.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1000.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1001"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1001 A-B</a></td>
-    <td><a href="./cpp/1001.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1001.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1001.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1001.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/1001.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/1001.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1001.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1001.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1001.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -321,7 +321,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2557"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2557 Hello World</a></td>
-    <td><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -755,6 +755,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10798"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 10798 세로읽기</a></td>
+    <td><a href="./java/10798.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10808"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10808 알파벳 개수</a></td>
     <td><a href="./cpp/10808.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
@@ -825,6 +830,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10926"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10926 ??!</a></td>
+    <td><a href="./java/10926.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10950"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10950 A+B - 3</a></td>
     <td><a href="./python/10/10950.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -851,7 +861,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/10998"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10998 A×B</a></td>
-    <td><a href="./cpp/10998.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10998.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10998.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/10998.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/10998.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10998.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10998.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -912,6 +922,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11720"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 11720 숫자의 합</a></td>
     <td><a href="./python/11/11720.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11942"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 11942 고려대는 사랑입니다</a></td>
+    <td><a href="./java/11942.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -985,6 +1000,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/15680"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 15680 연세대학교</a></td>
+    <td><a href="./java/15680.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/15736"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 15736 청기 백기</a></td>
     <td><a href="./python/15/15736.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1010,6 +1030,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/17009"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 17009 Winning Score</a></td>
+    <td><a href="./java/17009.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/17202"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 17202 핸드폰 번호 궁합</a></td>
     <td><a href="./python/17/17202.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1017,6 +1042,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/17521"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 17521 Byte Coin</a></td>
     <td><a href="./cpp/17521.1.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cpp/17521.2.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/18108"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 18108 1998년생인 내가 태국에서는 2541년생?!</a></td>
+    <td><a href="./java/18108.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>

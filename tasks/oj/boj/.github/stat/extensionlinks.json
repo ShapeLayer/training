@@ -1,4 +1,10 @@
 {
+  "aheui": {
+    "name": "아희",
+    "dir": "aheui/",
+    "ext": "aheui",
+    "github-colors": "__NONE__"
+  },
   "c": {
     "name": "C",
     "dir": "c/",

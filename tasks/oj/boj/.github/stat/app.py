@@ -26,9 +26,9 @@ C = {
     'readme_template': 'template.md',
     'cache': 'cache.json'
 }
-EXT_LINKS = loads(open(C['ext_links']).read())
-IGNORES = open(C['dirignore']).read().split('\n')
-TEMPLATE = open(C['readme_template']).read()
+EXT_LINKS = loads(open(C['ext_links'], encoding='utf-8').read())
+IGNORES = open(C['dirignore'], encoding='utf-8').read().split('\n')
+TEMPLATE = open(C['readme_template'], encoding='utf-8').read()
 TEMPLATE_WRAPPER = '''
 <table>
   <tr>
