@@ -230,6 +230,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2149"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 2149 암호 해독</a></td>
+    <td><a href="./python/2/2149.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2164"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 2164 카드2</a></td>
     <td><a href="./python/2/2164.1.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./python/2/2164.2.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -937,6 +942,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/12092"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 12092 포켓몬 GO 진화</a></td>
     <td><a href="./python/12/12092.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/12760"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 12760 최후의 승자는 누구?</a></td>
+    <td><a href="./cs/12760.1.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./cs/12760.2.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
   </tr>
 
   <tr>
