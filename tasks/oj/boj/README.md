@@ -11,12 +11,12 @@
   
   <tr>
     <td><a href="https://acmicpc.net/problem/1000"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1000 A+B</a></td>
-    <td><a href="./aheui/1000.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/1000.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1000.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1000.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1000.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/1000.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/1000.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cs/1000.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/1000.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1000.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1000.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1001"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1001 A-B</a></td>
-    <td><a href="./aheui/1001.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/1001.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./java/1001.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1001.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1001.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/1001.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/1001.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cs/1001.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/1001.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/1/1001.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1001.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -36,7 +36,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1008"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1008 A/B</a></td>
-    <td><a href="./cpp/1008.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/1/1008.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1008.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./cpp/1008.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cs/1008.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./python/1/1008.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1008.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -730,6 +730,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10610"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 10610 30</a></td>
+    <td><a href="./cs/10610.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10699"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10699 오늘 날짜</a></td>
     <td><a href="./python/10/10699.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -861,7 +866,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/10998"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10998 A×B</a></td>
-    <td><a href="./aheui/10998.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/10998.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/10/10998.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10998.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./aheui/10998.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/10998.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cs/10998.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./python/10/10998.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10998.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
