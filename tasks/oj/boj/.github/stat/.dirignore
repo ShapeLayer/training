@@ -1,3 +1,5 @@
 .github
 .DS_Store
 README.md
+run.sh
+run.bat
