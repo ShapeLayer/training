@@ -500,6 +500,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/3040"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 3040 백설 공주와 일곱 난쟁이</a></td>
+    <td><a href="./java/3040.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/3046"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 3046 R2</a></td>
     <td><a href="./python/3/3046.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -612,6 +617,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/9020"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 9020 골드바흐의 추측</a></td>
     <td><a href="./python/9/9020.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/9076"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 9076 점수 집계</a></td>
+    <td><a href="./java/9076.1.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./java/9076.2.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
