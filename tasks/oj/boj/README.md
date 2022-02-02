@@ -70,6 +70,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1049"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1049 기타줄</a></td>
+    <td><a href="./rust/1049.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1065"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1065 한수</a></td>
     <td><a href="./python/1/1065.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
