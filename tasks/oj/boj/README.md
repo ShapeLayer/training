@@ -150,6 +150,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1380"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1380 귀걸이</a></td>
+    <td><a href="./rust/1380.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1427"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1427 소트인사이드</a></td>
     <td><a href="./python/1/1427.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
