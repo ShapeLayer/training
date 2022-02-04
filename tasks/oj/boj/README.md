@@ -305,6 +305,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2475"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2475 검증수</a></td>
+    <td><a href="./python/2/2475.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2476"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2476 주사위 게임</a></td>
     <td><a href="./python/2/2476.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -397,6 +402,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2628"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2628 종이자르기</a></td>
     <td><a href="./python/2/2628.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2635"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2635 수 이어가기</a></td>
+    <td><a href="./rust/2635.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
