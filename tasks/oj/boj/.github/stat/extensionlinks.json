@@ -41,6 +41,12 @@
     "ext": "rs",
     "github-colors": "Rust"
   },
+  "swift": {
+    "name": "Swift",
+    "dir": "swift/",
+    "ext": "swift",
+    "github-colors": "Swift"
+  },
   "text": {
     "name": "Plain Text",
     "dir": "text/",
