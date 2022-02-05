@@ -35,6 +35,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1005"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1005 ACM Craft</a></td>
+    <td><a href="./rust/1005.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1008"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1008 A/B</a></td>
     <td><a href="./cpp/1008.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./cs/1008.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./python/1/1008.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1008.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -1012,6 +1017,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/14501"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 14501 퇴사</a></td>
     <td><a href="./rust/14501.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/14567"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 14567 선수과목 (Prerequisite)</a></td>
+    <td><a href="./python/14/14567.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
