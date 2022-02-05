@@ -52,5 +52,11 @@
     "dir": "text/",
     "ext": "txt",
     "github-colors": "__NONE__"
+  },
+  "umm": {
+    "name": "엄준식",
+    "dir": "umm/",
+    "ext": "umm",
+    "github-colors": "__NONE__"
   }
 }
