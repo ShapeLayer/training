@@ -170,6 +170,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1463"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1463 1로 만들기</a></td>
+    <td><a href="./rust/1463.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1475"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1475 방 번호</a></td>
     <td><a href="./python/1/1475.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -212,6 +217,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1904"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1904 01타일</a></td>
     <td><a href="./rust/1904.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1912"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 1912 연속합</a></td>
+    <td><a href="./rust/1912.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
