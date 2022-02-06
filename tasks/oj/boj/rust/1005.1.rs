@@ -1,4 +1,4 @@
-// Kahn's algorithm
+// BFS: TimeOver
 use std::{io::{BufRead, BufWriter, Write}, collections::VecDeque};
 
 fn main() {
@@ -6,13 +6,12 @@ fn main() {
   let mut stdin = stdin.lock();
   let stdout = std::io::stdout();
   let mut stdout = BufWriter::new(stdout.lock());
-  // Input number of testcase (t)
+  // Input testcase (t)
   let mut puts = String::new();
   stdin.read_line(&mut puts).ok();
   let t: i32 = puts.trim().parse::<i32>().unwrap();
-  // Loop for testcases
   for _ in 0..t {
-    // Input number of buildings (n), number of constructing order (k)
+    // Input n(number of buildings), k(number of order of buildings)
     puts.clear();
     stdin.read_line(&mut puts).ok();
     let (n, k) = {
@@ -21,17 +20,19 @@ fn main() {
         .collect();
       (split[0], split[1])
     };
-    // Input time that consumes during construct (Dn)
+    // Input times of during building buildings
     puts = String::from("0 ");
     stdin.read_line(&mut puts).ok();
-    let consumes: Vec<i32> = puts.split_whitespace()
+    let during: Vec<i32> = puts.split_whitespace()
       .map(|x| x.parse::<i32>().unwrap())
       .collect();
-    // Input constructing rules (Xn, Yn)
-    let mut map: Vec<Vec<i32>> = vec![Vec::new(); (n+1) as usize];
-    let mut requirements: Vec<Vec<i32>> = vec![Vec::new(); (n+1) as usize];
+    // Input order of buildings
     let mut incomes: Vec<i32> = vec![0; (n+1) as usize];
-    for _i in 0..k {
+     // map[key: prev] = value: vec![next]
+    let mut map: Vec<Vec<i32>> = vec![Vec::new(); (n+1) as usize];
+     // requirements[key: next] = value: vec![prev]
+    let mut requirements: Vec<Vec<i32>> = vec![Vec::new(); (n+1) as usize];
+    for __ in 0..k {
       puts.clear();
       stdin.read_line(&mut puts).ok();
       let (prev, next) = {
@@ -44,38 +45,40 @@ fn main() {
       requirements[next as usize].append(&mut vec![prev]);
       incomes[next as usize] += 1;
     }
-    // Input target building that user can be winner (w)
+    // Input target building(terminal point)
     puts.clear();
     stdin.read_line(&mut puts).ok();
-    let w: i32 = puts.trim().parse::<i32>().unwrap();
-    // Init process
-    let mut elapsed_time: Vec<i32> = vec![0; (n+1) as usize];
+    let target: i32 = puts.trim().parse::<i32>().unwrap();
+    // Init queue
     let mut queue: VecDeque<i32> = VecDeque::new();
-    for i in 1..(n+1) {
-      if incomes[i as usize] == 0 { queue.push_back(i); }
+    for i in 1..n+1 {
+      if incomes[i as usize] == 0 {
+        queue.push_back(i);
+      }
     }
-    // Process
+    // Process queue
+    let mut elapsed_time: Vec<i32> = vec![0; (n+1) as usize];
     while !queue.is_empty() {
-      let now: i32 = queue.pop_front().unwrap();
+      let now = queue.pop_front().unwrap();
+      if incomes[now as usize] != 0 { continue; }
+      // Update queue
+      for dot in &map[now as usize] {
+        queue.push_back(*dot);
+        if incomes[*dot as usize] != 0 {
+          incomes[*dot as usize] -= 1;
+        }
+      }
       let mut prev_elapsed_times: Vec<i32> = Vec::new();
-      for i in 0..requirements[now as usize].len() {
-        prev_elapsed_times.append(&mut vec![elapsed_time[requirements[now as usize][i as usize] as usize]]);
+      for prev in &requirements[now as usize] {
+        prev_elapsed_times.append(&mut vec![elapsed_time[*prev as usize]])
       }
       let mut prev_elapsed_time = 0;
       match prev_elapsed_times.iter().max() {
         Some(x) => prev_elapsed_time = *x,
         None => prev_elapsed_time = 0
-      }
-      elapsed_time[now as usize] = consumes[now as usize] + prev_elapsed_time;
-      for i in 0..map[now as usize].len() {
-        if incomes[map[now as usize][i as usize] as usize] > 0 {
-          incomes[map[now as usize][i as usize] as usize] -= 1;
-        }
-        if incomes[map[now as usize][i as usize] as usize] == 0 {
-          queue.push_back(map[now as usize][i as usize]);
-        }
-      }
+      };
+      elapsed_time[now as usize] = during[now as usize] + prev_elapsed_time;
     }
-    writeln!(stdout, "{}", elapsed_time[w as usize]).ok();
+    writeln!(stdout, "{}", elapsed_time[target as usize]).ok();
   }
 }
