@@ -65,6 +65,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1026"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1026 보물</a></td>
+    <td><a href="./rust/1026.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1032"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1032 명령 프롬프트</a></td>
     <td><a href="./python/1/1032.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1040,6 +1045,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/13335"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 13335 트럭</a></td>
+    <td><a href="./rust/13335.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/13458"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 13458 시험 감독</a></td>
     <td><a href="./cpp/13458.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/13/13458.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1122,6 +1132,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/16600"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 16600 Contemporary Art</a></td>
     <td><a href="./python/16/16600.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/16677"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 16677 악마 게임</a></td>
+    <td><a href="./rust/16677.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
