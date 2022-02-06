@@ -280,6 +280,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2302"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 2302 극장 좌석</a></td>
+    <td><a href="./rust/2302.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2303"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2303 숫자 게임</a></td>
     <td><a href="./python/2/2303.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -325,6 +330,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2445"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2445 별 찍기 - 8</a></td>
+    <td><a href="./java/2445.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2446"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2446 별 찍기 - 9</a></td>
+    <td><a href="./java/2446.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2475"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2475 검증수</a></td>
     <td><a href="./python/2/2475.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -347,6 +362,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2512"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2512 예산</a></td>
     <td><a href="./python/2/2512.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2522"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2522 별 찍기 - 12</a></td>
+    <td><a href="./java/2522.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2523"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2523 별 찍기 - 13</a></td>
+    <td><a href="./java/2523.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
