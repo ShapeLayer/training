@@ -14,3 +14,11 @@ while not talent:
 **Minor Online Judges**
 * [Programmers Solutions](./tasks/oj/programmers)
 * [Euler Online Judge Solutions](./tasks/oj/euleroj)
+
+## Directories
+* [`/implementations`](./implementations/) - Small size toy projects
+* [`/notes`](./notes/) - Today I Learned
+* [`/tasks`](./tasks/) - Algorithm problems
+  * [`/tasks/books`](./tasks/books/) - Textbook training problmes solutions
+  * [`/tasks/lectures`](./tasks/lectures/) - University programming lecture homeworks
+  * [`/tasks/oj`](./tasks/oj/) - Online judge solutions
