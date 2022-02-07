@@ -391,7 +391,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2557"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2557 Hello World</a></td>
-    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/2557.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./swift/2557.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a><br><a href="./text/2557.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Plain Text</a><br><a href="./umm/2557.umm"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 엄준식</a></td>
+    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/2557.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./swift/2557.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a><br><a href="./text/2557.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a><br><a href="./umm/2557.umm"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 엄준식</a></td>
   </tr>
 
   <tr>
@@ -636,7 +636,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/5338"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5338 마이크로소프트 로고</a></td>
-    <td><a href="./text/5338.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Plain Text</a></td>
+    <td><a href="./text/5338.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
   </tr>
 
   <tr>
@@ -756,7 +756,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/9999"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 9999 구구</a></td>
-    <td><a href="./text/9999.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Plain Text</a></td>
+    <td><a href="./text/9999.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
   </tr>
 
   <tr>
@@ -1126,7 +1126,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/15802"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 15802 타노스</a></td>
-    <td><a href="./python/15/15802.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./text/15802.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Plain Text</a></td>
+    <td><a href="./python/15/15802.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./text/15802.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
   </tr>
 
   <tr>
@@ -1176,7 +1176,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/18822"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 18822 Beginning the Hunt</a></td>
-    <td><a href="./text/18822.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Plain Text</a></td>
+    <td><a href="./text/18822.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
   </tr>
 
   <tr>
