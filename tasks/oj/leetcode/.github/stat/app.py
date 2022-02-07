@@ -11,12 +11,21 @@ parser.add_argument('--trace', type=int, default=0, help='set 1 to trace run tim
 run_args = parser.parse_args()
 
 C = {
-    'boj_problem': 'https://acmicpc.net/problem/{problem_id}',
-    'solved_api': 'https://solved.ac/api/v3/problem/lookup?problemIds={problem_id}',
-    'solved_badge': 'https://static.solved.ac/tier_small/{problem_level}.svg',
+    'leetcode_problem': 'https://leetcode.com/problems/{slug}',
+    'leetcode_api': 'https://leetcode.com/api/problems/algorithms',
+    'leetcode_badges': {
+        'easy': 'https://img.shields.io/badge/-easy-brightgreen',
+        'medium': 'https://img.shields.io/badge/-medium-yellow',
+        'hard': 'https://img.shields.io/badge/-hard-red'
+    },
+    'leetcode_level_support': {
+        1: 'easy',
+        2: 'medium',
+        3: 'hard'
+    },
     'placeholder': 'https://via.placeholder.com/{placeholder_size}/{placeholder_color}/000?text=%20',
     'language_color': 'https://raw.githubusercontent.com/ozh/github-colors/master/colors.json',
-    'solved_badge_height': 13,
+    'shield_badge_size': "",
     'placeholder_size': 13,
     'ext_links': 'extensionlinks.json',
     'dirignore': '.dirignore',
@@ -31,6 +40,7 @@ TEMPLATE = open(C['readme_template'], encoding='utf-8').read()
 TEMPLATE_WRAPPER = '''
 <table>
   <tr>
+    <th>난이도</th>
     <th>문제</th>
     <th>코드</th>
   </tr>
@@ -39,7 +49,8 @@ TEMPLATE_WRAPPER = '''
 '''
 TEMPLATE_BODY = '''
   <tr>
-    <td><a href="{boj_problem}"><img src="{badge}" height="{badge_height}"> {problem_id} {title}</a></td>
+    <td><img src="{level_badge}" height="{badge_height}"></td>
+    <td><a href="{leetcode_problem}">{problem_id}. {title}</a></td>
     <td>{links}</td>
   </tr>
 '''#.format(boj_problem = C['boj_problem'], badge = C['solved_badge'])
@@ -66,32 +77,6 @@ def get(src: str) -> str:
     headers = {'User-Agent': 'Mozilla/5.0'}
     res = requests.get(src, headers=headers)
     return res.text if res.status_code == 200 else None
-
-@debug
-def get_rating(ids: list) -> dict:
-    '''
-    반환값
-    {
-        "id" : {
-            "id": 0
-            "title": "title",
-            "level": 0
-        },
-        ...
-    }
-    '''
-    res = get(C['solved_api'].format(problem_id=','.join(ids)))
-    if not res:
-        return
-    lookups = loads(res)
-    content = {}
-    for lookup in lookups:
-        content[lookup['problemId']] = {
-            'id': lookup['problemId'],
-            'title': lookup['titleKo'],
-            'level': lookup['level']
-        }
-    return content
 
 @debug
 def chk_structure(target: str) -> int:
@@ -145,30 +130,51 @@ def problem_index(target: str) -> list:
 
 @debug
 def update_cache(problems: list) -> None:
-    cache = PROB_CACHE_FORMAT
+    # Check if update needed
+    is_update_needed = False
     if os.path.isfile(C['cache']):
         cache = loads(open(C['cache'], encoding='utf-8').read())
-        latest_update = datetime.datetime.strptime(cache['latest-update'], '%Y-%m-%d %H:%M:%S.%f')
-        if (datetime.datetime.utcnow() - latest_update).days > 14:
-            cache = PROB_CACHE_FORMAT
-    problems_cache = cache['problems'].keys()
-    arr = []
-    for problem in problems:
-        if problem not in problems_cache:
-            arr += [problem]
-    for i in arr:
-        cache['problems'].update(get_rating([i]))
-    cache['latest-update'] = str(datetime.datetime.utcnow())
+        if 'problems' in cache:
+            cache = cache['problems']
+            for problem in problems:
+                if problem not in cache.keys():
+                    is_update_needed = True
+        else:
+            is_update_needed = True
+    else:
+        is_update_needed = True
+    if not is_update_needed:
+        return
+
+    cache = PROB_CACHE_FORMAT
+    leetcode_data = get(C['leetcode_api'])
+    if not leetcode_data:
+        return
+    else:
+        leetcode_data = loads(leetcode_data)['stat_status_pairs']
+    problem_data = {}
+    for problem in leetcode_data:
+        id = problem['stat']['question_id']
+        title = problem['stat']['question__title']
+        slug = problem['stat']['question__title_slug']
+        level = problem['difficulty']['level']
+        problem_data[id] = {
+            'id': id,
+            'title': title,
+            'slug': slug,
+            'level': level
+        }
+    cache['problems'] = problem_data
     with open(C['cache'], 'w', encoding='utf-8') as f:
         f.write(dumps(cache, ensure_ascii=False, indent=2))
 
 @debug
 def get_from_cache(problem: str) -> dict:
     cache = loads(open(C['cache'], encoding='utf-8').read())
-    return cache['problems'][problem]
+    return cache['problems'][problem] if problem in cache['problems'] else None
 
 if __name__ == '__main__':
-    langs = os.listdir(C['path_offset']) # 'boj' directory
+    langs = os.listdir(C['path_offset']) # 'leetcode' directory
     problems = {}
     for lang in langs:
         if lang in IGNORES:
@@ -195,13 +201,13 @@ if __name__ == '__main__':
                 placeholder=C['placeholder'].format(placeholder_size=C['placeholder_size'], placeholder_color=language_color),
                 language=EXT_LINKS[file[0]]['name']
             )]
+        level = C['leetcode_level_support'][problem_info['level']]
         body += TEMPLATE_BODY.format(
-            boj_problem = C['boj_problem'].format(problem_id=problem),
-            badge = C['solved_badge'].format(problem_level=problem_info['level']),
-            badge_height = C['solved_badge_height'],
+            leetcode_problem = C['leetcode_problem'].format(slug=problem_info['slug']),
+            level_badge = C['leetcode_badges'][level],
+            badge_height = C['shield_badge_size'],
             problem_id = problem,
             title = problem_info['title'],
-            problem_level = problem_info['level'],
             links = '<br>'.join(links)
         )
     rendered = TEMPLATE.format(

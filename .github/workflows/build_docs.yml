@@ -15,10 +15,17 @@ jobs:
         uses: actions/setup-python@v2
         with: 
           python-version: '3.x'
-      - name: Install dependencies & Run Build Code
+      - name: Upgrade PIP
+        run: |
+          python -m pip install --upgrade pip
+      - name: Install dependencies & Run BOJ README Build Code
         run: |
           cd tasks/oj/boj/.github/stat 
-          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python app.py
+      - name: Install dependencies & Run LeetCode README Build Code
+        run: |
+          cd tasks/oj/leetcode/.github/stat 
           pip install -r requirements.txt
           python app.py
       - name: Commit build

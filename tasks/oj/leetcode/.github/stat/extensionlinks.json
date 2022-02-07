@@ -1,0 +1,62 @@
+{
+  "aheui": {
+    "name": "아희",
+    "dir": "aheui/",
+    "ext": "aheui",
+    "github-colors": "__NONE__"
+  },
+  "c": {
+    "name": "C",
+    "dir": "c/",
+    "ext": "c",
+    "github-colors": "C"
+  },
+  "cpp": {
+    "name": "C++",
+    "dir": "cpp/",
+    "ext": "cpp",
+    "github-colors": "C++"
+  },
+  "cs": {
+    "name": "C#",
+    "dir": "cs/",
+    "ext": "cs",
+    "github-colors": "C#"
+  },
+  "java": {
+    "name": "Java",
+    "dir": "java/",
+    "ext": "java",
+    "github-colors": "Java"
+  },
+  "python": {
+    "name": "Python",
+    "dir": "python/",
+    "ext": "py",
+    "github-colors": "Python"
+  },
+  "rust": {
+    "name": "Rust",
+    "dir": "rust/",
+    "ext": "rs",
+    "github-colors": "Rust"
+  },
+  "swift": {
+    "name": "Swift",
+    "dir": "swift/",
+    "ext": "swift",
+    "github-colors": "Swift"
+  },
+  "text": {
+    "name": "Plain Text",
+    "dir": "text/",
+    "ext": "txt",
+    "github-colors": "__NONE__"
+  },
+  "umm": {
+    "name": "엄준식",
+    "dir": "umm/",
+    "ext": "umm",
+    "github-colors": "__NONE__"
+  }
+}
