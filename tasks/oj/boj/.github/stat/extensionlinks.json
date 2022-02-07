@@ -48,7 +48,7 @@
     "github-colors": "Swift"
   },
   "text": {
-    "name": "Plain Text",
+    "name": "Text",
     "dir": "text/",
     "ext": "txt",
     "github-colors": "__NONE__"
