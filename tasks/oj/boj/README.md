@@ -36,7 +36,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1005"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1005 ACM Craft</a></td>
-    <td><a href="./rust/1005.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./rust/1005.1.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./rust/1005.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -62,6 +62,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1012"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 1012 유기농 배추</a></td>
     <td><a href="./rust/1012.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1026"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1026 보물</a></td>
+    <td><a href="./rust/1026.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -170,6 +175,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1463"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1463 1로 만들기</a></td>
+    <td><a href="./rust/1463.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1475"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1475 방 번호</a></td>
     <td><a href="./python/1/1475.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -212,6 +222,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1904"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1904 01타일</a></td>
     <td><a href="./rust/1904.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1912"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 1912 연속합</a></td>
+    <td><a href="./rust/1912.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -270,6 +285,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2302"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 2302 극장 좌석</a></td>
+    <td><a href="./rust/2302.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2303"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2303 숫자 게임</a></td>
     <td><a href="./python/2/2303.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -315,6 +335,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2445"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2445 별 찍기 - 8</a></td>
+    <td><a href="./java/2445.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2446"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2446 별 찍기 - 9</a></td>
+    <td><a href="./java/2446.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2475"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2475 검증수</a></td>
     <td><a href="./python/2/2475.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -337,6 +367,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2512"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2512 예산</a></td>
     <td><a href="./python/2/2512.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2522"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2522 별 찍기 - 12</a></td>
+    <td><a href="./java/2522.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2523"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2523 별 찍기 - 13</a></td>
+    <td><a href="./java/2523.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -1005,6 +1045,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/13335"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 13335 트럭</a></td>
+    <td><a href="./rust/13335.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/13458"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 13458 시험 감독</a></td>
     <td><a href="./cpp/13458.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/13/13458.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1041,7 +1086,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/15552"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 15552 빠른 A+B</a></td>
-    <td><a href="./python/15/15552.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./python/15/15552.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/15552.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -1087,6 +1132,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/16600"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 16600 Contemporary Art</a></td>
     <td><a href="./python/16/16600.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/16677"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 16677 악마 게임</a></td>
+    <td><a href="./rust/16677.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
