@@ -19,7 +19,7 @@
   },
   "cs": {
     "name": "C#",
-    "dir": "cs/",
+    "dir": "csharp/",
     "ext": "cs",
     "github-colors": "C#"
   },
