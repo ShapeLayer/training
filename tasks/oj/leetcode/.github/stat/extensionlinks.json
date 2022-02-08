@@ -17,9 +17,9 @@
     "ext": "cpp",
     "github-colors": "C++"
   },
-  "cs": {
+  "csharp": {
     "name": "C#",
-    "dir": "cs/",
+    "dir": "csharp/",
     "ext": "cs",
     "github-colors": "C#"
   },
@@ -48,7 +48,7 @@
     "github-colors": "Swift"
   },
   "text": {
-    "name": "Plain Text",
+    "name": "Text",
     "dir": "text/",
     "ext": "txt",
     "github-colors": "__NONE__"
