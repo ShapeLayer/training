@@ -1160,6 +1160,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/18017"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 18017 총알의 속도</a></td>
+    <td><a href="./python/18/18017.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/18108"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 18108 1998년생인 내가 태국에서는 2541년생?!</a></td>
     <td><a href="./java/18108.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
