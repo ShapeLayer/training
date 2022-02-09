@@ -40,4 +40,10 @@
     <td><a href="./python/389.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/389.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
+  <tr>
+    <td><img src="https://img.shields.io/badge/-medium-yellow" height=""></td>
+    <td><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array">532. K-diff Pairs in an Array</a></td>
+    <td><a href="./rust/532.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
 </table>
