@@ -1216,7 +1216,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/21922"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 21922 학부 연구생 민상</a></td>
-    <td><a href="./python/21/21922.debug.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./python/21/21922.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./rust/21922.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
