@@ -46,4 +46,10 @@
     <td><a href="./rust/532.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
+  <tr>
+    <td><img src="https://img.shields.io/badge/-medium-yellow" height=""></td>
+    <td><a href="https://leetcode.com/problems/permutation-in-string">567. Permutation in String</a></td>
+    <td><a href="./python/567.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
 </table>
