@@ -35,6 +35,12 @@
     "ext": "py",
     "github-colors": "Python"
   },
+  "ruby": {
+    "name": "Ruby",
+    "dir": "ruby/",
+    "ext": "rb",
+    "github-colors": "Ruby"
+  },
   "rust": {
     "name": "Rust",
     "dir": "rust/",
