@@ -636,7 +636,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/4803"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 4803 트리</a></td>
-    <td><a href="./rust/4803.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+    <td><a href="./rust/4803.2.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./rust/4803.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
