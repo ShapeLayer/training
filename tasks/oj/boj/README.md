@@ -411,7 +411,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2557"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2557 Hello World</a></td>
-    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/2557.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./swift/2557.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a><br><a href="./text/2557.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a><br><a href="./umm/2557.umm"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 엄준식</a></td>
+    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/2557.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./ruby/2557.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./swift/2557.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a><br><a href="./text/2557.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a><br><a href="./umm/2557.umm"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 엄준식</a></td>
   </tr>
 
   <tr>
@@ -590,6 +590,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/3003"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 3003 킹, 퀸, 룩, 비숍, 나이트, 폰</a></td>
+    <td><a href="./ruby/3003.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/3009"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 3009 네 번째 점</a></td>
     <td><a href="./python/3/3009.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -662,6 +667,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5086"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5086 배수와 약수</a></td>
     <td><a href="./python/5/5086.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5337"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5337 웰컴</a></td>
+    <td><a href="./ruby/5337.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1145,6 +1155,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/15727"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 15727 조별과제를 하려는데 조장이 사라졌다</a></td>
+    <td><a href="./ruby/15727.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/15736"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 15736 청기 백기</a></td>
     <td><a href="./python/15/15736.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1157,6 +1172,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/15802"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 15802 타노스</a></td>
     <td><a href="./python/15/15802.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./text/15802.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/16394"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 16394 홍익대학교</a></td>
+    <td><a href="./ruby/16394.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1252,6 +1272,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/23056"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 23056 참가자 명단</a></td>
     <td><a href="./cpp/23056.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24078"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24078 余り (Remainder)</a></td>
+    <td><a href="./ruby/24078.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
 </table>
