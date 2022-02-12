@@ -145,6 +145,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1271"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1271 엄청난 부자2</a></td>
+    <td><a href="./python/1/1271.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1292"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1292 쉽게 푸는 문제</a></td>
     <td><a href="./python/1/1292.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -297,6 +302,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2309"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2309 일곱 난쟁이</a></td>
     <td><a href="./python/2/2309.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2436"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2436 공약수</a></td>
+    <td><a href="./rust/2436.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -535,6 +545,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2845"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2845 파티가 끝나고 난 뒤</a></td>
+    <td><a href="./python/2/2845.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2851"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2851 슈퍼 마리오</a></td>
     <td><a href="./cpp/2851.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
@@ -617,6 +632,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/4673"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 4673 셀프 넘버</a></td>
     <td><a href="./python/4/4673.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/4803"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 4803 트리</a></td>
+    <td><a href="./rust/4803.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
