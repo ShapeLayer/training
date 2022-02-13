@@ -125,6 +125,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1237"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 1237 정ㅋ벅ㅋ</a></td>
+    <td><a href="./ruby/1237.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1246"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1246 온라인 판매</a></td>
     <td><a href="./python/1/1246.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -492,6 +497,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2675"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2675 문자열 반복</a></td>
     <td><a href="./python/2/2675.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2693"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2693 N번째 큰 수</a></td>
+    <td><a href="./ruby/2693.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1030,6 +1040,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11256"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11256 사탕</a></td>
+    <td><a href="./ruby/11256.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11322"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11322 Numbers are Easy</a></td>
     <td><a href="./python/11/11322.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1042,6 +1057,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11650"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11650 좌표 정렬하기</a></td>
     <td><a href="./python/11/11650.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/11650.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11652"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11652 카드</a></td>
+    <td><a href="./ruby/11652.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
