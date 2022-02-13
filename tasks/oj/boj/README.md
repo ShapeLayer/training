@@ -95,6 +95,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1076"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1076 저항</a></td>
+    <td><a href="./ruby/1076.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1085 직사각형에서 탈출</a></td>
     <td><a href="./python/1/1085.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
