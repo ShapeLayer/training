@@ -541,7 +541,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2751"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2751 수 정렬하기 2</a></td>
-    <td><a href="./python/2/2751.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./python/2/2751.1.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./python/2/2751.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -602,6 +602,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2914"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2914 저작권</a></td>
     <td><a href="./python/2/2914.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2920"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2920 음계</a></td>
+    <td><a href="./python/2/2920.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
