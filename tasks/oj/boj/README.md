@@ -680,6 +680,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5073"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5073 삼각형과 세 변</a></td>
+    <td><a href="./ruby/5073.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5086"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5086 배수와 약수</a></td>
     <td><a href="./python/5/5086.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -712,6 +717,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5717"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5717 상근이의 친구들</a></td>
     <td><a href="./python/5/5717.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5800"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 5800 성적 통계</a></td>
+    <td><a href="./rust/5800.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
