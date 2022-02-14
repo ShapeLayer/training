@@ -945,6 +945,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10816"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10816 숫자 카드 2</a></td>
+    <td><a href="./rust/10816.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10817"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10817 세 수</a></td>
     <td><a href="./python/10/10817.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1082,6 +1087,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11650"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11650 좌표 정렬하기</a></td>
     <td><a href="./python/11/11650.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/11650.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11651"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11651 좌표 정렬하기 2</a></td>
+    <td><a href="./rust/11651.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
