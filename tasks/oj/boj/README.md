@@ -170,6 +170,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1302"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1302 베스트셀러</a></td>
+    <td><a href="./python/1/1302.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1309"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1309 동물원</a></td>
     <td><a href="./rust/1309.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -475,6 +480,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2609"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2609 최대공약수와 최소공배수</a></td>
+    <td><a href="./rust/2609.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2622"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2622 삼각형만들기</a></td>
     <td><a href="./python/2/2622.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -680,6 +690,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5073"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5073 삼각형과 세 변</a></td>
+    <td><a href="./ruby/5073.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5086"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5086 배수와 약수</a></td>
     <td><a href="./python/5/5086.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -712,6 +727,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5717"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5717 상근이의 친구들</a></td>
     <td><a href="./python/5/5717.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5800"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 5800 성적 통계</a></td>
+    <td><a href="./rust/5800.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -925,6 +945,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10816"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10816 숫자 카드 2</a></td>
+    <td><a href="./rust/10816.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10817"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10817 세 수</a></td>
     <td><a href="./python/10/10817.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1065,6 +1090,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11651"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11651 좌표 정렬하기 2</a></td>
+    <td><a href="./rust/11651.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11652"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11652 카드</a></td>
     <td><a href="./ruby/11652.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1122,6 +1152,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/13877"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 13877 이건 무슨 진법이지?</a></td>
     <td><a href="./cpp/13877.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/14490"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 14490 백대열</a></td>
+    <td><a href="./rust/14490.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
