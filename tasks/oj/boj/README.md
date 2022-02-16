@@ -170,6 +170,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1297"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1297 TV 크기</a></td>
+    <td><a href="./ruby/1297.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1302"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1302 베스트셀러</a></td>
     <td><a href="./python/1/1302.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -200,6 +205,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1453"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1453 피시방 알바</a></td>
+    <td><a href="./ruby/1453.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1463"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1463 1로 만들기</a></td>
     <td><a href="./rust/1463.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -217,6 +227,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1546"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1546 평균</a></td>
     <td><a href="./python/1/1546.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1676"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1676 팩토리얼 0의 개수</a></td>
+    <td><a href="./rust/1676.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -322,6 +337,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2309"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2309 일곱 난쟁이</a></td>
     <td><a href="./python/2/2309.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2420"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2420 사파리월드</a></td>
+    <td><a href="./ruby/2420.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1155,6 +1175,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/13866"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 13866 팀 나누기</a></td>
+    <td><a href="./ruby/13866.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/13877"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 13877 이건 무슨 진법이지?</a></td>
     <td><a href="./cpp/13877.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
@@ -1310,6 +1335,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/20499"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 20499 Darius님 한타 안 함?</a></td>
+    <td><a href="./ruby/20499.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/20651"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 20651 Daisy Chains</a></td>
     <td><a href="./python/20/20651.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1342,6 +1372,31 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/24078"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24078 余り (Remainder)</a></td>
     <td><a href="./ruby/24078.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24479"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24479 알고리즘 수업 - 깊이 우선 탐색 1</a></td>
+    <td><a href="./rust/24479.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24480"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24480 알고리즘 수업 - 깊이 우선 탐색 2</a></td>
+    <td><a href="./rust/24480.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24481"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24481 알고리즘 수업 - 깊이 우선 탐색 3</a></td>
+    <td><a href="./rust/24481.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24482"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24482 알고리즘 수업 - 깊이 우선 탐색 4</a></td>
+    <td><a href="./rust/24482.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24483"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24483 알고리즘 수업 - 깊이 우선 탐색 5</a></td>
+    <td><a href="./rust/24483.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
 </table>
