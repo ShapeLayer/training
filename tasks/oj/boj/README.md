@@ -230,6 +230,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1676"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1676 팩토리얼 0의 개수</a></td>
+    <td><a href="./rust/1676.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1697"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1697 숨바꼭질</a></td>
     <td><a href="./rust/1697.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -1367,6 +1372,31 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/24078"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24078 余り (Remainder)</a></td>
     <td><a href="./ruby/24078.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24479"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24479 알고리즘 수업 - 깊이 우선 탐색 1</a></td>
+    <td><a href="./rust/24479.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24480"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24480 알고리즘 수업 - 깊이 우선 탐색 2</a></td>
+    <td><a href="./rust/24480.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24481"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24481 알고리즘 수업 - 깊이 우선 탐색 3</a></td>
+    <td><a href="./rust/24481.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24482"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24482 알고리즘 수업 - 깊이 우선 탐색 4</a></td>
+    <td><a href="./rust/24482.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24483"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24483 알고리즘 수업 - 깊이 우선 탐색 5</a></td>
+    <td><a href="./rust/24483.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
 </table>
