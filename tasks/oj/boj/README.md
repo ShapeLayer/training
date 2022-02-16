@@ -1100,6 +1100,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11282"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 11282 한글</a></td>
+    <td><a href="./ruby/11282.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11322"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11322 Numbers are Easy</a></td>
     <td><a href="./python/11/11322.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
