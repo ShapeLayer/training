@@ -170,6 +170,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1297"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1297 TV 크기</a></td>
+    <td><a href="./ruby/1297.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1302"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1302 베스트셀러</a></td>
     <td><a href="./python/1/1302.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -197,6 +202,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1427"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1427 소트인사이드</a></td>
     <td><a href="./python/1/1427.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1453"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1453 피시방 알바</a></td>
+    <td><a href="./ruby/1453.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -322,6 +332,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2309"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2309 일곱 난쟁이</a></td>
     <td><a href="./python/2/2309.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2420"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2420 사파리월드</a></td>
+    <td><a href="./ruby/2420.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -541,7 +556,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2751"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2751 수 정렬하기 2</a></td>
-    <td><a href="./python/2/2751.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./python/2/2751.1.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./python/2/2751.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -602,6 +617,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2914"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2914 저작권</a></td>
     <td><a href="./python/2/2914.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2920"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2920 음계</a></td>
+    <td><a href="./python/2/2920.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -945,6 +965,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10816"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10816 숫자 카드 2</a></td>
+    <td><a href="./rust/10816.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10817"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10817 세 수</a></td>
     <td><a href="./python/10/10817.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1085,6 +1110,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11651"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11651 좌표 정렬하기 2</a></td>
+    <td><a href="./rust/11651.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11652"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11652 카드</a></td>
     <td><a href="./ruby/11652.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1137,6 +1167,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/13458"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 13458 시험 감독</a></td>
     <td><a href="./cpp/13458.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/13/13458.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/13866"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 13866 팀 나누기</a></td>
+    <td><a href="./ruby/13866.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1292,6 +1327,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/20353"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 20353 Atrium</a></td>
     <td><a href="./python/20/20353.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/20499"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 20499 Darius님 한타 안 함?</a></td>
+    <td><a href="./ruby/20499.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
