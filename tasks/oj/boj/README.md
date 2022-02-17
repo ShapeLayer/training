@@ -865,6 +865,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10101"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10101 삼각형 외우기</a></td>
+    <td><a href="./ruby/10101.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10102"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10102 개표</a></td>
     <td><a href="./python/10/10102.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1377,6 +1382,31 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/24078"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24078 余り (Remainder)</a></td>
     <td><a href="./ruby/24078.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24416"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 24416 알고리즘 수업 - 피보나치 수 1</a></td>
+    <td><a href="./rust/24416.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24444"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24444 알고리즘 수업 - 너비 우선 탐색 1</a></td>
+    <td><a href="./rust/24444.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24445"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 24445 알고리즘 수업 - 너비 우선 탐색 2</a></td>
+    <td><a href="./rust/24445.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24446"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24446 알고리즘 수업 - 너비 우선 탐색 3</a></td>
+    <td><a href="./rust/24446.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24447"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24447 알고리즘 수업 - 너비 우선 탐색 4</a></td>
+    <td><a href="./rust/24447.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
