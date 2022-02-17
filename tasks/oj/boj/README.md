@@ -1370,8 +1370,18 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/21966"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 21966 (중략)</a></td>
+    <td><a href="./python/21/21966.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/22252"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 22252 정보 상인 호석</a></td>
     <td><a href="./python/22/22252.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/23028"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 23028 5학년은 다니기 싫어요</a></td>
+    <td><a href="./rust/23028.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
