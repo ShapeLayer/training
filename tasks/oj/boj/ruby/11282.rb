@@ -1,0 +1,1 @@
+puts ((gets.to_i)+44031).chr(Encoding::UTF_8)
