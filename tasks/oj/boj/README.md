@@ -800,6 +800,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/7569"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 7569 토마토</a></td>
+    <td><a href="./rust/7569.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/7576"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 7576 토마토</a></td>
+    <td><a href="./rust/7576.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/8393"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 8393 합</a></td>
     <td><a href="./python/8/8393.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
