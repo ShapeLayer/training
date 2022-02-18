@@ -105,6 +105,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1100"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1100 하얀 칸</a></td>
+    <td><a href="./ruby/1100.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1110"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1110 더하기 사이클</a></td>
     <td><a href="./python/1/1110.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -117,6 +122,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1157"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1157 단어 공부</a></td>
     <td><a href="./python/1/1157.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1167"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1167 트리의 지름</a></td>
+    <td><a href="./rust/1167.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -152,6 +162,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1264"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1264 모음의 개수</a></td>
     <td><a href="./cpp/1264.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1267"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1267 핸드폰 요금</a></td>
+    <td><a href="./ruby/1267.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -622,6 +637,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2884"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2884 알람 시계</a></td>
     <td><a href="./python/2/2884.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2902"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2902 KMP는 왜 KMP일까?</a></td>
+    <td><a href="./ruby/2902.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
