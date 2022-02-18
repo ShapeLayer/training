@@ -260,6 +260,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1864"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1864 문어 숫자</a></td>
+    <td><a href="./ruby/1864.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1904"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1904 01타일</a></td>
     <td><a href="./rust/1904.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
