@@ -580,6 +580,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2747"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2747 피보나치 수</a></td>
+    <td><a href="./rust/2747.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2748"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2748 피보나치 수 2</a></td>
+    <td><a href="./rust/2748.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2750"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2750 수 정렬하기</a></td>
     <td><a href="./python/2/2750.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -672,6 +682,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/3003"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 3003 킹, 퀸, 룩, 비숍, 나이트, 폰</a></td>
     <td><a href="./ruby/3003.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/3004"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 3004 체스판 조각</a></td>
+    <td><a href="./ruby/3004.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1030,6 +1045,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10826"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10826 피보나치 수 4</a></td>
+    <td><a href="./rust/10826.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10828"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10828 스택</a></td>
     <td><a href="./python/10/10828.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1312,6 +1332,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/15802"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 15802 타노스</a></td>
     <td><a href="./python/15/15802.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./text/15802.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/15829"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 15829 Hashing</a></td>
+    <td><a href="./ruby/15829.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
