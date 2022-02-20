@@ -276,7 +276,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1864"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1864 문어 숫자</a></td>
-    <td><a href="./ruby/1864.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+    <td><a href="./python/1/1864.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./ruby/1864.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
