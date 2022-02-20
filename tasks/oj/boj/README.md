@@ -960,6 +960,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10179"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10179 쿠폰</a></td>
+    <td><a href="./ruby/10179.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10214"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10214 Baseball</a></td>
     <td><a href="./python/10/10214.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
