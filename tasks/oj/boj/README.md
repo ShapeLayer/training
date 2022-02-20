@@ -105,6 +105,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1100"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1100 하얀 칸</a></td>
+    <td><a href="./ruby/1100.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1110"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1110 더하기 사이클</a></td>
     <td><a href="./python/1/1110.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -117,6 +122,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1157"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1157 단어 공부</a></td>
     <td><a href="./python/1/1157.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1167"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1167 트리의 지름</a></td>
+    <td><a href="./rust/1167.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -152,6 +162,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1264"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1264 모음의 개수</a></td>
     <td><a href="./cpp/1264.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1267"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1267 핸드폰 요금</a></td>
+    <td><a href="./ruby/1267.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -260,6 +275,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1864"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1864 문어 숫자</a></td>
+    <td><a href="./ruby/1864.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1904"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1904 01타일</a></td>
     <td><a href="./rust/1904.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -317,6 +337,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2178"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 2178 미로 탐색</a></td>
     <td><a href="./rust/2178.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2252"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 2252 줄 세우기</a></td>
+    <td><a href="./rust/2252.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -555,6 +580,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2747"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2747 피보나치 수</a></td>
+    <td><a href="./rust/2747.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2748"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2748 피보나치 수 2</a></td>
+    <td><a href="./rust/2748.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2750"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2750 수 정렬하기</a></td>
     <td><a href="./python/2/2750.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -615,6 +650,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2902"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2902 KMP는 왜 KMP일까?</a></td>
+    <td><a href="./ruby/2902.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2908"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2908 상수</a></td>
     <td><a href="./python/2/2908.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -642,6 +682,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/3003"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 3003 킹, 퀸, 룩, 비숍, 나이트, 폰</a></td>
     <td><a href="./ruby/3003.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/3004"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 3004 체스판 조각</a></td>
+    <td><a href="./ruby/3004.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -767,6 +812,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/7567"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 7567 그릇</a></td>
     <td><a href="./python/7/7567.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/7569"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 7569 토마토</a></td>
+    <td><a href="./rust/7569.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/7576"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 7576 토마토</a></td>
+    <td><a href="./rust/7576.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -990,6 +1045,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10826"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10826 피보나치 수 4</a></td>
+    <td><a href="./rust/10826.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10828"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10828 스택</a></td>
     <td><a href="./python/10/10828.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1112,6 +1172,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11322"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11322 Numbers are Easy</a></td>
     <td><a href="./python/11/11322.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11508"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11508 2+1 세일</a></td>
+    <td><a href="./python/11/11508.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -1275,6 +1340,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/15829"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 15829 Hashing</a></td>
+    <td><a href="./ruby/15829.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/16394"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 16394 홍익대학교</a></td>
     <td><a href="./ruby/16394.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1332,6 +1402,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/18822"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 18822 Beginning the Hunt</a></td>
     <td><a href="./text/18822.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/20040"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 20040 사이클 게임</a></td>
+    <td><a href="./rust/20040.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
