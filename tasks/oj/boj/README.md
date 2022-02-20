@@ -265,6 +265,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1774"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1774 우주신과의 교감</a></td>
+    <td><a href="./rust/1774.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1789"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1789 수들의 합</a></td>
     <td><a href="./python/1/1789.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
