@@ -245,6 +245,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1543"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1543 문서 검색</a></td>
+    <td><a href="./python/1/1543.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1546"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1546 평균</a></td>
     <td><a href="./python/1/1546.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1055,6 +1060,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10815"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10815 숫자 카드</a></td>
+    <td><a href="./rust/10815.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10816"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10816 숫자 카드 2</a></td>
     <td><a href="./rust/10816.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -1380,6 +1390,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/15953"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 15953 상금 헌터</a></td>
+    <td><a href="./ruby/15953.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/16394"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 16394 홍익대학교</a></td>
     <td><a href="./ruby/16394.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1502,6 +1517,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/23056"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 23056 참가자 명단</a></td>
     <td><a href="./cpp/23056.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24075"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 24075 計算 (Calculation)</a></td>
+    <td><a href="./ruby/24075.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
