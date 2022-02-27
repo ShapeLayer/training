@@ -750,6 +750,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/4880"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 4880 다음수</a></td>
+    <td><a href="./ruby/4880.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/4948"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 4948 베르트랑 공준</a></td>
     <td><a href="./python/4/4948.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
