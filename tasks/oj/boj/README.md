@@ -105,6 +105,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1094"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1094 막대기</a></td>
+    <td><a href="./python/1/1094.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1100"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1100 하얀 칸</a></td>
     <td><a href="./ruby/1100.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -282,6 +287,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1864"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1864 문어 숫자</a></td>
     <td><a href="./python/1/1864.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./ruby/1864.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1874"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1874 스택 수열</a></td>
+    <td><a href="./rust/1874.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -1245,6 +1255,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/12813"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 12813 이진수 연산</a></td>
+    <td><a href="./python/12/12813.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/12865"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 12865 평범한 배낭</a></td>
+    <td><a href="./rust/12865.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/13268"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 13268 셔틀런</a></td>
     <td><a href="./python/13/13268.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1402,6 +1422,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/18108"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 18108 1998년생인 내가 태국에서는 2541년생?!</a></td>
     <td><a href="./java/18108.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/18111"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 18111 마인크래프트</a></td>
+    <td><a href="./rust/18111.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
