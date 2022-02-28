@@ -225,6 +225,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1436"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1436 영화감독 숌</a></td>
+    <td><a href="./python/1/1436.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1453"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1453 피시방 알바</a></td>
     <td><a href="./ruby/1453.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -331,7 +336,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1966"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1966 프린터 큐</a></td>
-    <td><a href="./python/1/1966.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./python/1/1966.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1966.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -342,6 +347,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1978"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1978 소수 찾기</a></td>
     <td><a href="./python/1/1978.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2108"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2108 통계학</a></td>
+    <td><a href="./python/2/2108.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -357,6 +367,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2178"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 2178 미로 탐색</a></td>
     <td><a href="./rust/2178.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2231"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2231 분해합</a></td>
+    <td><a href="./rust/2231.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -772,6 +787,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/4948"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 4948 베르트랑 공준</a></td>
     <td><a href="./python/4/4948.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/4949"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 4949 균형잡힌 세상</a></td>
+    <td><a href="./python/4/4949.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
