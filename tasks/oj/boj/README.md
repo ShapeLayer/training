@@ -1270,6 +1270,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11723"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11723 집합</a></td>
+    <td><a href="./python/11/11723.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11942"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 11942 고려대는 사랑입니다</a></td>
     <td><a href="./java/11942.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
