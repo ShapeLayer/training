@@ -250,6 +250,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1541"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 1541 잃어버린 괄호</a></td>
+    <td><a href="./rust/1541.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1543"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1543 문서 검색</a></td>
     <td><a href="./python/1/1543.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -257,6 +262,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1546"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1546 평균</a></td>
     <td><a href="./python/1/1546.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1620"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1620 나는야 포켓몬 마스터 이다솜</a></td>
+    <td><a href="./python/1/1620.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -830,6 +840,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5525"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 5525 IOIOI</a></td>
+    <td><a href="./python/5/5525.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5565"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5565 영수증</a></td>
     <td><a href="./python/5/5565.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -917,6 +932,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/9325"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9325 얼마?</a></td>
     <td><a href="./python/9/9325.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/9375"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 9375 패션왕 신해빈</a></td>
+    <td><a href="./python/9/9375.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -1447,6 +1467,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/17202"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 17202 핸드폰 번호 궁합</a></td>
     <td><a href="./python/17/17202.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/17219"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 17219 비밀번호 찾기</a></td>
+    <td><a href="./python/17/17219.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
