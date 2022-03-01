@@ -1250,6 +1250,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11399"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 11399 ATM</a></td>
+    <td><a href="./rust/11399.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11508"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11508 2+1 세일</a></td>
     <td><a href="./python/11/11508.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1292,6 +1297,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11723"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11723 집합</a></td>
     <td><a href="./python/11/11723.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11724"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 11724 연결 요소의 개수</a></td>
+    <td><a href="./rust/11724.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11899"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11899 괄호 끼워넣기</a></td>
+    <td><a href="./python/11/11899.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -1570,6 +1585,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/23895"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 23895 Allocation</a></td>
+    <td><a href="./rust/23895.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/24075"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 24075 計算 (Calculation)</a></td>
     <td><a href="./ruby/24075.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1602,6 +1622,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/24447"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 24447 알고리즘 수업 - 너비 우선 탐색 4</a></td>
     <td><a href="./rust/24447.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24465"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 24465 데뷔의 꿈</a></td>
+    <td><a href="./rust/24465.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
