@@ -345,6 +345,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1964"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1964 오각형, 오각형, 오각형…</a></td>
+    <td><a href="./ruby/1964.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1966"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 1966 프린터 큐</a></td>
     <td><a href="./python/1/1966.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1966.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
