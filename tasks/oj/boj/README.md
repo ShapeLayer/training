@@ -1310,6 +1310,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11725"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 11725 트리의 부모 찾기</a></td>
+    <td><a href="./rust/11725.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11899"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11899 괄호 끼워넣기</a></td>
     <td><a href="./python/11/11899.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
