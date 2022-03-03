@@ -295,6 +295,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1769"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1769 3의 배수</a></td>
+    <td><a href="./c/1769.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a><br><a href="./python/1/1769.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1774"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1774 우주신과의 교감</a></td>
     <td><a href="./rust/1774.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
