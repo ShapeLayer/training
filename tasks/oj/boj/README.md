@@ -130,6 +130,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1159"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1159 농구 경기</a></td>
+    <td><a href="./c/1159.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1167"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 1167 트리의 지름</a></td>
     <td><a href="./rust/1167.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -365,6 +370,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2010"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2010 플러그</a></td>
+    <td><a href="./c/2010.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2108"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2108 통계학</a></td>
     <td><a href="./python/2/2108.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -521,7 +531,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/2557"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2557 Hello World</a></td>
-    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/2557.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./ruby/2557.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./swift/2557.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a><br><a href="./text/2557.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a><br><a href="./umm/2557.umm"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 엄준식</a></td>
+    <td><a href="./aheui/2557.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./c/2557.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a><br><a href="./cpp/2557.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/2557.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./java/2557.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./python/2/2557.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./ruby/2557.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a><br><a href="./rust/2557.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./swift/2557.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a><br><a href="./text/2557.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a><br><a href="./umm/2557.umm"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 엄준식</a></td>
   </tr>
 
   <tr>
@@ -647,6 +657,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2751"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2751 수 정렬하기 2</a></td>
     <td><a href="./python/2/2751.1.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./python/2/2751.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2752"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2752 세수정렬</a></td>
+    <td><a href="./c/2752.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
   </tr>
 
   <tr>
@@ -1062,6 +1077,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10699"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10699 오늘 날짜</a></td>
     <td><a href="./python/10/10699.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10707"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10707 수도요금</a></td>
+    <td><a href="./c/10707.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
   </tr>
 
   <tr>
