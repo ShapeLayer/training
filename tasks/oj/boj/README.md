@@ -430,6 +430,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2355"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2355 시그마</a></td>
+    <td><a href="./ruby/2355.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2420"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2420 사파리월드</a></td>
     <td><a href="./ruby/2420.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -797,6 +802,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/4153"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 4153 직각삼각형</a></td>
     <td><a href="./python/4/4153.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/4299"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 4299 AFC 윔블던</a></td>
+    <td><a href="./ruby/4299.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
