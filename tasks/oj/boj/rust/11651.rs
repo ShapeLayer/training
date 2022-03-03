@@ -1,31 +1,28 @@
-// TO: TimeOut
-
-use std::{io, collections::HashMap};
+use std::{io, cmp::Ordering};
 
 fn main() {
-  let mut puts = String::new();
-  io::stdin().read_line(&mut puts).ok();
-  let n = puts.trim().parse::<i32>().unwrap();
-  let mut dots: HashMap<i32, Vec<i32>> = HashMap::new(); // key: y
+  let mut gets = String::new();
+  io::stdin().read_line(&mut gets).ok();
+  let n = gets.trim().parse::<i32>().unwrap();
+  let mut dots: Vec<(i32, i32)> = Vec::new();
   for _i in 0..n {
-    let mut puts = String::new();
-    io::stdin().read_line(&mut puts).ok();
+    gets.clear();
+    io::stdin().read_line(&mut gets).ok();
     let (x, y) = {
-      let split: Vec<i32> = puts.split_whitespace()
+      let split: Vec<i32> = gets.split_whitespace()
         .map(|x| x.parse::<i32>().unwrap())
         .collect();
       (split[0], split[1])
     };
-    let dot = dots.entry(y).or_insert(Vec::new());
-    dot.append(&mut vec![x]);
+    dots.append(&mut vec![(x, y)]);
   }
-  let mut keys = dots.keys().cloned().collect::<Vec<i32>>();
-  keys.sort();
-  for key in keys {
-    let arr = dots.entry(key).or_insert(Vec::new());
-    arr.sort();
-    for x in arr {
-      println!("{} {}", x, key);
+  dots.sort_by(|a, b| {
+    match (a.1).cmp(&b.1) {
+      Ordering::Equal => (a.0).cmp(&b.0),
+      other => other
     }
+  });
+  for i in 0..n {
+    println!("{} {}", dots[i as usize].0, dots[i as usize].1);
   }
 }
