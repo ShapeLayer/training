@@ -785,6 +785,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/3060"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 3060 욕심쟁이 돼지</a></td>
+    <td><a href="./c/3060.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/4101"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 4101 크냐?</a></td>
     <td><a href="./python/4/4101.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1387,6 +1392,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/13458"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 13458 시험 감독</a></td>
     <td><a href="./cpp/13458.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./python/13/13458.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/13560"><img src="https://static.solved.ac/tier_small/16.svg" height="13"> 13560 축구 게임</a></td>
+    <td><a href="./rust/13560.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
