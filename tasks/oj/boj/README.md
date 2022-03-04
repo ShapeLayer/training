@@ -1445,6 +1445,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/14728"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 14728 벼락치기</a></td>
+    <td><a href="./cpp/14728.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/14730"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 14730 謎紛芥索紀 (Small)</a></td>
     <td><a href="./cpp/14730.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
