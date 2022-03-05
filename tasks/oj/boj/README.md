@@ -215,6 +215,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1325"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1325 효율적인 해킹</a></td>
+    <td><a href="./java/1325.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1330"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1330 두 수 비교하기</a></td>
     <td><a href="./python/1/1330.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
