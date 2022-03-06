@@ -1535,6 +1535,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/16928"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 16928 뱀과 사다리 게임</a></td>
+    <td><a href="./python/16/16928.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/16969"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 16969 차량 번호판 2</a></td>
     <td><a href="./cpp/16969.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
