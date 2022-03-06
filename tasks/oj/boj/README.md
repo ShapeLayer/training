@@ -960,6 +960,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9084"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 9084 동전</a></td>
+    <td><a href="./c/9084.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9085 더하기</a></td>
     <td><a href="./cpp/9085.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
