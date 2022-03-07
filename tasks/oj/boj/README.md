@@ -215,6 +215,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1325"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1325 효율적인 해킹</a></td>
+    <td><a href="./java/1325.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1330"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 1330 두 수 비교하기</a></td>
     <td><a href="./python/1/1330.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -955,6 +960,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9084"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 9084 동전</a></td>
+    <td><a href="./c/9084.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9085 더하기</a></td>
     <td><a href="./cpp/9085.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
   </tr>
@@ -1527,6 +1537,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/16677"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 16677 악마 게임</a></td>
     <td><a href="./rust/16677.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/16928"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 16928 뱀과 사다리 게임</a></td>
+    <td><a href="./python/16/16928.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
