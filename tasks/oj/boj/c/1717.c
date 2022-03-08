@@ -4,7 +4,9 @@ int parents[1000001];
 
 int find(int n) {
   if (parents[n] == n) return n;
-  return find(parents[n]);
+  int y = find(parents[n]);
+  parents[n] = y;
+  return y;
 }
 
 void merge(int a, int b) {
