@@ -225,6 +225,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1358"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1358 하키</a></td>
+    <td><a href="./c/1358.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1380"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1380 귀걸이</a></td>
     <td><a href="./rust/1380.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
