@@ -380,6 +380,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1976"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 1976 여행 가자</a></td>
+    <td><a href="./c/1976.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1977"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1977 완전제곱수</a></td>
     <td><a href="./python/1/1977.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
