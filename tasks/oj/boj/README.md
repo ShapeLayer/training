@@ -280,6 +280,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1598"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1598 꼬리를 무는 숫자 나열</a></td>
+    <td><a href="./ruby/1598.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1620"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1620 나는야 포켓몬 마스터 이다솜</a></td>
     <td><a href="./python/1/1620.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
