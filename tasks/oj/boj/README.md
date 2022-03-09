@@ -1135,6 +1135,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10768"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10768 특별한 날</a></td>
+    <td><a href="./ruby/10768.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10773"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10773 제로</a></td>
     <td><a href="./python/10/10773.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
