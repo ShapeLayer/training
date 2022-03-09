@@ -21,9 +21,9 @@ int main() {
   int n, m;
   int gets;
   scanf("%d %d", &n, &m);
+  for (int i = 0; i < n+1; i++) parents[i] = i;
   for (int i = 1; i < n+1; i++) {
-    parents[i] = i; // init
-    for (int j = 1; j < n+1; i++) {
+    for (int j = 1; j < n+1; j++) {
       scanf("%d", &gets);
       if (i == j) continue;
       if (gets) merge(i, j);
@@ -34,11 +34,10 @@ int main() {
   while (scanf("%d", &gets) != EOF) {
     if (init == -1) init = find(gets);
     else {
-      if (init != gets) flag = 0;
+      if (init != find(gets)) flag = 0;
     }
   }
-  if (scanf("%d", &gets) == EOF) printf("EOF");
-  if (flag) printf("YES");
-  else printf("NO");
+  if (flag) printf("YES\n");
+  else printf("NO\n");
   return 0;
 }
