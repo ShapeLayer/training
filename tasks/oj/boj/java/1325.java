@@ -25,7 +25,7 @@ public class Main {
 
     for (int i = 1; i <= N; i++) {
       list[i] = new ArrayList<Integer>();
-    } 
+    }
     String[] inputs = new String[2];
     for (int i = 1; i <= M; i++) {
       input = br.readLine();
