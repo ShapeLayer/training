@@ -265,11 +265,6 @@
   </tr>
 
   <tr>
-    <td><a href="https://acmicpc.net/problem/1541"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 1541 잃어버린 괄호</a></td>
-    <td><a href="./rust/1541.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
-  </tr>
-
-  <tr>
     <td><a href="https://acmicpc.net/problem/1543"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1543 문서 검색</a></td>
     <td><a href="./python/1/1543.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -982,6 +977,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/9085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9085 더하기</a></td>
     <td><a href="./cpp/9085.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/9095"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 9095 1, 2, 3 더하기</a></td>
+    <td><a href="./rust/9095.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
