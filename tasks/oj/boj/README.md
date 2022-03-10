@@ -825,6 +825,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/4195"><img src="https://static.solved.ac/tier_small/14.svg" height="13"> 4195 친구 네트워크</a></td>
+    <td><a href="./python/4/4195.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/4299"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 4299 AFC 윔블던</a></td>
     <td><a href="./ruby/4299.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
