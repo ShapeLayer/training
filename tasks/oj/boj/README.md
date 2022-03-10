@@ -905,6 +905,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5543"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 5543 상근날드</a></td>
+    <td><a href="./ruby/5543.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5565"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5565 영수증</a></td>
     <td><a href="./python/5/5565.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
