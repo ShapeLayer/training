@@ -155,6 +155,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1212"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1212 8진수 2진수</a></td>
+    <td><a href="./python/1/1212.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1237"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 1237 정ㅋ벅ㅋ</a></td>
     <td><a href="./ruby/1237.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -280,6 +285,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1550"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 1550 16진수</a></td>
+    <td><a href="./swift/1550.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1598"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1598 꼬리를 무는 숫자 나열</a></td>
     <td><a href="./ruby/1598.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -337,6 +347,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/1864"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1864 문어 숫자</a></td>
     <td><a href="./python/1/1864.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./ruby/1864.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/1871"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1871 좋은 자동차 번호판</a></td>
+    <td><a href="./swift/1871.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
   </tr>
 
   <tr>
@@ -912,6 +927,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5525"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 5525 IOIOI</a></td>
     <td><a href="./python/5/5525.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5532"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 5532 방학 숙제</a></td>
+    <td><a href="./swift/5532.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
   </tr>
 
   <tr>
