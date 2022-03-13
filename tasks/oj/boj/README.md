@@ -835,6 +835,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/3584"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 3584 가장 가까운 공통 조상</a></td>
+    <td><a href="./csharp/3584.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/4101"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 4101 크냐?</a></td>
     <td><a href="./python/4/4101.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
