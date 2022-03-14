@@ -1365,6 +1365,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11109"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 11109 괴짜 교수</a></td>
+    <td><a href="./ruby/11109.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11170"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 11170 0의 개수</a></td>
     <td><a href="./python/11/11170.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1517,6 +1522,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/13877"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 13877 이건 무슨 진법이지?</a></td>
     <td><a href="./cpp/13877.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/14489"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 14489 치킨 두 마리 (...)</a></td>
+    <td><a href="./ruby/14489.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
