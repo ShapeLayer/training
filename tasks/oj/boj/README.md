@@ -4,7 +4,9 @@
 
 <details>
 <summary>주요 알고리즘 개념들</summary>
-* 선분 교차 알고리즘 - [2162](./swift/2162)
+<ul>
+  <li>선분 교차 알고리즘 - <a href="./swift/17386.swift">17386 선분 교차 1</a></li>
+</ul>
 </details>
 
 
