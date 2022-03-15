@@ -2,6 +2,11 @@
 
 [![ShapeLayer's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=belline0124)](https://www.acmicpc.net/user/belline0124)
 
+<details>
+<summary>주요 알고리즘 개념들</summary>
+* 선분 교차 알고리즘 - [2162](./swift/2162)
+</details>
+
 
 <table>
   <tr>
@@ -432,6 +437,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2149"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 2149 암호 해독</a></td>
     <td><a href="./python/2/2149.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2162"><img src="https://static.solved.ac/tier_small/16.svg" height="13"> 2162 선분 그룹</a></td>
+    <td><a href="./swift/2162.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
   </tr>
 
   <tr>
@@ -1662,6 +1672,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/17219"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 17219 비밀번호 찾기</a></td>
     <td><a href="./python/17/17219.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/17386"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 17386 선분 교차 1</a></td>
+    <td><a href="./swift/17386.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
   </tr>
 
   <tr>
