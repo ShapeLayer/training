@@ -1,9 +1,9 @@
 import Foundation
 
-var parent = []
-var parents = []
+var parent = [Int]()
+var parents = [Int]()
 
-func ccw(p1: (Int, Int), p2: (Int, Int), p3: (Int, Int), p4: (Int, Int)) -> Int {
+func ccw(_ p1: (Int, Int), _ p2: (Int, Int), _ p3: (Int, Int)) -> Int {
   let op = (p1.0*p2.1 + p2.0*p3.1 + p3.0*p1.1) - (p1.0*p3.1 + p2.0*p1.1 + p3.0*p2.1)
   if op > 0 { return 1}
   else if op < 0 { return -1 }
@@ -41,11 +41,11 @@ func merge(_ a: Int, _ b: Int) {
   }
 }
 
-let n = Int(readLine()!)
-var dots = []
-var gets = ""
-for i in 0..n+1 { parent += [i] }
-for i in 1..n+1 {
+let n = Int(readLine()!)!
+var dots = [((Int, Int), (Int, Int))]()
+var gets = [String]()
+for i in 0...n+1 { parent += [i] }
+for i in 1...n+1 {
   gets = readLine()!.components(separatedBy: " ")
   dots += [((Int(gets[0])!, Int(gets[1])!), (Int(gets[2])!, Int(gets[3])!))]
   if i == 1 {
@@ -53,9 +53,12 @@ for i in 1..n+1 {
     continue
   }
   for p in parents {
-    res = isIntersect(&dots[p-1].0, &dots[p-1].1, &dots[i-1].0, &dots[i-1].1)
+    var dotP = dots[p-1]
+    var dotN = dots[i-1]
+    let res = isIntersect(&dotP.0, &dotP.1, &dotN.0, &dotN.1)
     if res {
       merge(p, i)
+      break
     } else {
       parents += [p]
     }
