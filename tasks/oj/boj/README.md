@@ -1267,6 +1267,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10823"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10823 더하기 2</a></td>
+    <td><a href="./swift/10823.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10826"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10826 피보나치 수 4</a></td>
     <td><a href="./rust/10826.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -1679,6 +1684,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/17386"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 17386 선분 교차 1</a></td>
     <td><a href="./swift/17386.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/17387"><img src="https://static.solved.ac/tier_small/14.svg" height="13"> 17387 선분 교차 2</a></td>
+    <td><a href="./swift/17387.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
   </tr>
 
   <tr>
