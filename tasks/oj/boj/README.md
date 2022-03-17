@@ -1647,6 +1647,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/16395"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 16395 파스칼의 삼각형</a></td>
+    <td><a href="./swift/16395.swift"><img src="https://via.placeholder.com/13/F05138/000?text=%20"> Swift</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/16600"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 16600 Contemporary Art</a></td>
     <td><a href="./python/16/16600.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
