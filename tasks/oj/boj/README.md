@@ -487,6 +487,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2338"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2338 긴자리 계산</a></td>
+    <td><a href="./java/2338.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2355"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2355 시그마</a></td>
     <td><a href="./ruby/2355.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
