@@ -167,6 +167,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1213"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1213 팰린드롬 만들기</a></td>
+    <td><a href="./python/1/1213.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1237"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 1237 정ㅋ벅ㅋ</a></td>
     <td><a href="./ruby/1237.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -429,6 +434,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2010"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2010 플러그</a></td>
     <td><a href="./c/2010.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2013"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 2013 선그리기</a></td>
+    <td><a href="./c/2013.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
   </tr>
 
   <tr>
