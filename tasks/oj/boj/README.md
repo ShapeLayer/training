@@ -1127,6 +1127,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9653"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 9653 스타워즈 로고</a></td>
+    <td><a href="./python/9/9653.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9655"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 9655 돌 게임</a></td>
     <td><a href="./rust/9655.1.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a><br><a href="./rust/9655.2.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
