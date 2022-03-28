@@ -142,6 +142,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1158"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1158 요세푸스 문제</a></td>
+    <td><a href="./cpp/1158.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1159"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1159 농구 경기</a></td>
     <td><a href="./c/1159.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
   </tr>
