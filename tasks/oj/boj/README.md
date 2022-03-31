@@ -477,6 +477,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2174"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2174 로봇 시뮬레이션</a></td>
+    <td><a href="./c/2174.c"><img src="https://via.placeholder.com/13/555555/000?text=%20"> C</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2178"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 2178 미로 탐색</a></td>
     <td><a href="./rust/2178.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
