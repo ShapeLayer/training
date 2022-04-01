@@ -587,6 +587,16 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2455"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2455 지능형 기차</a></td>
+    <td><a href="./java/2455.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2460"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2460 지능형 기차 2</a></td>
+    <td><a href="./java/2460.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2475"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2475 검증수</a></td>
     <td><a href="./python/2/2475.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -599,6 +609,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2480"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2480 주사위 세개</a></td>
     <td><a href="./python/2/2480.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2490"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2490 윷놀이</a></td>
+    <td><a href="./java/2490.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2506"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2506 점수계산</a></td>
+    <td><a href="./java/2506.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -654,6 +674,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2565"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2565 전깃줄</a></td>
     <td><a href="./rust/2565.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2566"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2566 최댓값</a></td>
+    <td><a href="./java/2566.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -812,8 +837,18 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2863"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2863 이게 분수?</a></td>
+    <td><a href="./java/2863.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2869"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2869 달팽이는 올라가고 싶다</a></td>
     <td><a href="./python/2/2869.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2875"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2875 대회 or 인턴</a></td>
+    <td><a href="./java/2875.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -984,6 +1019,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5338"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5338 마이크로소프트 로고</a></td>
     <td><a href="./text/5338.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5354"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5354 J박스</a></td>
+    <td><a href="./java/5354.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
