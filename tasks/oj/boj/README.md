@@ -1027,6 +1027,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5339"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5339 콜센터</a></td>
+    <td><a href="./text/5339.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5354"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5354 J박스</a></td>
     <td><a href="./java/5354.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
@@ -1042,6 +1047,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5522"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5522 카드 게임</a></td>
+    <td><a href="./java/5522.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5525"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 5525 IOIOI</a></td>
     <td><a href="./python/5/5525.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1054,6 +1064,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5543"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 5543 상근날드</a></td>
     <td><a href="./ruby/5543.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5554"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5554 심부름 가는 길</a></td>
+    <td><a href="./java/5554.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
@@ -1502,6 +1517,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11382"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 11382 꼬마 정민</a></td>
+    <td><a href="./java/11382.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11399"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 11399 ATM</a></td>
     <td><a href="./rust/11399.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -1739,6 +1759,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/15953"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 15953 상금 헌터</a></td>
     <td><a href="./ruby/15953.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/15964"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 15964 이상한 기호</a></td>
+    <td><a href="./java/15964.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
