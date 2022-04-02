@@ -652,6 +652,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2547"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2547 사탕 선생 고창영</a></td>
+    <td><a href="./java/2547.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2548"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2548 대표 자연수</a></td>
     <td><a href="./rust/2548.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
@@ -1029,6 +1034,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5355"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 5355 화성 수학</a></td>
     <td><a href="./python/5/5355.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5361"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5361 전투 드로이드 가격</a></td>
+    <td><a href="./java/5361.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
