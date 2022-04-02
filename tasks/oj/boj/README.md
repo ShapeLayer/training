@@ -1986,4 +1986,24 @@
     <td><a href="./rust/24483.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24900"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24900 한별 찍기</a></td>
+    <td><a href="./python/24/24900.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24901"><img src="https://static.solved.ac/tier_small/19.svg" height="13"> 24901 Binary Game 2</a></td>
+    <td><a href="./ruby/24901.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24904"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 24904 Baekjoon Wordline Judge</a></td>
+    <td><a href="./text/24904.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24905"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 24905 24905번 문제</a></td>
+    <td><a href="./text/24905.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
 </table>
