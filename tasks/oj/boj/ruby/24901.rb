@@ -34,7 +34,13 @@ int main() {
     return 0;
 }
 // */
-// */ swift_code // \u000a /*
+// */ let n = Int(readLine()!)!
+var puts = ""
+for i in 0...n {
+  puts += String(i, radix: 2)
+}
+print(puts)
+ // \u000a /*
 #endif
 /*
 =end
