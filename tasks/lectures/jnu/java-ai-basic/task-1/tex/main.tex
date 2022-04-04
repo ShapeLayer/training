@@ -1,0 +1,415 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{kotex}
+\usepackage{listings}
+\usepackage{color}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Java,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+\title{JAVA 프로그래밍및실습 #1 과제 #1}
+\author{박종현}
+\date{April 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{자바 실습 환경 설치 및 Hello2030 출력}
+
+\begin{lstlisting}
+\lstset{language=Java}
+public class Hello2030 {
+	public static void main(String[] args) {
+		int n = 2030;
+		System.out.println("헬로"+n);
+	}
+}
+\end{lstlisting}
+
+\section{예제 2.x 소스코드 각각 작성}
+\subsection{}
+\begin{lstlisting}
+\lstset{language=Java}
+public class Prob21 {
+
+	public static int sum(int n, int m) {
+		return n + m;
+	}
+	
+	public static void main(String[] args) {
+		int i = 20;
+		int s;
+		char a;
+		
+		s = sum(i, 10);
+		a = '?';
+		System.out.println(a);
+		System.out.println("Hello");
+		System.out.println(s);
+	}
+
+}
+\end{lstlisting}
+\subsection{}
+\begin{lstlisting}
+\lstset{language=Java}
+public class Prob22 {
+	public static void main(String[] args) {
+		final double PI = 3.14;
+		double radius = 10.0;
+		double circleArea = radius * radius * PI;
+		System.out.println("원의 면적 = " + circleArea);
+	} 
+}
+\end{lstlisting}
+\subsection{}
+\begin{lstlisting}
+\lstset{language=Java}
+public class Prob2_3 {
+  public static void main(String[] args) {
+    byte b = 127;
+    int i = 100;
+    System.out.println(b+i);
+    System.out.println(10/4);
+    System.out.println(10.0/4);
+    System.out.println((char)0x12340041);
+    System.out.println((byte)(b+i));
+    System.out.println((int)2.9 + 1.8);
+    System.out.println((int)(2.9+ 1.8));
+    System.out.println((int)2.9 + (int)1.8);
+  }
+}
+\end{lstlisting}
+\subsection{}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+public class Prob2_4 {
+  public static void main(String args[]) {
+    System.out.println("이름, 도시, 나이, 체중, 독신 여부를 빈칸으로 분리하여 입력하세요.");
+    Scanner scanner = new Scanner(System.in);
+
+    String name = scanner.next();
+    System.out.print("이름은 " + name + ", ");
+    
+    String city = scanner.next();
+    System.out.print("도시는 " + city + ", ");
+
+    int age = scanner.nextInt();
+    System.out.print("나이는 " + age + "살, ");
+
+    double weight = scanner.nextDouble();
+    System.out.print("체중은 " + weight + "kg, ");
+
+    boolean isSingle = scanner.nextBoolean();
+    System.out.print("독신 여부는 " + isSingle + "입니다.");
+    scanner.close();
+  }
+}
+\end{lstlisting}
+\subsection{}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    Scanner sc = new Scanner(System.in);
+    
+    System.out.print("정수를 입력하세요: ");
+    int time = sc.nextInt();
+    int second = time % 60;
+    int minute = (time / 60) % 60;
+    int hour = (time / 60) / 60;
+
+    System.out.print(time + "초는 ");
+    System.out.print(hour + "시간, ");
+    System.out.print(minute + "분, ");
+    System.out.println(second + "초입니다.");
+    sc.close();
+  }
+}
+\end{lstlisting}
+\subsection{}
+\begin{lstlisting}
+\lstset{}
+public class Main {
+  public static void main(String[] args) {
+    int a = 3, b = 3, c = 3;
+    a += 3;
+    b *= 3;
+    c %= 2;
+    System.out.println("a=" + a + ", b=" + b + ", c=" + c);
+
+    int d = 3;
+    a = d++;
+    System.out.println("a=" + a + ", d=" + d);
+    a = ++d;
+    System.out.println("a=" + a + ", d=" + d);
+    a = d--;
+    System.out.println("a=" + a + ", d=" + d);
+    a = --d;
+    System.out.println("a=" + a + ", d=" + d);
+  }
+}
+\end{lstlisting}
+\subsection{}
+\begin{lstlisting}
+\lstset{language=Java}
+public class Main {
+  public static void main(String[] args) {
+    System.out.println('a' > 'b');
+    System.out.println(3 >= 2);
+    System.out.println(-1 < 0);
+    System.out.println(3.45 <= 2);
+    System.out.println(3 == 2);
+    System.out.println(3 != 2);
+    System.out.println(!(3 != 2));
+
+    System.out.println((3 > 2) && (3 > 4));
+    System.out.println((3 != 2) || (-1 > 0));
+    System.out.println((3 != 2) ^ (-1 > 0));
+  }
+}
+\end{lstlisting}
+\section{교재 110p 1번 문제}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Prob3 {
+  public static void main(String args[]) {
+    // Scanner 객체 생성 및 초기화
+    Scanner sc = new Scanner(System.in);
+    System.out.print("원화를 입력하세요 (단위 원) >> ");
+    int gets = sc.nextInt();
+    // 문제에서 1100원을 1달러로 제시함
+    System.out.println(gets + "원은 $" + (double)gets/1100 + "입니다.");
+  }
+}
+\end{lstlisting}
+\section{제곱미터-평 변환 프로그램 작성}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    System.out.print("제곱미터를 입력하세요 >> ");
+    // Scanner 객체 생성 및 초기화
+    Scanner sc = new Scanner(System.in);
+    int gets = sc.nextInt();
+
+    // 문제에서 1제곱미터는 0.305785평으로 제시함
+    System.out.println(gets + "m^2은 " + gets*0.305785 + "평 입니다.");
+  }
+}
+\end{lstlisting}
+\section{교재 110p 2번 문제}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    // Scanner 객체 초기화
+    Scanner sc = new Scanner(System.in);
+    System.out.print("2자리수 정수 입력 (10~99) >> ");
+    int gets = sc.nextInt();
+    // gets/10 = 십의 자리 수, gets%10 = 일의 자리 수
+    // 문제에서 제시한 조건인 두자리수 
+    if (gets/10 == gets%10)
+      System.out.println("Yes! 10의 자리와 1의 자리가 같습니다.");
+    else
+      System.out.println("No! 10의 자리와 1의 자리가 다릅니다.");
+  }
+}
+\end{lstlisting}
+\section{Proxima Centauri}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+import java.lang.Math;
+
+public class Main {
+  public static void main(String args[]) {
+    double distance = 40 * Math.pow(10, 12);
+    double speed = 3600 * 24 * 365;
+    // speed값 선언 시 단위 변환 처리도 함께할 경우
+    // double speed = 3600d * 24 * 365 * 300000
+    // 와 같이 값 하나를 double형으로 지정하여(3600d)
+    // 변수 할당 직전 int형 계산으로 오버플로우가 발생하지 않도록 해야함
+    // 그렇지 않으면 정수형 계산에서 발생한 오버플로우의 영향으로
+    // double형 변수에 의도한 값이 할당되지 않음
+    System.out.println("걸리는 시간은 약 " + distance/(300000*speed) + " 광년 입니다.");
+  }
+}
+\end{lstlisting}
+\section{보이저 1호}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    // 6번 문제 주석에서와 같이 정수형 계산의 오버플로우를 방지하는 차원에서
+    // 값을 분할함
+    double distance = 40 * Math.pow(10, 12);
+    double speed = 24 * 365;
+    System.out.println("걸리는 시간은 약 " + distance/(600000*speed) + " 광년 입니다.");
+  }
+}
+\end{lstlisting}
+\section{2차 방정식}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+import java.lang.Math;
+
+public class Main {
+  public static void main(String args[]) {
+    // Scanner 객체 초기화
+    Scanner sc = new Scanner(System.in);
+    int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
+    // 2차방정식의 근의 공식: x = b +_(b^2-4ac)/2a
+    System.out.println("x1 = " + (-b+Math.sqrt(Math.pow(b, 2)-4*a*c))/2*a);
+    System.out.println("x2 = " + (-b-Math.sqrt(Math.pow(b, 2)-4*a*c))/2*a);
+  }
+}
+\end{lstlisting}
+\section{교재 111p 6번 문제}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    // Scanner 객체 초기화
+    Scanner sc = new Scanner(System.in);
+    System.out.print("1~99 사이의 정수를 입력하시오 >> ");
+    int gets = sc.nextInt();
+    int cnt = 0;
+    // 일의자리 숫자 처리
+    // 일의자리 숫자가 0이 아니고 3으로 나눈 나머지가 0이라면 3/6/9가 포함되었다 볼 수 있음
+    if (gets != 0 && (gets % 10) % 3 == 0) cnt += 1;
+    System.out.println(gets);
+    // 십의자리 숫자 처리
+    // 십의자리 숫자가 0이 아니고 3으로 나눈 나머지가 0이라면 3/6/9가 포함되었다 볼 수 있음
+    if ((gets / 10) != 0 && (gets / 10) % 3 == 0) cnt += 1;
+    // String의 repeat 메서드는 인자값만큼 String 객체를 반복함
+    System.out.println("박수" + "짝".repeat(cnt));
+  }
+}
+\end{lstlisting}
+\section{교재 111p 9번 문제}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+import java.lang.Math;
+
+public class Main {
+  public static void main(String args[]) {
+    // Scanner 객체 초기화
+    Scanner sc = new Scanner(System.in);
+    System.out.print("원의 중심과 반지름 입력 >> ");
+    double cx = sc.nextDouble();
+    double cy = sc.nextDouble();
+    double radius = sc.nextDouble();
+    System.out.print("점 입력 >> ");
+    double x = sc.nextDouble();
+    double y = sc.nextDouble();
+    // 원의 정의: 한 점으로부터 일정한 거리만큼 떨어져있는 점들의 자취
+    // 두 점 사이의 거리 공식 사용
+    double dis = Math.sqrt(Math.pow(cx-x, 2) + Math.pow(cy-y, 2));
+    // 원의 중심과 원이 반지름보다 멀리 떨어져있는지 체크
+    if (dis <= radius)
+      System.out.println(String.format("점 (%f, %f)는 원 안에 있다.", x, y));
+    else
+      System.out.println(String.format("점 (%f, %f)는 원 밖에 있다.", x, y));
+  }
+}
+\end{lstlisting}
+\section{교재 112p 11번 문제}
+\subsection{if-else문 사용}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    // Scanner 객체 생성
+    Scanner sc = new Scanner(System.in);
+    System.out.print("달을 입력하세요(1~12)>>");
+    int month = sc.nextInt();
+    // if문으로 순차적으로 계절 검출
+    // else if 문을 사용하면 조건 표현식을 하나만 작성하여 계절을 확인할 수 있음
+    if (month <= 2) System.out.println("겨울");
+    else if (month <= 5) System.out.println("봄");
+    else if (month <= 8) System.out.println("여름");
+    else if (month <= 11) System.out.println("여름");
+    else if (month <= 12) System.out.println("겨울");
+    else System.out.println("잘못 입력");
+  }
+}
+\end{lstlisting}
+\subsection{switch문 사용}
+\begin{lstlisting}
+\lstset{language=Java}
+import java.util.Scanner;
+
+public class Main {
+  public static void main(String args[]) {
+    // Scanner 객체 생성 및 초기화
+    Scanner sc = new Scanner(System.in);
+    System.out.print("달을 입력하세요(1~12)>>");
+    int month = sc.nextInt();
+    switch (month) {
+      case 3:
+      case 4:
+      case 5:
+        // switch-case문에서 case는 break를 만나기 전까지
+        // 처리를 계속하므로 3 4 5월을 한번에 처리할 수 있음
+        System.out.println("봄");
+        break;
+      case 6:
+      case 7:
+      case 8:
+        // 같은 방식으로 처리
+        System.out.println("여름");
+        break;
+      case 9:
+      case 10:
+      case 11:
+        System.out.println("가을");
+        break;
+      case 12:
+      case 1:
+      case 2:
+        System.out.println("겨울");
+        break;
+      default:
+        System.out.println("잘못입력");
+        break;
+    }
+  }
+}
+\end{lstlisting}
+\end{document}
