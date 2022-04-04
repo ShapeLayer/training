@@ -1,15 +1,4 @@
-//; # \u000a import java.util.Scanner; /*
-//; # \u000a public class Main { /*
-//; # \u000a   public static void main(String[] args) { /*
-//; # \u000a     Scanner sc = new Scanner(System.in); /*
-//; # \u000a     int n = sc.nextInt(); /*
-//; # \u000a     String puts = ""; /*
-//; # \u000a     for (int i = 0; i <= n; i++) { /*
-//; # \u000a       puts += Integer.toBinaryString(i); /*
-//; # \u000a     } /*
-//; # \u000a     System.out.println(puts); /*
-//; # \u000a   } /*
-//; # \u000a } /*
+//; # \u000a import java.util.Scanner; public class Main { public static void main(String[] args) { Scanner sc = new Scanner(System.in); int n = sc.nextInt(); String puts = ""; for (int i = 0; i <= n; i++) { puts += Integer.toBinaryString(i); } System.out.println(puts); } } /*
 #if true /*
 n = gets.to_i
 put = ""
@@ -34,13 +23,7 @@ int main() {
     return 0;
 }
 // */
-// */ let n = Int(readLine()!)!
-var puts = ""
-for i in 0...n {
-  puts += String(i, radix: 2)
-}
-print(puts)
- // \u000a /*
+// */ let n = Int(readLine()!)!; var puts = ""; for i in 0...n { puts += String(i, radix: 2); }; print(puts); // \u000a /*
 #endif
 /*
 =end

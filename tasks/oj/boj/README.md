@@ -177,6 +177,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1219"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 1219 오민식의 고민</a></td>
+    <td><a href="./java/1219.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1237"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 1237 정ㅋ벅ㅋ</a></td>
     <td><a href="./ruby/1237.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1249,6 +1254,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10156"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10156 과자</a></td>
     <td><a href="./python/10/10156.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10159"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 10159 저울</a></td>
+    <td><a href="./java/10159.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
 
   <tr>
