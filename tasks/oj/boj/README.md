@@ -368,7 +368,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1789"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1789 수들의 합</a></td>
-    <td><a href="./python/1/1789.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./ruby/1789.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
 
   <tr>
@@ -1462,6 +1462,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10953"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10953 A+B - 6</a></td>
+    <td><a href="./ruby/10953.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10984"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10984 내 학점을 구해줘</a></td>
     <td><a href="./python/10/10984.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1594,6 +1599,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11725"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 11725 트리의 부모 찾기</a></td>
     <td><a href="./rust/11725.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11758"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 11758 CCW</a></td>
+    <td><a href="./rust/11758.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -1809,6 +1819,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/17009"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 17009 Winning Score</a></td>
     <td><a href="./java/17009.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/17081"><img src="https://static.solved.ac/tier_small/20.svg" height="13"> 17081 RPG Extreme</a></td>
+    <td><a href="./python/17/17081.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
