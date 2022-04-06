@@ -1257,6 +1257,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10159"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 10159 저울</a></td>
+    <td><a href="./java/10159.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10162"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10162 전자레인지</a></td>
     <td><a href="./python/10/10162.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1839,6 +1844,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/18108"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 18108 1998년생인 내가 태국에서는 2541년생?!</a></td>
     <td><a href="./java/18108.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/18110"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 18110 solved.ac</a></td>
+    <td><a href="./python/18/18110.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
