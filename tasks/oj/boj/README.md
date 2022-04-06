@@ -1847,6 +1847,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/18110"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 18110 solved.ac</a></td>
+    <td><a href="./python/18/18110.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/18111"><img src="https://static.solved.ac/tier_small/9.svg" height="13"> 18111 마인크래프트</a></td>
     <td><a href="./rust/18111.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
