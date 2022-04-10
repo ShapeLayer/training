@@ -492,6 +492,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2193"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2193 이친수</a></td>
+    <td><a href="./python/2/2193.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2206"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 2206 벽 부수고 이동하기</a></td>
     <td><a href="./rust/2206.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
