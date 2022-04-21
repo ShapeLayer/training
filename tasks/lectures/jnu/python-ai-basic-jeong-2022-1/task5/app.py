@@ -1,7 +1,4 @@
 # 문제 제시 값
-from cv2 import split
-
-
 text = 'Life is too short, you need python'
 
 # 파이썬의 print() 함수는 형식이 달라도 ,로 나눠서 넣으면 알아서 잘 출력됨
