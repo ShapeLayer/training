@@ -1844,11 +1844,6 @@
   </tr>
 
   <tr>
-    <td><a href="https://acmicpc.net/problem/17081"><img src="https://static.solved.ac/tier_small/20.svg" height="13"> 17081 RPG Extreme</a></td>
-    <td><a href="./python/17/17081.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
-  </tr>
-
-  <tr>
     <td><a href="https://acmicpc.net/problem/17202"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 17202 핸드폰 번호 궁합</a></td>
     <td><a href="./python/17/17202.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
