@@ -462,6 +462,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2042"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 2042 구간 합 구하기</a></td>
+    <td><a href="./python/2/2042.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2108"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 2108 통계학</a></td>
     <td><a href="./python/2/2108.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1489,6 +1494,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10998"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 10998 A×B</a></td>
     <td><a href="./aheui/10998.aheui"><img src="https://via.placeholder.com/13/fff/000?text=%20"> 아희</a><br><a href="./cpp/10998.cpp"><img src="https://via.placeholder.com/13/f34b7d/000?text=%20"> C++</a><br><a href="./csharp/10998.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a><br><a href="./python/10/10998.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/10998.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10999"><img src="https://static.solved.ac/tier_small/17.svg" height="13"> 10999 구간 합 구하기 2</a></td>
+    <td><a href="./rust/10999.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
