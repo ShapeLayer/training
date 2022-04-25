@@ -6,6 +6,8 @@
 <summary>주요 알고리즘 개념들</summary>
 <ul>
   <li>선분 교차 알고리즘 - <a href="./swift/17386.swift">17386 선분 교차 1</a></li>
+  <li>세그먼트 트리 - <a href="./python/2/2042.py">2042 구간 합 구하기</a></li>
+  <li><a href="https://book.acmicpc.net/ds/segment-tree-lazy-propagation">레이지 세그먼트 트리</a> - <a href="./rust/10999.rs">10999 구간 합 구하기 2</a></li>
 </ul>
 </details>
 
@@ -1842,11 +1844,6 @@
   </tr>
 
   <tr>
-    <td><a href="https://acmicpc.net/problem/17081"><img src="https://static.solved.ac/tier_small/20.svg" height="13"> 17081 RPG Extreme</a></td>
-    <td><a href="./python/17/17081.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
-  </tr>
-
-  <tr>
     <td><a href="https://acmicpc.net/problem/17202"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 17202 핸드폰 번호 궁합</a></td>
     <td><a href="./python/17/17202.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -1979,6 +1976,31 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/24078"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24078 余り (Remainder)</a></td>
     <td><a href="./ruby/24078.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24262"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 24262 알고리즘 수업 - 알고리즘의 수행 시간 1</a></td>
+    <td><a href="./text/24262.txt"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Text</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24263"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 24263 알고리즘 수업 - 알고리즘의 수행 시간 2</a></td>
+    <td><a href="./csharp/24263.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24264"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 24264 알고리즘 수업 - 알고리즘의 수행 시간 3</a></td>
+    <td><a href="./csharp/24264.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24265"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 24265 알고리즘 수업 - 알고리즘의 수행 시간 4</a></td>
+    <td><a href="./csharp/24265.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24266"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 24266 알고리즘 수업 - 알고리즘의 수행 시간 5</a></td>
+    <td><a href="./csharp/24266.cs"><img src="https://via.placeholder.com/13/178600/000?text=%20"> C#</a></td>
   </tr>
 
   <tr>
