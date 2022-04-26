@@ -549,6 +549,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2357"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 2357 최솟값과 최댓값</a></td>
+    <td><a href="./rust/2357.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2420"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2420 사파리월드</a></td>
     <td><a href="./ruby/2420.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
@@ -1431,6 +1436,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10866"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 10866 덱</a></td>
     <td><a href="./python/10/10866.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10868"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 10868 최솟값</a></td>
+    <td><a href="./rust/10868.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
