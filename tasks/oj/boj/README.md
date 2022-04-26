@@ -1159,6 +1159,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9025"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 9025 Widest Path</a></td>
+    <td><a href="./python/9/9025.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9076"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 9076 점수 집계</a></td>
     <td><a href="./java/9076.1.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a><br><a href="./java/9076.2.java"><img src="https://via.placeholder.com/13/b07219/000?text=%20"> Java</a></td>
   </tr>
