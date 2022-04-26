@@ -5,8 +5,12 @@ public class Main {
     Scanner sc = new Scanner(System.in);
     // 값 초기화
     int gets = -1, arr[];
-    // puts는 값이 이미 생성되었는지 확인하는 용도로 사용됨
-    // puts[val] = true라면 val은 이미 출력 대상인 것
+    /*
+     puts는 값이 이미 생성되었는지 확인하는 용도로 사용됨
+     puts[val] = true라면 val은 이미 출력 대상인 것
+     boolean[]은 디폴트 초기화값이 false임
+     참조: https://www.tutorialspoint.com/how-can-we-initialize-a-boolean-array-in-java
+    */
     boolean puts[] = new boolean[101];
     puts[0] = true; // 출력 범위가 1부터 100 사이 정수이므로 0은 사용되는 값이 아님: 다른 용도로 사용
     System.out.print("정수 몇 개? >> ");
