@@ -6,7 +6,7 @@
 <summary>주요 알고리즘 개념들</summary>
 <ul>
   <li>선분 교차 알고리즘 - <a href="./swift/17386.swift">17386 선분 교차 1</a></li>
-  <li><a href="https://book.acmicpc.net/ds/segment-tree">세그먼트</a> <a href="https://velog.io/@kimdukbae/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC-Segment-Tree">트리</a> - <a href="./python/2/2042.py">2042 구간 합 구하기</a></li>
+  <li>세그먼트 트리 - <a href="./python/2/2042.py">2042 구간 합 구하기</a></li>
   <li><a href="https://book.acmicpc.net/ds/segment-tree-lazy-propagation">레이지 세그먼트 트리</a> - <a href="./rust/10999.rs">10999 구간 합 구하기 2</a></li>
 </ul>
 </details>
@@ -506,6 +506,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2206"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 2206 벽 부수고 이동하기</a></td>
     <td><a href="./rust/2206.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2229"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2229 조 짜기</a></td>
+    <td><a href="./python/2/2229.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
 
   <tr>
@@ -1576,6 +1581,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11399"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 11399 ATM</a></td>
     <td><a href="./rust/11399.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11437"><img src="https://static.solved.ac/tier_small/13.svg" height="13"> 11437 LCA</a></td>
+    <td><a href="./rust/11437.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
