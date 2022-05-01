@@ -1719,6 +1719,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/14438"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 14438 수열과 쿼리 17</a></td>
+    <td><a href="./rust/14438.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/14489"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 14489 치킨 두 마리 (...)</a></td>
     <td><a href="./ruby/14489.rb"><img src="https://via.placeholder.com/13/701516/000?text=%20"> Ruby</a></td>
   </tr>
