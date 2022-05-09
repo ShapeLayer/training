@@ -1,12 +1,20 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-\usepackage{kotex}
+\usepackage{xetexko}
 \usepackage{listings}
 \usepackage{color}
 \usepackage[a4paper, top=20mm, bottom=20mm]{geometry}
 
+\renewcommand{\familydefault}{\sfdefault}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
 
-\title{자바프로그래밍및실습 과제 2}
+\lstset{frame=tb,
+  language=Java
+}
+
+\title{자바프로그래밍및실습 과제 3}
 \author{214823 박종현}
 \date{June 2022}
 
@@ -14,5 +22,7 @@
 
 \maketitle
 \pagebreak
+
+\lstinputlisting{../java/Prob2.java}
 
 \end{document}
