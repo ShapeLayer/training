@@ -61,6 +61,7 @@ public class Phonebook {
         }
       }
       // `flag`가 `false`라면 검색 결과가 존재하지 않았다는 것이므로 fallback 처리
+      // 문제에서 제시한 에제에서 "이(가) 없습니다."로 출력함
       if (!flag) { System.out.println(String.format("%s 이(가) 없습니다.", gets)); }
     }
     System.out.println("프로그램을 종료합니다.");
