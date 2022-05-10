@@ -31,7 +31,7 @@ public class Phonebook {
     // for문으로 배열의 요소들을 순차적으로 탐색
     // 사용자로부터 입력받고, 입력받은 값으로 초기화 진행
     for (int i = 0; i < n; i++) {
-      System.out.print("이름과 전화번호 (이름과 번호는 빈 칸없이 입력 >>> ");
+      System.out.print("이름과 전화번호 (이름과 번호는 빈 칸없이 입력)>> ");
       String name = sc.next();
       String tel = sc.next();
       // Phone 배열의 i번째 요소를 사용자의 입력값으로 초기화

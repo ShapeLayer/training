@@ -2,5 +2,5 @@
 
 ## TeX 컴파일
 ```sh
-xelatex -shell-escape main.tex && dvipdfm main.dvi
+xelatex -shell-escape main.tex
 ```
