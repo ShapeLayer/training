@@ -14,14 +14,8 @@
 
 ---
 * [전남대학교](./jnu/)
-  * [C프로그래밍기초및실습 (컴퓨터정보통신공학과)](./jnu/c-ce-basic/)
-  * [JAVA프로그래밍및실습 (인공지능학부)](./jnu/java-ai-basic)
-  * [(파이썬) 공학을위한컴퓨터과학적사고 (인공지능학부)](./jnu/python-ai-basic)
-  * [(파이썬) 기초프로그래밍및실습 (컴퓨터정보통신공학과)](./jnu/python-ce)
 * [홍익대학교](./hongik/)
 * [숭실대학교](./ssu/)
 * [조선대학교](./chosun/)
-  * [합격자 예비학기 파이썬 교양 과목](./chosun/python-early/)
-  * [(파이썬 전공 기초 과목)](./chosun/python-first-first/)
 * [목포대학교](./mokpo/)
 * [한동대학교](./handong/)

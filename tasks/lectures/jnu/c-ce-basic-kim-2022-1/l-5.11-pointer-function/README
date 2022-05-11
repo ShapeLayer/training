@@ -1,0 +1,5 @@
+이전의 Swap 함수를 떠올려보자
+* Call/Passing by value - 값을 전달함
+===============
+이제 포인터를 배웠으니 값 스코프를 무시하고 값을 처리할 수 있음
+* Call/Passing by Pointer
