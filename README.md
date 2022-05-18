@@ -8,9 +8,9 @@ while not talent:
 
 ## Shortcuts
 **Major Online Judges**
-* [LeetCode Solutions](./tasks/oj/leetcode/)
 * [Baekjoon Online Judge Solutions](./tasks/oj/boj/)
   * Related: [2022 PIMM Algorithm Study](https://github.com/rootachieve/Algorithm-study)
+* [LeetCode Solutions](./tasks/oj/leetcode/)
 
 **Minor Online Judges**
 * [Programmers Solutions](./tasks/oj/programmers)
