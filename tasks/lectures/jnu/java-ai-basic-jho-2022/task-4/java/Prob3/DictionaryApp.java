@@ -2,6 +2,7 @@
  * @author @ShapeLayer
  */
 
+// 문제 제시 코드
 public class DictionaryApp {
   public static void main(String[] args) {
     Dictionary dic = new Dictionary(10);
