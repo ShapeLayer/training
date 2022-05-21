@@ -1,59 +1,8 @@
-use std::{io, fmt};
-
-struct Solution {
-  n: i64, 
-  nm: i64, 
-  nd: i64,
-  params: Vec<String>,
-  majors: Vec<i64>,
-  dontcares: Vec<i64>
-}
-
-impl Solution {
-  pub fn new(n: i64, params: Vec<String>, nm: i64, nd: i64, majors: Vec<i64>, dontcares: Vec<i64>) -> Solution {
-    let mut solution: Solution = Solution { n: n, nm: nm, nd: nd, params: params, majors: majors, dontcares: dontcares };
-    solution.init();
-    solution
-  }
-
-  fn init(&mut self) {
-
-  }
-}
-
-impl fmt::Display for Solution {
-  fn fmt(&self, &mut fmt::Formatter<'_>) -> fmt::Result {
-    write!(f, "{}(bin: {}): {}", self.n, self.binary_size, self.binary)
-  }
-}
-
-struct ParamPos {
-  n: i64,
-  binary_size: i64,
-  binary: Vec<bool>
-}
-
-impl ParamPos {
-  pub fn new(n: i64) -> ParamPos {
-    let mut paramPos: ParamPos = ParamPos { n: n, binary_size: binary_size, binary: vec![false; n as usize] };
-    paramPos.init();
-    paramPos
-  }
-  
-  fn init(&mut self) {
-    let mut n = self.n;
-    for i in 0..binary_size {
-      self.binary[i as usize] = n % 2;
-      n /= 2;
-    }
-  }
-}
-
-impl fmt::Display for ParamPos {
-  fn fmt(&self, &mut fmt::Formatter<'_>) -> fmt::Result {
-    write!(f, "{}(bin: {}): {}", self.n, self.binary_size, self.binary)
-  }
-}
+use std::io;
+mod solution;
+use solution::solution::Solution;
+mod param_pos;
+use param_pos::param_pos::ParamPos;
 
 fn main() {
   let mut gets = String::new();
