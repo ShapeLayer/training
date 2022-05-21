@@ -3,6 +3,7 @@
 ## Getting Started
 ```sh
 cargo run
+cat in.in | cargo run
 ```
 
 ## Usage
