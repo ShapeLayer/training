@@ -300,7 +300,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/1476"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1476 날짜 계산</a></td>
-    <td><a href="./python/1/1476.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+    <td><a href="./python/1/1476.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a><br><a href="./rust/1476.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -509,6 +509,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2212"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2212 센서</a></td>
+    <td><a href="./rust/2212.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2229"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2229 조 짜기</a></td>
     <td><a href="./python/2/2229.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
   </tr>
@@ -526,6 +531,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2292"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2292 벌집</a></td>
     <td><a href="./python/2/2292.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2293"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2293 동전 1</a></td>
+    <td><a href="./rust/2293.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
@@ -1861,6 +1871,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/16928"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 16928 뱀과 사다리 게임</a></td>
     <td><a href="./python/16/16928.py"><img src="https://via.placeholder.com/13/3572A5/000?text=%20"> Python</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/16953"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 16953 A → B</a></td>
+    <td><a href="./rust/16953.rs"><img src="https://via.placeholder.com/13/dea584/000?text=%20"> Rust</a></td>
   </tr>
 
   <tr>
