@@ -1,4 +1,4 @@
-# Chapter 06: Struct
+# Chapter 06: Structure
 
 ## GCC로 빌드 후 실행하기
 ```sh
