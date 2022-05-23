@@ -1,0 +1,5 @@
+red를 입력하세요(0~255) : green를 입력하세요(0~255) : blue를 입력하세요(0~255) : RGB값 : fff400
+
+RGB 값을 16진수로 입력하세요 : RGB 값 ff00ab 중 red   : 171
+RGB 값 ff00ab 중 green :   0
+RGB 값 ff00ab 중 blue  : 255

@@ -1,5 +1,6 @@
 # Chapter 10: Functions
 
+## GCC로 빌드 후 실행하기
 ```sh
 gcc Lab10.c -o main.exe && cat in.in | ./main.exe > out.out # Windows
 gcc Lab10.c -o main.o && cat in.in | ./main.o > out.out # macOS, Linux
