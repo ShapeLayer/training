@@ -1,5 +1,14 @@
 # 5월 23일 그 외의 키워드들과 포인터 활용
 
+1. [레지스터 변수](./1-register.c)
+2. [정적(스태틱) 변수](./2-static-variable.c)
+3. [포인터로 문자열 다루기](./3-string-with-pointer.c)
+4. [포인터 배열](./4-pointer-array.c)
+5. [포인터 배열](./5-pointer-array.c)
+6. [구조체 포인터](./6-struct-pointer.c)
+7. [포인터 배열](./7-pointer-array.c)
+8. [포인터 배열](./8-pointer-array.c)
+
 ## 레지스터
 * CPU의 저장공간에 정보를 저장함
 * 레지스터 변수는 포인터 변수를 사용하지 않는 것을 목적으로 하기 때문에 포인터 변수를 선언할 수 없다.
