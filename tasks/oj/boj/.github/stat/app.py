@@ -15,7 +15,7 @@ C = {
     'solved_api': 'https://solved.ac/api/v3/problem/lookup?problemIds={problem_id}',
     'solved_badge': 'https://static.solved.ac/tier_small/{problem_level}.svg',
     'placeholder': 'https://via.placeholder.com/{placeholder_size}/{placeholder_color}/000?text=%20',
-    'shieldsio': 'https://img.shields.io/badge/-{message}-{background_color}?logo={logo}&logoColor={logo_color}',
+    'shieldsio': 'https://img.shields.io/badge/-{message}-{background_color}?logo={logo}&logoColor={logo_color}&style=flat-square',
     'language_color': 'https://raw.githubusercontent.com/ozh/github-colors/master/colors.json',
     'solved_badge_height': 13,
     'placeholder_size': 13,
@@ -196,7 +196,7 @@ if __name__ == '__main__':
                 placeholder=C['placeholder'].format(placeholder_size=C['placeholder_size'], placeholder_color=language_color),
                 language=EXT_LINKS[file[0]]['name']
             )]'''
-            links += ['<a href="{src}"><img src="{placeholder}"></a>'.format(
+            links += ['<a href="{src}"><img src="{placeholder}" style="max-width: none; height: 1.3em;"></a>'.format(
                 src=file[1],
                 placeholder=C['shieldsio'].format(
                     message=EXT_LINKS[file[0]]['name'].replace('#', '%23'),
