@@ -1954,6 +1954,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/18826"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 18826 A+B (MC)</a></td>
+    <td><a href="./minecraft/18826.mca"><img src="https://via.placeholder.com/13/fff/000?text=%20"> Minecraft</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/20040"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 20040 사이클 게임</a></td>
     <td><a href="./rust/20040.rs"><img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=000"></a></td>
   </tr>
