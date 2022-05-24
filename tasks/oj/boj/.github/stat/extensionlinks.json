@@ -3,72 +3,96 @@
     "name": "아희",
     "dir": "aheui/",
     "ext": "aheui",
+    "logo": "",
+    "logo_color": "",
     "github-colors": "__NONE__"
   },
   "c": {
     "name": "C",
     "dir": "c/",
     "ext": "c",
+    "logo": "c",
+    "logo_color": "fff",
     "github-colors": "C"
   },
   "cpp": {
     "name": "C++",
     "dir": "cpp/",
     "ext": "cpp",
+    "logo": "c%2B%2B",
+    "logo_color": "fff",
     "github-colors": "C++"
   },
   "csharp": {
     "name": "C#",
     "dir": "csharp/",
     "ext": "cs",
+    "logo": "c-sharp",
+    "logo_color": "fff",
     "github-colors": "C#"
   },
   "java": {
     "name": "Java",
     "dir": "java/",
     "ext": "java",
+    "logo": "java",
+    "logo_color": "fff",
     "github-colors": "Java"
   },
   "python": {
     "name": "Python",
     "dir": "python/",
     "ext": "py",
+    "logo": "python",
+    "logo_color": "fff",
     "github-colors": "Python"
   },
   "ruby": {
     "name": "Ruby",
     "dir": "ruby/",
     "ext": "rb",
+    "logo": "ruby",
+    "logo_color": "fff",
     "github-colors": "Ruby"
   },
   "rust": {
     "name": "Rust",
     "dir": "rust/",
     "ext": "rs",
+    "logo": "rust",
+    "logo_color": "000",
     "github-colors": "Rust"
   },
   "swift": {
     "name": "Swift",
     "dir": "swift/",
     "ext": "swift",
+    "logo": "swift",
+    "logo_color": "fff",
     "github-colors": "Swift"
   },
   "text": {
     "name": "Text",
     "dir": "text/",
     "ext": "txt",
+    "logo": "",
+    "logo_color": "000",
     "github-colors": "__NONE__"
   },
   "umm": {
     "name": "엄준식",
     "dir": "umm/",
     "ext": "umm",
+    "logo": "red hat",
+    "logo_color": "000",
     "github-colors": "__NONE__"
   },
   "minecraft": {
     "name": "Minecraft",
     "dir": "minecraft/",
     "ext": "mca",
+    "logo": "minecraft",
+    "logo_color": "000",
     "github-colors": "__NONE__"
   }
 }
