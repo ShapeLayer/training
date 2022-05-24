@@ -1950,7 +1950,7 @@
 
   <tr>
     <td><a href="https://acmicpc.net/problem/18826"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 18826 A+B (MC)</a></td>
-    <td><a href="./minecraft/18826.mca"><img src="https://img.shields.io/badge/-Minecraft-fff?logo=minecraft&logoColor=000"></a></td>
+    <td><a href="./minecraft/18826.mca"><img src="https://img.shields.io/badge/-Minecraft-fff?logo=databricks&logoColor=000"></a></td>
   </tr>
 
   <tr>
