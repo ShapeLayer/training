@@ -64,5 +64,11 @@
     "dir": "umm/",
     "ext": "umm",
     "github-colors": "__NONE__"
+  },
+  "minecraft": {
+    "name": "Minecraft",
+    "dir": "minecraft/",
+    "ext": "mca",
+    "github-colors": "__NONE__"
   }
 }
