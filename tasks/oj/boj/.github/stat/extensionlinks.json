@@ -91,7 +91,7 @@
     "name": "Minecraft",
     "dir": "minecraft/",
     "ext": "mca",
-    "logo": "minecraft",
+    "logo": "databricks",
     "logo_color": "000",
     "github-colors": "__NONE__"
   }
