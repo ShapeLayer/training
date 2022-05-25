@@ -999,6 +999,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/4378"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 4378 트ㅏㅊ;</a></td>
+    <td><a href="./python/4/4378.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/4659"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 4659 비밀번호 발음하기</a></td>
     <td><a href="./python/4/4659.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1136,6 +1141,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/7287"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 7287 등록</a></td>
     <td><a href="./python/7/7287.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/7511"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 7511 소셜 네트워킹 어플리케이션</a></td>
+    <td><a href="./python/7/7511.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1861,6 +1871,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/16600"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 16600 Contemporary Art</a></td>
     <td><a href="./python/16/16600.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/16673"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 16673 고려대학교에는 공식 와인이 있다</a></td>
+    <td><a href="./python/16/16673.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
