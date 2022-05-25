@@ -1969,6 +1969,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/18829"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 18829 0초 후에 제출할 수 있습니다.</a></td>
+    <td><a href="./python/18/18829.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/20040"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 20040 사이클 게임</a></td>
     <td><a href="./rust/20040.rs"><img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
