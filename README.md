@@ -16,7 +16,7 @@ while not talent:
 * [Programmers Solutions](./tasks/oj/programmers)
 * [Euler Online Judge Solutions](./tasks/oj/euleroj)
 
-**University**
+**University Lectures**
 * [Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
 
 ## Directories
