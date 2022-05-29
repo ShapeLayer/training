@@ -21,13 +21,13 @@ def arabia_to_roman(n: int) -> str:
         if n >= 1000:
             res += 'M'
             n -= 1000
-        elif n>=900:
+        elif n >= 900:
             res += 'CM'
             n -= 900
         elif n >= 500:
             res += 'D'
             n -= 500
-        elif n>=400:
+        elif n >= 400:
             res += 'CD'
             n -= 400
         elif n >= 100:
