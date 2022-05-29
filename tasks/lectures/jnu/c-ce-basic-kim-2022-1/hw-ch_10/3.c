@@ -54,7 +54,7 @@ void exec_get_abs() {
   printf("절대값을 씌울 수를 입력하세요 : ");
   double gets;
   scanf("%lf", &gets);
-  printf("%lf의 절대값은 %lf입니다.", gets, ABS(gets));
+  printf("%lf의 절대값은 %lf입니다.\n", gets, ABS(gets));
 }
 
 void exec_print_now() {
