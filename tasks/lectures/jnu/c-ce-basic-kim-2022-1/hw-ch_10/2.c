@@ -22,10 +22,11 @@ int fib_recur(int n) {
 }
 
 int fib_loop(int n) {
-  int* dp = (int*)malloc(sizeof(int) * (n+1));
+  int* dp = NULL;
+  dp = (int*)malloc(sizeof(int) * (n+1));
   dp[1] = 1;
   dp[2] = 1;
-  for (int i = 2; i <= n; i++) {
+  for (int i = 3; i <= n; i++) {
     dp[i] = dp[i-1] + dp[i-2];
   }
   int res = *(dp+n);
