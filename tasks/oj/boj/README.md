@@ -114,6 +114,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1080"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1080 행렬</a></td>
+    <td><a href="./python/1/1080.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 1085 직사각형에서 탈출</a></td>
     <td><a href="./python/1/1085.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
