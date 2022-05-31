@@ -10,6 +10,7 @@ while not talent:
 **Major Online Judges**
 * [Baekjoon Online Judge Solutions](./tasks/oj/boj/)
   * Related: [2022 PIMM Algorithm Study](https://github.com/rootachieve/Algorithm-study)
+* [Codeforces](./tasks/oj/codeforces/)
 * [LeetCode Solutions](./tasks/oj/leetcode/)
 
 **Minor Online Judges**
