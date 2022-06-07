@@ -1,0 +1,15 @@
+During the 1990s, data centre floor space, power, cooling and operating expenses  increased and lead  to the  adoption of grid  computing  and  virtualization.
+Through  grid  computing users  could  plug  in  and  use  a  metered  utility  service on massive computer environments.
+By allowing the infrastructure to be  virtualized and shared across consumers, service providers needed  to change  their business model  to  provide  for  remotely  managed  services and  lower costs.
+As services became more and more distributed, a need for  integration  and  management  of  these  services  became important  and  lead  to  the  emergence  of  service-oriented architecture  (SOA).
+Cloud  computing  developed  out  of  this need to provide IT resources ‘as-a-service’.
+Cloud computing is  characterised by  consumers who use cloud services as needed, who consume shared resources as a service  that  can rapidly  and  elastically  scale up  or  down  as needed, who pay only for what is used and who access services over a networked infrastructure.
+Cloud computing is changing the  current  IT  delivery  model  for  services. 
+Benefits  for business and  IT include reduced costs, scalability, flexibility, capacity  utilisation,  higher  efficiencies  and  mobility.
+This is test for that sgrep find a computer string cloud or Cloud, Cloud Comupting no more line printed.
+Predictions for growth indicate massive developments for and implementations of  cloud  computing  services, including that the cloud computing services market is likely to reach between $150 billion in 2014 [1-2] and $222.5 billion in 2015 [3].
+As  with  any technology,  though,  cloud computing  raises many  concerns including  security,  management and  control, disaster  recovery  and  business  continuity,  supplier management,  regulations  and  legislations,  and  the  lack  of standards and  guidelines.
+In order  to minimise the impact of these  concerns,  risk  mitigation  is imperative  if organisations want  to  take  advantage  of  the  many  benefits  of  cloud computing while protecting and safeguarding systems and data.
+Management is under pressure to ensure adequate mitigation of risks  to  reduce  the  impact  on  business.
+Risk  mitigation strategies  and  the  implementation  of  controls  are  further complicated since standards and guidelines dealing with cloud computing security do not exist [4-6].
+The focus of this paper is to provide recommendations for the  mitigation  of  cloud  computing  security  risks  as  a fundamental step  towards the  development of  guidelines and standards for secure cloud computing environments.
