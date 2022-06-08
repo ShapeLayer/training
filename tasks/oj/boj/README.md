@@ -269,6 +269,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1357"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 1357 뒤집힌 덧셈</a></td>
+    <td><a href="./python/1/1357.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1358"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 1358 하키</a></td>
     <td><a href="./c/1358.c"><img src="https://img.shields.io/badge/-C-555555?logo=c&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -491,6 +496,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2162"><img src="https://static.solved.ac/tier_small/16.svg" height="13"> 2162 선분 그룹</a></td>
     <td><a href="./swift/2162.swift"><img src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2163"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 2163 초콜릿 자르기</a></td>
+    <td><a href="./python/2/2163.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -739,6 +749,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2576"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2576 홀수</a></td>
+    <td><a href="./python/2/2576.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2577"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2577 숫자의 개수</a></td>
     <td><a href="./cpp/2577.cpp"><img src="https://img.shields.io/badge/-C++-f34b7d?logo=c%2B%2B&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a><br><a href="./python/2/2577.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -754,8 +769,18 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2587"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2587 대표값2</a></td>
+    <td><a href="./python/2/2587.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2588"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 2588 곱셈</a></td>
     <td><a href="./python/2/2588.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2592"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2592 대표값</a></td>
+    <td><a href="./python/2/2592.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -811,6 +836,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2693"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 2693 N번째 큰 수</a></td>
     <td><a href="./ruby/2693.rb"><img src="https://img.shields.io/badge/-Ruby-701516?logo=ruby&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2711"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2711 오타맨 고창영</a></td>
+    <td><a href="./python/2/2711.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -959,6 +989,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2953"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2953 나는 요리사다</a></td>
+    <td><a href="./python/2/2953.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/3003"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 3003 킹, 퀸, 룩, 비숍, 나이트, 폰</a></td>
     <td><a href="./ruby/3003.rb"><img src="https://img.shields.io/badge/-Ruby-701516?logo=ruby&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -994,8 +1029,18 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/3058"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 3058 짝수를 찾아라</a></td>
+    <td><a href="./python/3/3058.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/3060"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 3060 욕심쟁이 돼지</a></td>
     <td><a href="./c/3060.c"><img src="https://img.shields.io/badge/-C-555555?logo=c&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/3460"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 3460 이진수</a></td>
+    <td><a href="./python/3/3460.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1031,6 +1076,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/4378"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 4378 트ㅏㅊ;</a></td>
     <td><a href="./python/4/4378.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/4458"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 4458 첫 글자를 대문자로</a></td>
+    <td><a href="./python/4/4458.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1074,6 +1124,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5054"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 5054 주차의 신</a></td>
+    <td><a href="./python/5/5054.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5063"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5063 TGN</a></td>
     <td><a href="./python/5/5063.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1086,6 +1141,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5086"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5086 배수와 약수</a></td>
     <td><a href="./python/5/5086.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5176"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 5176 대회 자리</a></td>
+    <td><a href="./python/5/5176.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5218"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 5218 알파벳 거리</a></td>
+    <td><a href="./python/5/5218.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1264,6 +1329,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/9265"><img src="https://static.solved.ac/tier_small/8.svg" height="13"> 9265 Count</a></td>
+    <td><a href="./python/9/9265.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/9325"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9325 얼마?</a></td>
     <td><a href="./python/9/9325.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1364,6 +1434,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10178"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10178 할로윈의 사탕</a></td>
+    <td><a href="./python/10/10178.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10179"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 10179 쿠폰</a></td>
     <td><a href="./ruby/10179.rb"><img src="https://img.shields.io/badge/-Ruby-701516?logo=ruby&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1391,6 +1466,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10448"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10448 유레카 이론</a></td>
     <td><a href="./cpp/10448.cpp"><img src="https://img.shields.io/badge/-C++-f34b7d?logo=c%2B%2B&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10569"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10569 다면체</a></td>
+    <td><a href="./python/10/10569.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1564,6 +1644,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/10987"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 10987 모음의 개수</a></td>
+    <td><a href="./python/10/10987.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/10988"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 10988 팰린드롬인지 확인하기</a></td>
     <td><a href="./python/10/10988.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1571,6 +1656,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/10989"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 10989 수 정렬하기 3</a></td>
     <td><a href="./c/10989.c"><img src="https://img.shields.io/badge/-C-555555?logo=c&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/10995"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 10995 별 찍기 - 20</a></td>
+    <td><a href="./python/10/10995.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1609,6 +1699,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11098"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 11098 첼시를 도와줘!</a></td>
+    <td><a href="./python/11/11098.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11109"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 11109 괴짜 교수</a></td>
     <td><a href="./ruby/11109.rb"><img src="https://img.shields.io/badge/-Ruby-701516?logo=ruby&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1631,6 +1726,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11322"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11322 Numbers are Easy</a></td>
     <td><a href="./python/11/11322.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11365"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 11365 !밀비 급일</a></td>
+    <td><a href="./python/11/11365.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1689,6 +1789,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11655"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 11655 ROT13</a></td>
+    <td><a href="./python/11/11655.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11657"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 11657 타임머신</a></td>
     <td><a href="./rust/11657.rs"><img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1731,6 +1836,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/11942"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 11942 고려대는 사랑입니다</a></td>
     <td><a href="./java/11942.java"><img src="https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/11944"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 11944 NN</a></td>
+    <td><a href="./python/11/11944.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
