@@ -814,6 +814,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2738"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2738 행렬 덧셈</a></td>
+    <td><a href="./python/2/2738.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2739"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2739 구구단</a></td>
     <td><a href="./python/2/2739.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -826,6 +831,16 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2742"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2742 기찍 N</a></td>
     <td><a href="./python/2/2742.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2743"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2743 단어 길이 재기</a></td>
+    <td><a href="./ruby/2743.rb"><img src="https://img.shields.io/badge/-Ruby-701516?logo=ruby&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2744"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 2744 대소문자 바꾸기</a></td>
+    <td><a href="./python/2/2744.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1134,6 +1149,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/5597"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 5597 과제 안 내신 분..?</a></td>
+    <td><a href="./python/5/5597.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/5622"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 5622 다이얼</a></td>
     <td><a href="./python/5/5622.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1221,6 +1241,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/9085"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 9085 더하기</a></td>
     <td><a href="./cpp/9085.cpp"><img src="https://img.shields.io/badge/-C++-f34b7d?logo=c%2B%2B&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/9086"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 9086 문자열</a></td>
+    <td><a href="./python/9/9086.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1669,6 +1694,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11718"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 11718 그대로 출력하기</a></td>
+    <td><a href="./python/11/11718.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11720"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 11720 숫자의 합</a></td>
     <td><a href="./python/11/11720.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -2056,6 +2086,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/23028"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 23028 5학년은 다니기 싫어요</a></td>
     <td><a href="./rust/23028.rs"><img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/23037"><img src="https://static.solved.ac/tier_small/1.svg" height="13"> 23037 5의 수난</a></td>
+    <td><a href="./python/23/23037.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
