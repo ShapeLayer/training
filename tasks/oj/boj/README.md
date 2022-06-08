@@ -1754,6 +1754,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/11505"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 11505 구간 곱 구하기</a></td>
+    <td><a href="./python/11/11505.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/11508"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 11508 2+1 세일</a></td>
     <td><a href="./python/11/11508.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
