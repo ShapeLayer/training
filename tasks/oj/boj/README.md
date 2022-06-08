@@ -229,6 +229,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1275"><img src="https://static.solved.ac/tier_small/15.svg" height="13"> 1275 커피숍2</a></td>
+    <td><a href="./python/1/1275.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1292"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1292 쉽게 푸는 문제</a></td>
     <td><a href="./python/1/1292.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -1821,6 +1826,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/15610"><img src="https://static.solved.ac/tier_small/2.svg" height="13"> 15610 Abbey Courtyard</a></td>
     <td><a href="./python/15/15610.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/15629"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 15629 Africa</a></td>
+    <td><a href="./rust/15629.rs"><img src="https://img.shields.io/badge/-Rust-dea584?logo=rust&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
