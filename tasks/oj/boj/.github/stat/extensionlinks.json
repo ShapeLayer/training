@@ -39,6 +39,14 @@
     "logo_color": "fff",
     "github-colors": "Java"
   },
+  "js": {
+    "name": "JavaScript",
+    "dir": "js/",
+    "ext": "js",
+    "logo": "javascript",
+    "logo_color": "000",
+    "github-colors": "JavaScript"
+  },
   "python": {
     "name": "Python",
     "dir": "python/",
