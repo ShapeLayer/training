@@ -5,6 +5,7 @@ public class Main {
     //System.out.println(cat.health + " " + item.health);
     Mob zombie = new Mob("minecraft:zombie", 20);
     Entity skeleton = zombie;
+    Mob enderman = skeleton;
     System.out.println(zombie.health/* + " " + skeleton.health*/);
   }
 }
