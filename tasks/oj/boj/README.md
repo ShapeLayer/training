@@ -2408,4 +2408,9 @@
     <td><a href="./text/24905.txt"><img src="https://img.shields.io/badge/-Text-fff?logo=&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://acmicpc.net/problem/25183"><img src="https://static.solved.ac/tier_small/5.svg" height="13"> 25183 인생은 한 방</a></td>
+    <td><a href="./python/25/25183.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
 </table>
