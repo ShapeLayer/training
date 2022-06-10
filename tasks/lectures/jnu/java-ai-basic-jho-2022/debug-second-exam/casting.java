@@ -3,10 +3,10 @@ public class Main {
     Entity cat = new Mob("minecraft:cat", 20);
     Entity item = cat;
     //System.out.println(cat.health + " " + item.health);
-    Mob zombie = new Mob("minecraft:zombie", 20);
+    Mob zombie = new Mob("minecraft:zombie", 15);
     Entity skeleton = zombie;
-    Mob enderman = skeleton;
-    System.out.println(zombie.health/* + " " + skeleton.health*/);
+    Mob enderman = (Mob)skeleton;
+    System.out.println(zombie.health + " " + enderman.health);
   }
 }
 
