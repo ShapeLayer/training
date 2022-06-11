@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         10944 Random Game Random Submitter
+// @name         10944 Random Game Random Submitter (Submit Part)
 // @namespace    https://jonghyeon.me
 // @version      1
-// @description  Baekjoon Online Judge Random Game Random Submitter
+// @description  Baekjoon Online Judge Random Game Random Submitter (Submit Part)
 // @author       ShapeLayer
 // @match        https://www.acmicpc.net/submit/10944
 // @grant        none

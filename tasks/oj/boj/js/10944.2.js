@@ -3,7 +3,7 @@
 // @namespace    https://jonghyeon.me
 // @version      1
 // @description  Baekjoon Online Judge Random Game Random Submitter (Redirection Part)
-// @author       You
+// @author       ShapeLayer
 // @match        https://www.acmicpc.net/status?*problem_id=10944*
 // @grant        GM_setValue
 // @grant        GM_getValue

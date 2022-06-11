@@ -2044,8 +2044,23 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/15633"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 15633 Fan Death</a></td>
+    <td><a href="./python/15/15633.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/15636"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 15636 Linear Algebra and Group</a></td>
+    <td><a href="./text/15636.txt"><img src="https://img.shields.io/badge/-Text-fff?logo=&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/15641"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 15641 SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION</a></td>
     <td><a href="./text/15641.txt"><img src="https://img.shields.io/badge/-Text-fff?logo=&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/15643"><img src="https://static.solved.ac/tier_small/0.svg" height="13"> 15643 Yee</a></td>
+    <td><a href="./text/15643.txt"><img src="https://img.shields.io/badge/-Text-fff?logo=&logoColor=000&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
