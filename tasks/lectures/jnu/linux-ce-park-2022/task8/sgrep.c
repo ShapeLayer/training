@@ -42,19 +42,46 @@ int SearchPattern(const char *pattern)
   /*
   * TODO: check if pattern is too long and there exists
   */
-  if (strlen(pattern) > MAX_STR_LEN) fprintf(stderr, "Too long");
-  fgets(*buf, MAX_STR_LEN, fp);
+  
+  if (strlen(pattern) > MAX_STR_LEN)
+    fprintf(stderr, "Too long\n");
+  
+  int lines = 0;
+  int matched = 0;
+  while (fgets(buf, MAX_STR_LEN + 2, fp) != NULL) {
+    lines++;
+    for (int i = 0; i < strlen(buf) - strlen(pattern); i++) {
+      int flag = 0;
+      for (int j = 0; j < strlen(pattern); j++) {
+        if (buf[i+j] != pattern[j]) {
+          flag = 0;
+          break;
+        } else {
+          flag = 1;
+        }
+      }
+      if (flag) {
+        matched = 1;
+        printf("ln %d, pos %d\n", lines, i+1);
+      }
+    }
+  }
+  if (!matched) {
+    printf("No pattern\n");
+    return FALSE;
+  }
   return TRUE;
+  
 }
 
 /*-------------------------------------------------------------------*/
 int main(const int argc, const char *argv[])
 {
   /* Do argument check and parsing */
-  if (argc < 1) {
+  if (argc <= 1) {
     fprintf(stderr, "Error: argument parsing error\n");
     PrintUsage(argv[0]);
     return (EXIT_FAILURE);
   }
-  return SearchPattern(argv[1]) ? EXIT_SUCCESS:EXIT_FAILURE;
+  return SearchPattern(argv[1]) ? EXIT_SUCCESS : EXIT_FAILURE;
 }

@@ -1,6 +1,8 @@
+cc = gcc
+
 sgrep: sgrep.o str.o
-	gcc -g -o sgrep sgrep.o str.o
+	$(cc) -g -o sgrep sgrep.o str.o
 sgrep.o: sgrep.c str.c str.h limits.h
-	gcc -c sgrep.c
+	$(cc) -c sgrep.c
 str.o: str.c str.h limits.h
-	gcc -c str.c
+	$(cc) -c str.c
