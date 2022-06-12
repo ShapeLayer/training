@@ -1,7 +1,8 @@
 #include <assert.h> /* to use assert() */
 #include <stdio.h>
 #include <string.h>
-#include "str.h" #include <ctype.h>
+#include "str.h"
+#include <ctype.h>
 
 /* Your task is:
 Rewrite the body of "Part 1" functions - remove the current body that simply calls the corresponding C
