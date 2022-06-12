@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <string.h> /* for skeleton code */
 #include <unistd.h> /* for getopt */
-#include "str.h" #define FALSE 0
+#include "str.h"
+#define FALSE 0
 #define TRUE 1
 /*
 * Fill out your own functions here (If you need)
@@ -41,6 +42,8 @@ int SearchPattern(const char *pattern)
   /*
   * TODO: check if pattern is too long and there exists
   */
+  if (strlen(pattern) > MAX_STR_LEN) fprintf(stderr, "Too long");
+  fgets(*buf, MAX_STR_LEN, fp);
   return TRUE;
 }
 
