@@ -679,6 +679,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2484"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2484 주사위 네개</a></td>
+    <td><a href="./python/2/2484.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2485"><img src="https://static.solved.ac/tier_small/7.svg" height="13"> 2485 가로수</a></td>
     <td><a href="./python/2/2485.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -859,6 +864,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/2702"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2702 초6 수학</a></td>
+    <td><a href="./python/2/2702.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/2711"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2711 오타맨 고창영</a></td>
     <td><a href="./python/2/2711.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -931,6 +941,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2775"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2775 부녀회장이 될테야</a></td>
     <td><a href="./python/2/2775.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2789"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 2789 유학 금지</a></td>
+    <td><a href="./python/2/2789.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
