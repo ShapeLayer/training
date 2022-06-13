@@ -33,4 +33,5 @@ char *StrToLower(char *str)
       str_clone[i] = str[i];
     }
   }
+  return str_clone;
 }
