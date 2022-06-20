@@ -139,6 +139,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1149"><img src="https://static.solved.ac/tier_small/10.svg" height="13"> 1149 RGB거리</a></td>
+    <td><a href="./python/1/1149.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1152"><img src="https://static.solved.ac/tier_small/4.svg" height="13"> 1152 단어의 개수</a></td>
     <td><a href="./python/1/1152.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
