@@ -1,12 +1,8 @@
 n, k = map(int, input().split())
 gets = list(map(int, input().split()))
-
-def fac(n: int, r: int) -> int:
-    res = 1
-    for i in range(n, r-1, -1):
-        res *= i
-        res %= 1000000007
-    return res
-
-for get in gets: k -= get - 1
-print(fac(k, n))
+sums = sum(gets)
+rest = k - sums
+ans = 1
+for i in range(rest + 1, rest + n + 1):
+    ans = (ans * i) % 1000000007
+print(ans % 1000000007)
