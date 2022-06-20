@@ -399,6 +399,11 @@
   </tr>
 
   <tr>
+    <td><a href="https://acmicpc.net/problem/1781"><img src="https://static.solved.ac/tier_small/14.svg" height="13"> 1781 컵라면</a></td>
+    <td><a href="./python/1/1781.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://acmicpc.net/problem/1789"><img src="https://static.solved.ac/tier_small/6.svg" height="13"> 1789 수들의 합</a></td>
     <td><a href="./ruby/1789.rb"><img src="https://img.shields.io/badge/-Ruby-701516?logo=ruby&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
@@ -666,6 +671,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/2460"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 2460 지능형 기차 2</a></td>
     <td><a href="./java/2460.java"><img src="https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/2467"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 2467 용액</a></td>
+    <td><a href="./python/2/2467.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -1231,6 +1241,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/5361"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 5361 전투 드로이드 가격</a></td>
     <td><a href="./java/5361.java"><img src="https://img.shields.io/badge/-Java-b07219?logo=java&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/5430"><img src="https://static.solved.ac/tier_small/11.svg" height="13"> 5430 AC</a></td>
+    <td><a href="./python/5/5430.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
@@ -2366,6 +2381,11 @@
   <tr>
     <td><a href="https://acmicpc.net/problem/24266"><img src="https://static.solved.ac/tier_small/3.svg" height="13"> 24266 알고리즘 수업 - 알고리즘의 수행 시간 5</a></td>
     <td><a href="./csharp/24266.cs"><img src="https://img.shields.io/badge/-C%23-178600?logo=c-sharp&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://acmicpc.net/problem/24270"><img src="https://static.solved.ac/tier_small/12.svg" height="13"> 24270 미니 버킷 리스트</a></td>
+    <td><a href="./python/24/24270.py"><img src="https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=fff&style=flat-square" style="max-width: none; height: 1.3em;"></a></td>
   </tr>
 
   <tr>
