@@ -1,0 +1,4 @@
+2022. 05. 30. (월) 06:05:01 UTC
+comeng:x:3500:3500::/home/comeng:/bin/bash
+uid=3500(comeng) gid=3500(comeng) groups=3500(comeng),1000(ec2-user)
+comeng

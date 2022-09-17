@@ -1,0 +1,3 @@
+# Java gitignore template has definition about *.[0-9]
+# Coressponding to "(r)(e)ledmac/(r)(e)ledpar"
+!Prob1.[1-3]
