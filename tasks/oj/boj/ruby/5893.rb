@@ -1,0 +1,1 @@
+puts (gets.to_i(2) * 17).to_s(2)
