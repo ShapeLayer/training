@@ -1,0 +1,1 @@
+puts 'long ' * (gets.strip.to_i / 4) + 'int'
