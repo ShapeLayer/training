@@ -7,10 +7,7 @@ main:
   mov edx, msg_len
   int 0x80
 
-  mov eax, 0x1
-  mov ebx, 0
-  int 0x80
-
+  mov eax, 0x0
   ret
 
 section .data:
