@@ -2,6 +2,7 @@ import os
 import yaml
 import json
 import requests
+import datetime
 
 CONFIG = {
     'PROCESSING_TARGET_DIR': '../../',
@@ -101,8 +102,13 @@ for chunk in prob_chunks:
     else:
         print(res)
 
+# Get updatetime
+now_kst = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
+last_update_time = now_kst.strftime('%Y-%m-%d %H:%M:%S')
+
 # Build string
 body = '''
+{last_update_time}
 <table>
     <tr>
         <th>문제</th>
@@ -138,7 +144,10 @@ for prob in map(str, sorted(map(int, prob_code_file.keys()))):
         <td>{files}</td>
     </tr>'''.format(prob=prob_string, files='<br>\n'.join(files))
     table_body.append(row_body)
-body = body.format(table_body='\n'.join(table_body))
+body = body.format(
+    last_update_time=f'마지막 업데이트: {last_update_time}  ',
+    table_body='\n'.join(table_body)
+)
 
 # Make file
 template = open(CONFIG['TEMPLATE_FILE']).read()
