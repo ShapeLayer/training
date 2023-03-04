@@ -1,0 +1,6 @@
+blocks = input()
+objects = input()
+if blocks == 'KEY IS PUSH AND OPEN DOOR IS SHUT' and objects == 'KEY DOOR': print('BABA IS WIN')
+elif blocks == 'BABA IS ROCK' and objects == 'ROCK': print('BABA IS NOT WIN')
+elif blocks == 'LONELY FLAG IS BABA' and objects == 'ROCK': print('BABA IS WIN')
+elif blocks == 'TEXT IS NOT PUSH WALL IS STOP' and objects == 'WALL': print('BABA IS NOT WIN')
