@@ -21,12 +21,6 @@ jobs:
       - name: Install dependencies & Run BOJ README Build Code
         run: |
           cd tasks/oj/boj/.github/stat 
-          pip install -r requirements.txt
-          python app.py
-      - name: Install dependencies & Run LeetCode README Build Code
-        run: |
-          cd tasks/oj/leetcode/.github/stat 
-          pip install -r requirements.txt
           python app.py
       - name: Commit build
         run: |

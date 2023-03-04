@@ -11,4 +11,6 @@
 </ul>
 </details>
 
+## 풀이
+
 {statis_table}

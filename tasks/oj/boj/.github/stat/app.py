@@ -1,223 +1,148 @@
-import requests
-from json import loads, dumps
 import os
-from collections import deque
-import datetime
-import time
-import argparse
+import yaml
+import json
+import requests
 
-parser = argparse.ArgumentParser(description='README Generator')
-parser.add_argument('--trace', type=int, default=0, help='set 1 to trace run time')
-run_args = parser.parse_args()
-
-C = {
-    'boj_problem': 'https://acmicpc.net/problem/{problem_id}',
-    'solved_api': 'https://solved.ac/api/v3/problem/lookup?problemIds={problem_id}',
-    'solved_badge': 'https://static.solved.ac/tier_small/{problem_level}.svg',
-    'placeholder': 'https://via.placeholder.com/{placeholder_size}/{placeholder_color}/000?text=%20',
-    'shieldsio': 'https://img.shields.io/badge/-{message}-{background_color}?logo={logo}&logoColor={logo_color}&style=flat-square',
-    'language_color': 'https://raw.githubusercontent.com/ozh/github-colors/master/colors.json',
-    'solved_badge_height': 13,
-    'placeholder_size': 13,
-    'ext_links': 'extensionlinks.json',
-    'dirignore': '.dirignore',
-    'path_offset': '../../',
-    'root_offset': './',
-    'readme_template': 'template.md',
-    'cache': 'cache.json'
+CONFIG = {
+    'PROCESSING_TARGET_DIR': '../../',
+    'SOLVED_QUERY_WITH_ID_ARR': 'https://solved.ac/api/v3/problem/lookup',
+    'SOLVED_RANKING_BADGE_URL': 'https://static.solved.ac/tier_small/{problem_level}.svg',
+    'SOLVED_RANKING_BADGE_HEIGHT': 13,
+    'SOLVED_QUERY_REQUEST_CHUNK_SIZE': 100,
+    'LANGUAGES_YML': './languages/languages.yml',
+    'LANGUAGES_OVERRIDE': './languages/override.json',
+    'IGNORES_FILE': 'ignore',
+    'PLACEHOLDER_URL': 'https://img.shields.io/badge/-%20-{color}?style=flat-square',
+    'PLACEHOLDER_DEFAULT_COLOR': 'fff',
+    'MAKE_FILE_TARGET': '../../README.md',
+    'TEMPLATE_FILE': 'template.md'
 }
-EXT_LINKS = loads(open(C['ext_links'], encoding='utf-8').read())
-IGNORES = open(C['dirignore'], encoding='utf-8').read().split('\n')
-TEMPLATE = open(C['readme_template'], encoding='utf-8').read()
-TEMPLATE_WRAPPER = '''
+_D = CONFIG['PROCESSING_TARGET_DIR']
+LANGUAGES = {}
+IGNORE = ''
+
+# Load `languages.yml` and `override.json`
+with open(CONFIG['LANGUAGES_YML']) as f:
+    LANGUAGES = yaml.load(f, Loader=yaml.FullLoader)
+with open(CONFIG['LANGUAGES_OVERRIDE']) as f:
+    langs_override = json.loads(f.read())
+    for lang in langs_override:
+        override_result = {}  
+        if 'languages.yml' in langs_override[lang]:
+            yaml_base_target = langs_override[lang]['languages.yml']
+            override_result = LANGUAGES[yaml_base_target].copy()
+        if 'override' in langs_override[lang]:
+            override_config = langs_override[lang]['override']
+            for key in override_config:
+                override_result[key] = override_config[key]
+        LANGUAGES[lang] = override_result
+IGNORE = open(CONFIG['IGNORES_FILE']).read().split('\n')
+
+# Load code directories
+code_dirs = []
+for lang_dir in os.listdir(_D):
+    if not lang_dir.startswith('.'):
+        code_dirs.append(lang_dir)
+
+# Generate key using languages.yml
+code_key = {}
+for code_dir in code_dirs:
+    if code_dir in LANGUAGES:
+        code_key[code_dir] = (code_dir)
+    elif code_dir[0].upper() + code_dir[1:]:
+        code_key[code_dir] = (code_dir[0].upper() + code_dir[1:])
+
+# Load code files
+prob_code_file = {}
+'''
+prob_code_file = {
+    1000: [
+        {
+            'file': 'python/1000.py',
+            'lang': 'Python'
+        }
+    ]
+}
+'''
+for code_dir in code_dirs:
+    if code_dir in IGNORE: continue
+    now_lang = code_key[code_dir]
+    files = os.listdir(f'{_D}{code_dir}')
+    for file in files:
+        ext = file.split('.')[-1]
+        if f'.{ext}' in LANGUAGES[now_lang]['extensions']:
+            # init prob_code_file by problem number
+            prob = file.split('.')[0]
+            if prob not in prob_code_file:
+                prob_code_file[prob] = []
+            prob_code_file[prob].append( {'file': f'./{code_dir}/{file}', 'lang': now_lang } )
+
+# Get problem information
+prob_info = {}
+headers = { 'User-Agent': 'Mozilla/5.0', 'Content-Type': 'application/json' }
+## Paginate 100 prob
+prob_chunks = []
+prob_chunk_size = CONFIG['SOLVED_QUERY_REQUEST_CHUNK_SIZE']
+prob_code_file_keys = list(prob_code_file.keys())
+for i in range(0, len(prob_code_file), prob_chunk_size):
+    prob_chunks.append(prob_code_file_keys[i:i+prob_chunk_size])
+
+for chunk in prob_chunks:
+    params = { 'problemIds': ','.join(chunk) }
+    res = requests.get(
+        url=CONFIG['SOLVED_QUERY_WITH_ID_ARR'],
+        params=params,
+        headers=headers
+    )
+    if res.status_code == 200: # 400: Too many problemIds
+        for prob in json.loads(res.text):
+            prob_id = str(prob['problemId'])
+            prob_info[prob_id] = prob
+    else:
+        print(res)
+
+# Build string
+body = '''
 <table>
-  <tr>
-    <th>문제</th>
-    <th>코드</th>
-  </tr>
-  {table_body}
+    <tr>
+        <th>문제</th>
+        <th>코드</th>
+    </tr>
+    {table_body}
 </table>
 '''
-TEMPLATE_BODY = '''
-  <tr>
-    <td><a href="{boj_problem}"><img src="{badge}" height="{badge_height}"> {problem_id} {title}</a></td>
-    <td>{links}</td>
-  </tr>
-'''#.format(boj_problem = C['boj_problem'], badge = C['solved_badge'])
-PROB_CACHE_FORMAT = {
-    'latest-update': '',
-    'problems': {
-    }
-}
+table_body = []
+for prob in map(str, sorted(map(int, prob_code_file.keys()))):
+    info = prob_info[prob]
+    prob_string = '{badge} {prob_id} {prob_title}'
+    badge = '<img src="{url}" height="{height}" />'.format(url=CONFIG['SOLVED_RANKING_BADGE_URL'].format(problem_level=info['level']), height=CONFIG['SOLVED_RANKING_BADGE_HEIGHT'])
+    prob_title = info['titleKo']
+    prob_string = prob_string.format(badge=badge, prob_id=prob, prob_title=prob_title)
 
-def debug(fn):
-    def wrapper(*args, **kwargs):
-        if run_args.trace == 1:
-            init = time.time()
-            res = fn(*args, **kwargs)
-            fina = time.time()
-            print('WrokingTime[{}]: {} sec / {} {}'.format(fn.__name__, fina-init, args, kwargs))
-        else:
-            res = fn(*args, **kwargs)
-        return res
-    return wrapper
+    files = []
+    for file in prob_code_file[prob]:
+        color = CONFIG['PLACEHOLDER_DEFAULT_COLOR']
+        if 'color' in LANGUAGES[file['lang']]:
+            color = LANGUAGES[file['lang']]['color']
+        lang_name = file['lang']
+        if 'name' in LANGUAGES[file['lang']]:
+            lang_name = LANGUAGES[file['lang']]['name']
+        files.append('<a href="{path}">{placeholder} {language}</a>'.format(
+            path = file['file'],
+            placeholder = '<img src="{url}"/>'.format(url=CONFIG['PLACEHOLDER_URL'].format(color=color.replace('#', ''))),
+            language = lang_name
+        ))
 
-@debug
-def get(src: str) -> str:
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    res = requests.get(src, headers=headers)
-    return res.text if res.status_code == 200 else None
+    row_body = '''<tr>
+        <td>{prob}</td>
+        <td>{files}</td>
+    </tr>'''.format(prob=prob_string, files='<br>\n'.join(files))
+    table_body.append(row_body)
+body = body.format(table_body='\n'.join(table_body))
 
-@debug
-def get_rating(ids: list) -> dict:
-    '''
-    반환값
-    {
-        "id" : {
-            "id": 0
-            "title": "title",
-            "level": 0
-        },
-        ...
-    }
-    '''
-    res = get(C['solved_api'].format(problem_id=','.join(ids)))
-    if not res:
-        return
-    lookups = loads(res)
-    content = {}
-    for lookup in lookups:
-        content[lookup['problemId']] = {
-            'id': lookup['problemId'],
-            'title': lookup['titleKo'],
-            'level': lookup['level']
-        }
-    return content
-
-@debug
-def chk_structure(target: str) -> int:
-    '''
-    인자값
-    target: 대상 언어 ID (ext_links의 인덱스 키)
-
-    반환값
-    0: 문제가 1천 단위로 나눠서 저장되어있지 않음
-    1: 문제가 1천 단위로 나눠서 저장되어있음
-    '''
-    set_ = set()
-    for f in os.listdir(C['path_offset'] + target):
-        for i in f.split('.'):
-            set_.add(i)
-    if EXT_LINKS[target]['ext'] in set_:
-        return 0
-    else:
-        return 1
-
-@debug
-def problem_index(target: str) -> list:
-    '''
-    인자값
-    target: 대상 언어 ID (ext_links의 인덱스 키)
-
-    반환값
-    {'1000': ['lang_id(=target)', 'filepath'], ...}
-    '''
-    problems = {}
-    langdir = C['path_offset'] + EXT_LINKS[target]['dir']
-    queue = deque()
-    if chk_structure(target) == 1:
-        for f in os.listdir(langdir):
-            if os.path.isdir(langdir+f):
-                queue.append(f)
-    else:
-        queue.append('')
-    while queue:
-        dir_offset = queue.pop()
-        dir_offset += '/' if dir_offset != '' else ''
-        for f in os.listdir(langdir+dir_offset):
-            if f.split('.')[-1] == EXT_LINKS[target]['ext']:
-                problem_id = f.split('.')[0].replace('_', '')
-                path = C['root_offset'] + EXT_LINKS[target]['dir'] + dir_offset + f
-                if problem_id in problems:
-                    problems[problem_id] += [[target, path]]
-                else:
-                    problems[problem_id] = [[target, path]]
-    return problems
-
-@debug
-def update_cache(problems: list) -> None:
-    cache = PROB_CACHE_FORMAT
-    if os.path.isfile(C['cache']):
-        cache = loads(open(C['cache'], encoding='utf-8').read())
-        latest_update = datetime.datetime.strptime(cache['latest-update'], '%Y-%m-%d %H:%M:%S.%f')
-        if (datetime.datetime.utcnow() - latest_update).days > 14:
-            cache = PROB_CACHE_FORMAT
-    problems_cache = cache['problems'].keys()
-    arr = []
-    for problem in problems:
-        if problem not in problems_cache:
-            arr += [problem]
-    for i in arr:
-        cache['problems'].update(get_rating([i]))
-    cache['latest-update'] = str(datetime.datetime.utcnow())
-    with open(C['cache'], 'w', encoding='utf-8') as f:
-        f.write(dumps(cache, ensure_ascii=False, indent=2))
-
-@debug
-def get_from_cache(problem: str) -> dict:
-    cache = loads(open(C['cache'], encoding='utf-8').read())
-    return cache['problems'][problem]
-
-if __name__ == '__main__':
-    langs = os.listdir(C['path_offset']) # 'boj' directory
-    problems = {}
-    for lang in langs:
-        if lang in IGNORES:
-            continue
-        getted_problem = problem_index(lang)
-        for problem in getted_problem:
-            if problem in problems:
-                problems[problem] += getted_problem[problem]
-            else:
-                problems[problem] = getted_problem[problem]
-    update_cache(problems.keys())
-    COLOR = loads(get(C['language_color']))
-    body = ''
-    for problem_int in sorted(list(map(int, problems.keys()))):
-        problem = str(problem_int)
-        problem_info = get_from_cache(problem)
-        links = []
-        for file in sorted(problems[problem]):
-            language_color = 'fff'
-            if file[0] in EXT_LINKS and EXT_LINKS[file[0]]['github-colors'] != '__NONE__':
-                language_color = COLOR[EXT_LINKS[file[0]]['github-colors']]['color'][1:]
-            '''links += ['<a href="{src}"><img src="{placeholder}"> {language}</a>'.format(
-                src=file[1],
-                placeholder=C['placeholder'].format(placeholder_size=C['placeholder_size'], placeholder_color=language_color),
-                language=EXT_LINKS[file[0]]['name']
-            )]'''
-            links += ['<a href="{src}"><img src="{placeholder}" style="max-width: none; height: 1.3em;"></a>'.format(
-                src=file[1],
-                placeholder=C['shieldsio'].format(
-                    message=EXT_LINKS[file[0]]['name'].replace('#', '%23'),
-                    background_color=language_color,
-                    logo=EXT_LINKS[file[0]]['logo'].replace(' ', '%20'),
-                    logo_color=EXT_LINKS[file[0]]['logo_color']
-                )
-            )]
-        body += TEMPLATE_BODY.format(
-            boj_problem = C['boj_problem'].format(problem_id=problem),
-            badge = C['solved_badge'].format(problem_level=problem_info['level']),
-            badge_height = C['solved_badge_height'],
-            problem_id = problem,
-            title = problem_info['title'],
-            problem_level = problem_info['level'],
-            links = '<br>'.join(links)
-        )
-    rendered = TEMPLATE.format(
-        statis_table=TEMPLATE_WRAPPER.format(
-            table_body=body
-        )
+# Make file
+template = open(CONFIG['TEMPLATE_FILE']).read()
+with open(CONFIG['MAKE_FILE_TARGET'], 'w', encoding='utf-8') as f:
+    f.write(template
+        .replace('{statis_table}', body)
     )
-    with open(C['path_offset']+'README.md', 'w', encoding='utf-8') as f:
-        f.write(rendered)

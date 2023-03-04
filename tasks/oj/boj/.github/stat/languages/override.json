@@ -1,0 +1,82 @@
+{
+  "aheui": {
+    "languages.yml": "Text",
+    "override": {
+      "name": "Aheui",
+      "dirname": "aheui",
+      "extensions": [".aheui"]
+    }
+  },
+  "asm_x86": {
+    "languages.yml": "Assembly",
+    "override": {
+      "name": "Assembly x86",
+      "dirname": "asm_x86",
+      "extensions": [".asm"]
+    }
+  },
+  "asm_x86_64": {
+    "languages.yml": "Assembly",
+    "override": {
+      "name": "Assembly x86_64",
+      "dirname": "asm_x86_64",
+      "extensions": [".asm"]
+    }
+  },
+  "cpp": {
+    "languages.yml": "C++",
+    "override": { "name": "C++" }
+  },
+  "csharp": {
+    "languages.yml": "C#",
+    "override": { "name": "C#" }
+  },
+  "java": {
+    "languages.yml": "Java",
+    "override": { "name": "Java" }
+  },
+  "javascript": {
+    "languages.yml": "JavaScript",
+    "override": { "name": "JavaScript" }
+  },
+  "minecraft": {
+    "languages.yml": "Text",
+    "override": {
+      "name": "Minecraft",
+      "dirname": "minecraft",
+      "extensions": [".mca"]
+    }
+  },
+  "pike": {
+    "languages.yml": "Pike",
+    "override": { "name": "Pike" }
+  },
+  "python": {
+    "languages.yml": "Python",
+    "override": { "name": "Python" }
+  },
+  "ruby": {
+    "languages.yml": "Ruby",
+    "override": { "name": "Ruby" }
+  },
+  "rust": {
+    "languages.yml": "Rust",
+    "override": { "name": "Rust" }
+  },
+  "swift": {
+    "languages.yml": "Swift",
+    "override": { "name": "Swift" }
+  },
+  "text": {
+    "languages.yml": "Text",
+    "override": { "name": "Text" }
+  },
+  "umm": {
+    "languages.yml": "Text",
+    "override": {
+      "name": "Ummjoonsik",
+      "dirname": "umm",
+      "extensions": [".umm"]
+    }
+  }
+}
