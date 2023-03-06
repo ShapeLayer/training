@@ -6,6 +6,7 @@ import datetime
 
 CONFIG = {
     'PROCESSING_TARGET_DIR': '../../',
+    'BOJ_PROBLEM_URL': 'https://www.acmicpc.net/problem/{id}',
     'SOLVED_QUERY_WITH_ID_ARR': 'https://solved.ac/api/v3/problem/lookup',
     'SOLVED_RANKING_BADGE_URL': 'https://static.solved.ac/tier_small/{problem_level}.svg',
     'SOLVED_RANKING_BADGE_HEIGHT': 13,
@@ -124,6 +125,10 @@ for prob in map(str, sorted(map(int, prob_code_file.keys()))):
     badge = '<img src="{url}" height="{height}" />'.format(url=CONFIG['SOLVED_RANKING_BADGE_URL'].format(problem_level=info['level']), height=CONFIG['SOLVED_RANKING_BADGE_HEIGHT'])
     prob_title = info['titleKo']
     prob_string = prob_string.format(badge=badge, prob_id=prob, prob_title=prob_title)
+    prob_a = '<a href="{url}" target="_blank" rel="noreferrer noopener">{value}</a>'.format(
+        url=CONFIG['BOJ_PROBLEM_URL'].format(id=prob),
+        value=prob_string
+    )
 
     files = []
     for file in prob_code_file[prob]:
@@ -142,8 +147,9 @@ for prob in map(str, sorted(map(int, prob_code_file.keys()))):
     row_body = '''<tr>
         <td>{prob}</td>
         <td>{files}</td>
-    </tr>'''.format(prob=prob_string, files='<br>\n'.join(files))
+    </tr>'''.format(prob=prob_a, files='<br>\n'.join(files))
     table_body.append(row_body)
+
 body = body.format(
     last_update_time=f'마지막 업데이트: {last_update_time}  ',
     table_body='\n'.join(table_body)
