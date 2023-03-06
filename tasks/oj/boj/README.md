@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-03-04 15:56:27  
+마지막 업데이트: 2023-03-04 16:08:32  
 <table>
     <tr>
         <th>문제</th>
@@ -2610,8 +2610,8 @@
         <td><a href="./ruby/25314.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><img src="https://static.solved.ac/tier_small/26.svg" height="13" /> 25353 게임의 꽃</td>
-        <td><a href="./ruby/25353.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+        <td><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 25323 수 정렬하기, 근데 이제 제곱수를 곁들인</td>
+        <td><a href="./ruby/25323.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
         <td><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 25372 성택이의 은밀한 비밀번호</td>
