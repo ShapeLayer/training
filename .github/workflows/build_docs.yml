@@ -27,6 +27,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "Build README.md"
-          git push
+          diffs=$(git diff tasks/oj/boj/.github/stat/README.md)
+          [ "$diffs" != "null" -a -n "$diffs" ] && git add README.md || echo "No diffs. Progress skipped."
+          [ "$diffs" != "null" -a -n "$diffs" ] && git commit -m "Build document" -m "`date`" || echo "No diffs. Progress skipped."
+          [ "$diffs" != "null" -a -n "$diffs" ] && git push || echo "No diffs. Progress skipped."
