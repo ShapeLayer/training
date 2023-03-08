@@ -1,6 +1,8 @@
 /* 
   Refer BCM2835 ARM Peripherals 2.2 section
-  + https://www.youtube.com/watch?v=r3Ye08ktcMo 12:30
+  + Raspberry Pi Bare metal Tutorial
+    Part 2. https://www.youtube.com/watch?v=r3Ye08ktcMo 12:30
+    Part 3. GPIO https://www.youtube.com/watch?v=36hk_Qov5Uo
 */
 
 #pragma once
