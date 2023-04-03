@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-03-19 16:42:58  
+마지막 업데이트: 2023-04-03 22:10:45  
 <table>
     <tr>
         <th>문제</th>
@@ -467,7 +467,7 @@
         <td><a href="./python/1977.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1978 소수 찾기</a></td>
+        <td><a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1978 소수 찾기</a></td>
         <td><a href="./python/1978.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -760,7 +760,7 @@
         <td><a href="./python/2580.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 2581 소수</a></td>
+        <td><a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2581 소수</a></td>
         <td><a href="./python/2581.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./cpp/2581.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
@@ -1713,7 +1713,7 @@
         <td><a href="./python/10952.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/10953" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 10953 A+B - 6</a></td>
+        <td><a href="https://www.acmicpc.net/problem/10953" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10953 A+B - 6</a></td>
         <td><a href="./ruby/10953.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
@@ -2736,6 +2736,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27899" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 27899 먹었습니다!!</a></td>
         <td><a href="./text/27899.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27930" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 27930 당신은 운명을 믿나요?</a></td>
+        <td><a href="./python/27930.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 </table>
 
