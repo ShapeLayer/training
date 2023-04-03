@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-03-19 16:33:39  
+마지막 업데이트: 2023-03-19 16:42:58  
 <table>
     <tr>
         <th>문제</th>
@@ -2732,6 +2732,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27866" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27866 문자와 문자열</a></td>
         <td><a href="./python/27866.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27899" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 27899 먹었습니다!!</a></td>
+        <td><a href="./text/27899.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
     </tr>
 </table>
 
