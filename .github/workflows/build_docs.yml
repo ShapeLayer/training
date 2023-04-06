@@ -28,14 +28,14 @@ jobs:
           ruby app.rb
       - name: (BOJ) Install dependencies & Run BOJ README build script
         run: |
-          cd tasks/oj/boj/.github/stat 
+          cd tasks/online_judge/baekjoon/.github/stat 
           pip install -r requirements.txt
           python app.py
       - name: Commit build
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          diffs=$(git diff tasks/oj/boj/README.md)
+          diffs=$(git diff tasks/online_judge/baekjoon/README.md)
           [ "$diffs" != "null" -a -n "$diffs" ] && git add . || echo "No diffs. Progress skipped."
           [ "$diffs" != "null" -a -n "$diffs" ] && git commit -m "Build document" -m "`date`" || echo "No diffs. Progress skipped."
           [ "$diffs" != "null" -a -n "$diffs" ] && git push || echo "No diffs. Progress skipped."
