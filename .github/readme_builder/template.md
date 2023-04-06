@@ -26,7 +26,7 @@ while not talent:
 * [`/tasks`](./tasks/) - Algorithm problems
   * [`/tasks/books`](./tasks/books/) - Textbook training problmes solutions
   * [`/tasks/lectures`](./tasks/lectures/) - University programming lecture homeworks
-  * [`/tasks/oj`](./tasks/online_judge/) - Online judge solutions
+  * [`/tasks/online_judge`](./tasks/online_judge/) - Online judge solutions
 
 ## Language uses
 ```
