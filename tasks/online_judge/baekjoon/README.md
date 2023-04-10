@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-04-05 23:56:55  
+마지막 업데이트: 2023-04-08 07:09:30  
 <table>
     <tr>
         <th>문제</th>
@@ -22,21 +22,21 @@
     </tr>
     <tr>
         <td><a href="https://www.acmicpc.net/problem/1000" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 1000 A+B</a></td>
-        <td><a href="./aheui/1000.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
-<a href="./rust/1000.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1000.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
-<a href="./cpp/1000.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+        <td><a href="./python/1000.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./java/1000.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
-<a href="./csharp/1000.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
+<a href="./cpp/1000.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./csharp/1000.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
+<a href="./aheui/1000.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
+<a href="./rust/1000.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1001" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 1001 A-B</a></td>
-        <td><a href="./aheui/1001.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
-<a href="./rust/1001.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1001.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
-<a href="./cpp/1001.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+        <td><a href="./python/1001.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./java/1001.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
-<a href="./csharp/1001.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
+<a href="./cpp/1001.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./csharp/1001.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
+<a href="./aheui/1001.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
+<a href="./rust/1001.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1002" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 1002 터렛</a></td>
@@ -57,10 +57,10 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1008" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 1008 A/B</a></td>
-        <td><a href="./rust/1008.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1008.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+        <td><a href="./python/1008.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./cpp/1008.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
-<a href="./csharp/1008.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
+<a href="./csharp/1008.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
+<a href="./rust/1008.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1009" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1009 분산처리</a></td>
@@ -160,8 +160,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1167" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/14.svg" height="13" /> 1167 트리의 지름</a></td>
-        <td><a href="./rust/1167.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1167.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/1167.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/1167.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1181" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1181 단어 정렬</a></td>
@@ -169,8 +169,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1193" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1193 분수찾기</a></td>
-        <td><a href="./python/1193.1.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
-<a href="./python/1193.2.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/1193.2.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./python/1193.1.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1212" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1212 8진수 2진수</a></td>
@@ -198,8 +198,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1260" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1260 DFS와 BFS</a></td>
-        <td><a href="./rust/1260.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1260.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/1260.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/1260.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1264" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 1264 모음의 개수</a></td>
@@ -311,8 +311,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1476" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1476 날짜 계산</a></td>
-        <td><a href="./rust/1476.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1476.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/1476.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/1476.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1535" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1535 안녕</a></td>
@@ -394,8 +394,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1864" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1864 문어 숫자</a></td>
-        <td><a href="./ruby/1864.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a><br>
-<a href="./python/1864.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/1864.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./ruby/1864.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1865" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 1865 웜홀</a></td>
@@ -451,8 +451,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1966" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 1966 프린터 큐</a></td>
-        <td><a href="./rust/1966.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/1966.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/1966.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/1966.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1967" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 1967 트리의 지름</a></td>
@@ -709,18 +709,18 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2557" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 2557 Hello World</a></td>
-        <td><a href="./ruby/2557.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a><br>
-<a href="./aheui/2557.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
+        <td><a href="./python/2557.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./text/2557.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a><br>
-<a href="./umm/2557.umm"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Ummjoonsik</a><br>
-<a href="./rust/2557.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/2557.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
-<a href="./swift/2557.swift"><img src="https://img.shields.io/badge/-%20-F05138?style=flat-square"/> Swift</a><br>
-<a href="./cpp/2557.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
 <a href="./java/2557.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
+<a href="./cpp/2557.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
 <a href="./csharp/2557.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
-<a href="./asm_x86/2557.asm"><img src="https://img.shields.io/badge/-%20-6E4C13?style=flat-square"/> Assembly x86</a><br>
-<a href="./c/2557.c"><img src="https://img.shields.io/badge/-%20-555555?style=flat-square"/> C</a></td>
+<a href="./ruby/2557.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a><br>
+<a href="./umm/2557.umm"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Ummjoonsik</a><br>
+<a href="./swift/2557.swift"><img src="https://img.shields.io/badge/-%20-F05138?style=flat-square"/> Swift</a><br>
+<a href="./aheui/2557.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
+<a href="./c/2557.c"><img src="https://img.shields.io/badge/-%20-555555?style=flat-square"/> C</a><br>
+<a href="./rust/2557.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
+<a href="./asm_x86/2557.asm"><img src="https://img.shields.io/badge/-%20-6E4C13?style=flat-square"/> Assembly x86</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2558" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 2558 A+B - 2</a></td>
@@ -806,8 +806,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2667" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 2667 단지번호붙이기</a></td>
-        <td><a href="./rust/2667.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/2667.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/2667.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/2667.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2669" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2669 직사각형 네개의 합집합의 면적 구하기</a></td>
@@ -1093,8 +1093,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/4803" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 4803 트리</a></td>
-        <td><a href="./rust/4803.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./rust/4803.2.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+        <td><a href="./rust/4803.2.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
+<a href="./rust/4803.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/4880" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 4880 다음수</a></td>
@@ -1366,8 +1366,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9076" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 9076 점수 집계</a></td>
-        <td><a href="./java/9076.1.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
-<a href="./java/9076.2.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+        <td><a href="./java/9076.2.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
+<a href="./java/9076.1.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9084" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 9084 동전</a></td>
@@ -1496,17 +1496,17 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10171" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10171 고양이</a></td>
-        <td><a href="./rust/10171.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/10171.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+        <td><a href="./python/10171.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./java/10171.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
 <a href="./cpp/10171.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
-<a href="./java/10171.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+<a href="./rust/10171.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10172" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10172 개</a></td>
-        <td><a href="./rust/10172.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/10172.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+        <td><a href="./python/10172.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./java/10172.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
 <a href="./cpp/10172.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
-<a href="./java/10172.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+<a href="./rust/10172.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10178" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10178 할로윈의 사탕</a></td>
@@ -1563,15 +1563,15 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10718" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10718 We love kriii</a></td>
-        <td><a href="./rust/10718.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/10718.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+        <td><a href="./python/10718.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./java/10718.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a><br>
 <a href="./cpp/10718.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
-<a href="./java/10718.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+<a href="./rust/10718.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10757" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10757 큰 수 A+B</a></td>
-        <td><a href="./python/10757.2.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
-<a href="./python/10757.1.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/10757.1.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./python/10757.2.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10768" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 10768 특별한 날</a></td>
@@ -1667,9 +1667,9 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10869" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10869 사칙연산</a></td>
-        <td><a href="./rust/10869.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/10869.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
-<a href="./cpp/10869.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+        <td><a href="./python/10869.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./cpp/10869.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./rust/10869.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10870" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 10870 피보나치 수 5</a></td>
@@ -1697,8 +1697,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10944" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 10944 랜덤 게임~~</a></td>
-        <td><a href="./javascript/10944.1.js"><img src="https://img.shields.io/badge/-%20-f1e05a?style=flat-square"/> JavaScript</a><br>
-<a href="./javascript/10944.2.js"><img src="https://img.shields.io/badge/-%20-f1e05a?style=flat-square"/> JavaScript</a></td>
+        <td><a href="./javascript/10944.2.js"><img src="https://img.shields.io/badge/-%20-f1e05a?style=flat-square"/> JavaScript</a><br>
+<a href="./javascript/10944.1.js"><img src="https://img.shields.io/badge/-%20-f1e05a?style=flat-square"/> JavaScript</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10950 A+B - 3</a></td>
@@ -1742,11 +1742,11 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10998" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10998 A×B</a></td>
-        <td><a href="./aheui/10998.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
-<a href="./rust/10998.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/10998.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+        <td><a href="./python/10998.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./cpp/10998.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
-<a href="./csharp/10998.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
+<a href="./csharp/10998.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
+<a href="./aheui/10998.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a><br>
+<a href="./rust/10998.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10999" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/17.svg" height="13" /> 10999 구간 합 구하기 2</a></td>
@@ -1867,13 +1867,13 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11650" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 11650 좌표 정렬하기</a></td>
-        <td><a href="./rust/11650.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/11650.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/11650.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/11650.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11651" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 11651 좌표 정렬하기 2</a></td>
-        <td><a href="./rust/11651.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./cpp/11651.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+        <td><a href="./cpp/11651.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./rust/11651.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11652" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 11652 카드</a></td>
@@ -1974,8 +1974,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12760" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 12760 최후의 승자는 누구?</a></td>
-        <td><a href="./csharp/12760.2.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
-<a href="./csharp/12760.1.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
+        <td><a href="./csharp/12760.1.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a><br>
+<a href="./csharp/12760.2.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12778" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 12778 CTP공국으로 이민 가자</a></td>
@@ -1984,6 +1984,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12813" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 12813 이진수 연산</a></td>
         <td><a href="./python/12813.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/12852" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 12852 1로 만들기 2</a></td>
+        <td><a href="./python/12852.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12865" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 12865 평범한 배낭</a></td>
@@ -2100,8 +2104,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15552 빠른 A+B</a></td>
-        <td><a href="./rust/15552.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
-<a href="./python/15552.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/15552.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/15552.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15596" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 15596 정수 N개의 합</a></td>
@@ -2193,8 +2197,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15802" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 15802 타노스</a></td>
-        <td><a href="./text/15802.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a><br>
-<a href="./python/15802.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/15802.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./text/15802.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15829" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 15829 Hashing</a></td>
@@ -2322,8 +2326,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/17521" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 17521 Byte Coin</a></td>
-        <td><a href="./cpp/17521.2.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
-<a href="./cpp/17521.1.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+        <td><a href="./cpp/17521.1.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./cpp/17521.2.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/17614" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 17614 369</a></td>

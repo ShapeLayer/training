@@ -19,7 +19,7 @@
 		"@babylonjs/materials": "^5.49.0",
 		"@babylonjs/serializers": "^5.49.0",
 		"@sveltejs/adapter-auto": "^2.0.0",
-		"@sveltejs/kit": "^1.5.0",
+		"@sveltejs/kit": "^1.15.2",
 		"@types/react": "^18.0.28",
 		"@types/react-dom": "^18.0.11",
 		"svelte": "^3.54.0",
