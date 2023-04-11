@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-04-11 23:56:35  
+마지막 업데이트: 2023-04-11 23:59:04  
 <table>
     <tr>
         <th>문제</th>
@@ -469,6 +469,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1978" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1978 소수 찾기</a></td>
         <td><a href="./python/1978.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1987" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 1987 알파벳</a></td>
+        <td><a href="./python/1987.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2010" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2010 플러그</a></td>
