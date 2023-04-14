@@ -8,23 +8,15 @@ for _i in range(r):
 
 offset = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 
-def dfs(x: int, y: int, count: int, passed: list[bool], max_count: int) -> int:
+res = 0
+def dfs(x: int, y: int, passed: str) -> int:
+    global res
     for dx, dy in offset:
         nx, ny = x + dx, y + dy
-        if nx < 0 or ny < 0 or nx >= c or ny >= r: continue
-        now = ord(board[ny][nx]) - 65
-        if passed[now]: continue
-        count += 1
-        passed[now] = True
-        est_count = dfs(nx, ny, count, passed, max_count)
-        if max_count < count: max_count = count
-        if max_count < est_count: max_count = est_count
-        count -= 1
-        passed[now] = False
-    return max_count
+        if not (0 <= nx < c and 0 <= ny < r): continue
+        if board[ny][nx] in passed: continue
+        dfs(nx, ny, passed + board[ny][nx])
+    if len(passed) > res: res = len(passed)
 
-passed = [False for _i in range(26)]
-passed[ord(board[0][0]) - 65] = True
-result = dfs(0, 0, 1, passed, 1)
-
-print(result)
+dfs(0, 0, board[0][0])
+print(res)
