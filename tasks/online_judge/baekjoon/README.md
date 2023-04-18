@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-04-11 23:59:04  
+마지막 업데이트: 2023-04-14 23:23:30  
 <table>
     <tr>
         <th>문제</th>
@@ -2180,7 +2180,7 @@
         <td><a href="./ruby/15667.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/15680" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15680 연세대학교</a></td>
+        <td><a href="https://www.acmicpc.net/problem/15680" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 15680 연세대학교</a></td>
         <td><a href="./java/15680.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
     </tr>
 <tr>
