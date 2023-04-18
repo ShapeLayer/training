@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-04-14 23:23:30  
+마지막 업데이트: 2023-04-19 00:07:00  
 <table>
     <tr>
         <th>문제</th>
@@ -485,6 +485,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2042" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/15.svg" height="13" /> 2042 구간 합 구하기</a></td>
         <td><a href="./python/2042.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2061" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2061 좋은 암호</a></td>
+        <td><a href="./python/2061.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2083" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 2083 럭비 클럽</a></td>
@@ -1305,6 +1309,10 @@
         <td><a href="./rust/7576.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/7785" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 7785 회사에 있는 사람</a></td>
+        <td><a href="./python/7785.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/7891" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 7891 Can you add this?</a></td>
         <td><a href="./ruby/7891.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
@@ -1619,7 +1627,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10815" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 10815 숫자 카드</a></td>
-        <td><a href="./rust/10815.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+        <td><a href="./python/10815.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./rust/10815.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10816" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 10816 숫자 카드 2</a></td>
@@ -2037,6 +2046,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/13877" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 13877 이건 무슨 진법이지?</a></td>
         <td><a href="./cpp/13877.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/14425" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 14425 문자열 집합</a></td>
+        <td><a href="./python/14425.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14428" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/15.svg" height="13" /> 14428 수열과 쿼리 16</a></td>
