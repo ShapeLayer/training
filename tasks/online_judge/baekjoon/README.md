@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-02 22:40:31  
+마지막 업데이트: 2023-05-02 23:53:14  
 <table>
     <tr>
         <th>문제</th>
@@ -1711,6 +1711,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10926" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10926 ??!</a></td>
         <td><a href="./java/10926.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/10942" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 10942 팰린드롬?</a></td>
+        <td><a href="./python/10942.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10943" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 10943 랜덤 게임~</a></td>
