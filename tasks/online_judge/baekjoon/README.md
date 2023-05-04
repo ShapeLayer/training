@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-04 21:52:36  
+마지막 업데이트: 2023-05-04 23:35:03  
 <table>
     <tr>
         <th>문제</th>
@@ -436,6 +436,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1920" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1920 수 찾기</a></td>
         <td><a href="./python/1920.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1922" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 1922 네트워크 연결</a></td>
+        <td><a href="./python/1922.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1924" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1924 2007년</a></td>
