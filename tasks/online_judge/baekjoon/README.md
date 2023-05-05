@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-04 23:35:03  
+마지막 업데이트: 2023-05-05 09:55:51  
 <table>
     <tr>
         <th>문제</th>
@@ -168,6 +168,10 @@
 <a href="./rust/1167.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/1173" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1173 운동</a></td>
+        <td><a href="./python/1173.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/1181" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1181 단어 정렬</a></td>
         <td><a href="./python/1181.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -191,6 +195,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1219" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 1219 오민식의 고민</a></td>
         <td><a href="./java/1219.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1233" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1233 주사위</a></td>
+        <td><a href="./python/1233.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1237" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 1237 정ㅋ벅ㅋ</a></td>
@@ -244,6 +252,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1292" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1292 쉽게 푸는 문제</a></td>
         <td><a href="./python/1292.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1296" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1296 팀 이름 정하기</a></td>
+        <td><a href="./python/1296.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1297" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1297 TV 크기</a></td>
@@ -349,6 +361,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1564" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1564 팩토리얼5</a></td>
         <td><a href="./ruby/1564.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1568" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1568 새</a></td>
+        <td><a href="./python/1568.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1598" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 1598 꼬리를 무는 숫자 나열</a></td>
@@ -2308,6 +2324,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/16395" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 16395 파스칼의 삼각형</a></td>
         <td><a href="./swift/16395.swift"><img src="https://img.shields.io/badge/-%20-F05138?style=flat-square"/> Swift</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/16486" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 16486 운동장 한 바퀴</a></td>
+        <td><a href="./python/16486.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/16600" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 16600 Contemporary Art</a></td>
