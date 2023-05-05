@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-05 12:21:55  
+마지막 업데이트: 2023-05-05 19:56:30  
 <table>
     <tr>
         <th>문제</th>
@@ -183,6 +183,11 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1197" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 1197 최소 스패닝 트리</a></td>
         <td><a href="./python/1197.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1202" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/14.svg" height="13" /> 1202 보석 도둑</a></td>
+        <td><a href="./python/1202.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./python/1202.hq.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1212" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1212 8진수 2진수</a></td>
