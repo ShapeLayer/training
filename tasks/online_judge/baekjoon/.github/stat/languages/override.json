@@ -7,6 +7,14 @@
       "extensions": [".aheui"]
     }
   },
+  "algol68": {
+    "languages.yml": "Text",
+    "override": {
+      "name": "Algol68",
+      "dirname": "algol68",
+      "extensions": [".a68"]
+    }
+  },
   "asm_x86": {
     "languages.yml": "Assembly",
     "override": {
