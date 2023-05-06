@@ -1,4 +1,8 @@
 {
+  "ada": {
+    "languages.yml": "Ada",
+    "override": { "name": "Ada" }
+  },
   "aheui": {
     "languages.yml": "Text",
     "override": {
