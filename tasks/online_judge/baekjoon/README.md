@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 12:06:43  
+마지막 업데이트: 2023-05-06 12:14:04  
 <table>
     <tr>
         <th>문제</th>
@@ -627,6 +627,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2309" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2309 일곱 난쟁이</a></td>
         <td><a href="./python/2309.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2321" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2321 Crowing</a></td>
+        <td><a href="./fortran/2321.f"><img src="https://img.shields.io/badge/-%20-4d41b1?style=flat-square"/> Fortran</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2338" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 2338 긴자리 계산</a></td>
