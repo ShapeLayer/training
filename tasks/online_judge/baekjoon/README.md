@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 21:42:57  
+마지막 업데이트: 2023-05-06 23:14:05  
 <table>
     <tr>
         <th>문제</th>
@@ -623,6 +623,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2252" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 2252 줄 세우기</a></td>
         <td><a href="./rust/2252.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2289" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 2289 Quack</a></td>
+        <td><a href="./asm_x86_64/2289.asm"><img src="https://img.shields.io/badge/-%20-6E4C13?style=flat-square"/> Assembly x86_64</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2292" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2292 벌집</a></td>
