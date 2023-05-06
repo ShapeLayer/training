@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 12:14:04  
+마지막 업데이트: 2023-05-06 16:45:05  
 <table>
     <tr>
         <th>문제</th>
@@ -372,12 +372,20 @@
         <td><a href="./swift/1550.swift"><img src="https://img.shields.io/badge/-%20-F05138?style=flat-square"/> Swift</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/1551" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1551 수열의 변화</a></td>
+        <td><a href="./python/1551.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/1564" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1564 팩토리얼5</a></td>
         <td><a href="./ruby/1564.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1568" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1568 새</a></td>
         <td><a href="./python/1568.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1592" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1592 영식이와 친구들</a></td>
+        <td><a href="./python/1592.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1598" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 1598 꼬리를 무는 숫자 나열</a></td>
@@ -398,6 +406,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1697" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 1697 숨바꼭질</a></td>
         <td><a href="./rust/1697.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1703" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 1703 생장점</a></td>
+        <td><a href="./python/1703.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1712" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1712 손익분기점</a></td>
