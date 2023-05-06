@@ -43,6 +43,14 @@
     "languages.yml": "Fortran",
     "override": { "name": "Fortran" }
   },
+  "golfscript": {
+    "languages.yml": "Text",
+    "override": {
+      "name": "Golfscript",
+      "dirname": "golfscript",
+      "extensions": [".gs"]
+    }
+  },
   "java": {
     "languages.yml": "Java",
     "override": { "name": "Java" }
