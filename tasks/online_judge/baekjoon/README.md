@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 20:31:34  
+마지막 업데이트: 2023-05-06 21:03:45  
 <table>
     <tr>
         <th>문제</th>
@@ -667,6 +667,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2377" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 2377 Pottery</a></td>
         <td><a href="./freebasic/2377.bas"><img src="https://img.shields.io/badge/-%20-141AC9?style=flat-square"/> FreeBasic</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2380" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 2380 Star</a></td>
+        <td><a href="./befunge/2380.bf"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Befunge</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2387" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2387 Howl</a></td>
