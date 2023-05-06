@@ -35,6 +35,10 @@
       "extensions": [".asm"]
     }
   },
+  "befunge": {
+    "languages.yml": "Befunge",
+    "override": { "name": "Befunge" }
+  },
   "cpp": {
     "languages.yml": "C++",
     "override": { "name": "C++" }
