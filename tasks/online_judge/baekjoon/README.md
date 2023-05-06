@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 16:45:05  
+마지막 업데이트: 2023-05-06 19:54:34  
 <table>
     <tr>
         <th>문제</th>
@@ -1123,6 +1123,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3613" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 3613 Java vs C++</a></td>
         <td><a href="./python/3613.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/3765" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 3765 Celebrity jeopardy</a></td>
+        <td><a href="./python/3765.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/4101" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 4101 크냐?</a></td>
