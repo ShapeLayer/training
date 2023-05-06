@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 19:54:34  
+마지막 업데이트: 2023-05-06 20:01:35  
 <table>
     <tr>
         <th>문제</th>
@@ -444,6 +444,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1789" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1789 수들의 합</a></td>
         <td><a href="./ruby/1789.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1809" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 1809 Moo</a></td>
+        <td><a href="./golfscript/1809.gs"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Golfscript</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1837" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 1837 암호제작</a></td>
