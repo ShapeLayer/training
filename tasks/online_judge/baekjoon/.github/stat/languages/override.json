@@ -47,6 +47,10 @@
     "languages.yml": "Fortran",
     "override": { "name": "Fortran" }
   },
+  "freebasic": {
+    "languages.yml": "FreeBasic",
+    "override": { "name": "FreeBasic" }
+  },
   "golfscript": {
     "languages.yml": "Text",
     "override": {
