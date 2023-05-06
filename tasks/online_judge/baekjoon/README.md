@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-06 11:49:59  
+마지막 업데이트: 2023-05-06 12:06:43  
 <table>
     <tr>
         <th>문제</th>
@@ -639,6 +639,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2357" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/15.svg" height="13" /> 2357 최솟값과 최댓값</a></td>
         <td><a href="./rust/2357.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2387" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2387 Howl</a></td>
+        <td><a href="./algol68/2387.a68"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Algol68</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2407" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 2407 조합</a></td>
