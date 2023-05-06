@@ -110,5 +110,9 @@
       "dirname": "umm",
       "extensions": [".umm"]
     }
+  } ,
+  "visualbasic": {
+    "languages.yml": "Visual Basic .NET",
+    "override": { "name": "Visual Basic .NET" }
   }
 }
