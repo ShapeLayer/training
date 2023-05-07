@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-07 20:58:20  
+마지막 업데이트: 2023-05-07 23:54:20  
 <table>
     <tr>
         <th>문제</th>
@@ -489,6 +489,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1912" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1912 연속합</a></td>
         <td><a href="./rust/1912.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1919" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1919 애너그램 만들기</a></td>
+        <td><a href="./python/1919.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1920" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1920 수 찾기</a></td>
