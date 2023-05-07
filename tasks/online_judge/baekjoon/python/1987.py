@@ -1,21 +1,34 @@
 from sys import stdin
 input = stdin.readline
+A: int = 65
+DT = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
-r, c = map(int, input().split())
-board = []
-for _i in range(r):
-    board.append(input().strip())
+def compute(r: int, c: int, table: list[str]) -> int:
+    passed: list[int] = [0 for _i in range(26)]
 
-offset = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+    def run(y: int, x: int, cnt: int) -> int:
+        if cnt == 26: return cnt
 
-res = 0
-def dfs(x: int, y: int, passed: str) -> int:
-    global res
-    for dx, dy in offset:
-        nx, ny = x + dx, y + dy
-        if 0 <= nx < c and 0 <= ny < r and board[ny][nx] not in passed: 
-            dfs(nx, ny, passed + board[ny][nx])
-    if len(passed) > res: res = len(passed)
+        now = table[y][x]
+        oidx = ord(now) - A
 
-dfs(0, 0, board[0][0])
-print(res)
+        passed[oidx] = True
+        cnt += 1
+        result = cnt
+        for dt in DT:
+            dy, dx = dt
+            ny, nx = y + dy, x + dx
+            if not (0 <= ny < r and 0 <= nx < c): continue
+            if passed[ord(table[ny][nx]) - A]: continue
+            ran = run(ny, nx, cnt)
+            if ran > result:
+                result = ran
+        passed[oidx] = False
+        return result
+
+    return run(0, 0, 0)
+
+if __name__ == '__main__':
+    r, c = map(int, input().split())
+    table: list[str] = [input().strip() for _i in range(r)]
+    print(compute(r, c, table))
