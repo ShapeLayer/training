@@ -4,29 +4,27 @@ A: int = 65
 DT = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
 def compute(r: int, c: int, table: list[str]) -> int:
-    passed: list[int] = [0 for _i in range(26)]
+    passed: list[int] = [False for _i in range(26)]
+    queue = [(0, 0, 0, passed)]
+    result = 0
 
-    def run(y: int, x: int, cnt: int) -> int:
-        if cnt == 26: return cnt
-
+    while queue:
+        y, x, cnt, p = queue.pop()
         now = table[y][x]
-        oidx = ord(now) - A
+        o = ord(now) - A
 
-        passed[oidx] = True
+        p[o] = True
         cnt += 1
-        result = cnt
+        if cnt > result:
+            result = cnt
+
         for dt in DT:
             dy, dx = dt
             ny, nx = y + dy, x + dx
             if not (0 <= ny < r and 0 <= nx < c): continue
-            if passed[ord(table[ny][nx]) - A]: continue
-            ran = run(ny, nx, cnt)
-            if ran > result:
-                result = ran
-        passed[oidx] = False
-        return result
-
-    return run(0, 0, 0)
+            if p[ord(table[ny][nx]) - A]: continue
+            queue.append((ny, nx, cnt, p.copy()))
+    return result
 
 if __name__ == '__main__':
     r, c = map(int, input().split())
