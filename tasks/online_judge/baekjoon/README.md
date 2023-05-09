@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-09 14:50:51  
+마지막 업데이트: 2023-05-09 14:59:37  
 <table>
     <tr>
         <th>문제</th>
@@ -1078,6 +1078,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2902" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2902 KMP는 왜 KMP일까?</a></td>
         <td><a href="./ruby/2902.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2903" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2903 중앙 이동 알고리즘</a></td>
+        <td><a href="./python/2903.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2908" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2908 상수</a></td>
