@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-07 23:54:20  
+마지막 업데이트: 2023-05-09 14:50:51  
 <table>
     <tr>
         <th>문제</th>
@@ -637,6 +637,10 @@
         <td><a href="./rust/2232.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/2239" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 2239 스도쿠</a></td>
+        <td><a href="./python/2239.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/2252" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 2252 줄 세우기</a></td>
         <td><a href="./rust/2252.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
@@ -939,7 +943,7 @@
 <a href="./rust/2667.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/2669" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2669 직사각형 네개의 합집합의 면적 구하기</a></td>
+        <td><a href="https://www.acmicpc.net/problem/2669" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 2669 직사각형 네개의 합집합의 면적 구하기</a></td>
         <td><a href="./python/2669.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
