@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-09 19:32:34  
+마지막 업데이트: 2023-05-09 23:04:31  
 <table>
     <tr>
         <th>문제</th>
@@ -801,6 +801,10 @@
         <td><a href="./java/2490.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/2495" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2495 연속구간</a></td>
+        <td><a href="./python/2495.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/2501" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2501 약수 구하기</a></td>
         <td><a href="./python/2501.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -1024,6 +1028,10 @@
         <td><a href="./python/2754.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/2774" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2774 아름다운 수</a></td>
+        <td><a href="./python/2774.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/2775" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2775 부녀회장이 될테야</a></td>
         <td><a href="./python/2775.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -1235,6 +1243,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/4470" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 4470 줄번호</a></td>
         <td><a href="./ruby/4470.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/4504" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 4504 배수 찾기</a></td>
+        <td><a href="./python/4504.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/4589" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 4589 Gnome Sequencing</a></td>
@@ -1935,6 +1947,10 @@
         <td><a href="./python/10991.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/10992" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10992 별 찍기 - 17</a></td>
+        <td><a href="./python/10992.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/10995" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10995 별 찍기 - 20</a></td>
         <td><a href="./python/10995.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -2097,6 +2113,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11655" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 11655 ROT13</a></td>
         <td><a href="./python/11655.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/11656" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 11656 접미사 배열</a></td>
+        <td><a href="./python/11656.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11657" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 11657 타임머신</a></td>
