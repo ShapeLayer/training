@@ -71,6 +71,10 @@
     "languages.yml": "JavaScript",
     "override": { "name": "JavaScript" }
   },
+  "kotlin": {
+    "languages.yml": "Kotlin",
+    "override": { "name": "Kotlin" }
+  },
   "minecraft": {
     "languages.yml": "Text",
     "override": {
