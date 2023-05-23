@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-19 21:14:52  
+마지막 업데이트: 2023-05-23 22:16:38  
 <table>
     <tr>
         <th>문제</th>
@@ -108,7 +108,7 @@
         <td><a href="./rust/1049.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/1051" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1051 숫자 정사각형</a></td>
+        <td><a href="https://www.acmicpc.net/problem/1051" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 1051 숫자 정사각형</a></td>
         <td><a href="./python/1051.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -342,6 +342,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1358" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1358 하키</a></td>
         <td><a href="./c/1358.c"><img src="https://img.shields.io/badge/-%20-555555?style=flat-square"/> C</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1371" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1371 가장 많은 글자</a></td>
+        <td><a href="./python/1371.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1380" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1380 귀걸이</a></td>
@@ -3243,7 +3247,7 @@
         <td><a href="./python/28014.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/28015" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 28015 영역 색칠</a></td>
+        <td><a href="https://www.acmicpc.net/problem/28015" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 28015 영역 색칠</a></td>
         <td><a href="./python/28015.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -3253,6 +3257,26 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/28018" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 28018 시간이 겹칠까?</a></td>
         <td><a href="./python/28018.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28061" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 28061 레몬 따기</a></td>
+        <td><a href="./python/28061.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28062" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 28062 준석이의 사탕 사기</a></td>
+        <td><a href="./python/28062.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28063" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 28063 동전 복사</a></td>
+        <td><a href="./python/28063.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28064" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 28064 이민희진</a></td>
+        <td><a href="./python/28064.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28065" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 28065 SW 수열 구하기</a></td>
+        <td><a href="./python/28065.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 </table>
 
