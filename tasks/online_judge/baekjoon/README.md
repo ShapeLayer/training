@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-23 22:16:38  
+마지막 업데이트: 2023-05-23 23:08:47  
 <table>
     <tr>
         <th>문제</th>
@@ -2459,6 +2459,10 @@
         <td><a href="./rust/14501.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/14503" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 14503 로봇 청소기</a></td>
+        <td><a href="./python/14503.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/14567" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 14567 선수과목 (Prerequisite)</a></td>
         <td><a href="./python/14567.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3227,12 +3231,20 @@
         <td><a href="./python/27885.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/27890" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 27890 특별한 작은 분수</a></td>
+        <td><a href="./python/27890.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/27899" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 27899 먹었습니다!!</a></td>
         <td><a href="./text/27899.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27903" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 27903 인생</a></td>
         <td><a href="./aheui/27903.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27918" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 27918 탁구 경기</a></td>
+        <td><a href="./python/27918.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27930" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 27930 당신은 운명을 믿나요?</a></td>
@@ -3277,6 +3289,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/28065" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 28065 SW 수열 구하기</a></td>
         <td><a href="./python/28065.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28074" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 28074 모비스</a></td>
+        <td><a href="./python/28074.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 </table>
 
