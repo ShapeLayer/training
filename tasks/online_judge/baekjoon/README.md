@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-17 23:51:32  
+마지막 업데이트: 2023-05-19 21:14:52  
 <table>
     <tr>
         <th>문제</th>
@@ -158,6 +158,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1100" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1100 하얀 칸</a></td>
         <td><a href="./ruby/1100.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1106" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1106 호텔</a></td>
+        <td><a href="./python/1106.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1110" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1110 더하기 사이클</a></td>
@@ -328,6 +332,10 @@
         <td><a href="./python/1351.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/1354" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1354 무한 수열 2</a></td>
+        <td><a href="./python/1354.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/1357" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1357 뒤집힌 덧셈</a></td>
         <td><a href="./python/1357.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -477,6 +485,10 @@
         <td><a href="https://www.acmicpc.net/problem/1769" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1769 3의 배수</a></td>
         <td><a href="./python/1769.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./c/1769.c"><img src="https://img.shields.io/badge/-%20-555555?style=flat-square"/> C</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1773" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1773 폭죽쇼</a></td>
+        <td><a href="./python/1773.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1774" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 1774 우주신과의 교감</a></td>
