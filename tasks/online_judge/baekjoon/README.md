@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-23 23:08:47  
+마지막 업데이트: 2023-05-27 11:19:53  
 <table>
     <tr>
         <th>문제</th>
@@ -3177,6 +3177,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/25372" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 25372 성택이의 은밀한 비밀번호</a></td>
         <td><a href="./ruby/25372.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/25494" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 25494 단순한 문제 (Small)</a></td>
+        <td><a href="./ruby/25494.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/25559" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 25559 패스</a></td>
