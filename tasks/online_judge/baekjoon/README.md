@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-27 11:19:53  
+마지막 업데이트: 2023-05-27 11:58:56  
 <table>
     <tr>
         <th>문제</th>
@@ -2321,6 +2321,14 @@
         <td><a href="./ruby/11948.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/12085" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 12085 Moist (Small1)</a></td>
+        <td><a href="./python/12085.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/12086" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 12086 Moist (Small2)</a></td>
+        <td><a href="./python/12086.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/12091" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 12091 이브이 진화 시키기</a></td>
         <td><a href="./python/12091.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -2331,6 +2339,14 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12096" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 12096 </a></td>
         <td><a href="./text/12096.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/12517" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 12517 Centauri Prime (Small1)</a></td>
+        <td><a href="./python/12517.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/12518" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 12518 Centauri Prime (Small2)</a></td>
+        <td><a href="./python/12518.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12759" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 12759 틱! 택! 토!</a></td>
