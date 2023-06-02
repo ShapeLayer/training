@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-05-29 15:56:18  
+마지막 업데이트: 2023-05-29 16:05:22  
 <table>
     <tr>
         <th>문제</th>
@@ -3457,6 +3457,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/28074" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 28074 모비스</a></td>
         <td><a href="./python/28074.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/28097" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 28097 모범생 포닉스</a></td>
+        <td><a href="./python/28097.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/28125" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 28125 2023 아주머학교 프로그래딩 정시머힌</a></td>
