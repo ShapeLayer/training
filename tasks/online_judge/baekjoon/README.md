@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-03 17:36:32  
+마지막 업데이트: 2023-06-04 11:09:48  
 <table>
     <tr>
         <th>문제</th>
@@ -487,6 +487,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1747" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 1747 소수&팰린드롬</a></td>
         <td><a href="./python/1747.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1759" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1759 암호 만들기</a></td>
+        <td><a href="./python/1759.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1764" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1764 듣보잡</a></td>
@@ -1410,6 +1414,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5046" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 5046 전국 대학생 프로그래밍 대회 동아리 연합</a></td>
         <td><a href="./python/5046.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5052" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 5052 전화번호 목록</a></td>
+        <td><a href="./python/5052.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5054" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5054 주차의 신</a></td>
