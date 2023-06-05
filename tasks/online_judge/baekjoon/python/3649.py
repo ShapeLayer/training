@@ -4,7 +4,7 @@ input = stdin.readline
 def compute(x: int, n: int, legos: list[int]):
     legos.sort()
     lo, hi = 0, n - 1
-    while lo + 1 < hi:
+    while lo < hi:
         if legos[lo] + legos[hi] > x:
             hi -= 1
         elif legos[lo] + legos[hi] < x:
@@ -18,7 +18,7 @@ if __name__ == '__main__':
     while True:
         try:
             gets = input()
-        except:
+        except EOFError:
             break
         gets = gets.strip()
         if not gets:
