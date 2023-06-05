@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-04 11:09:48  
+마지막 업데이트: 2023-06-05 16:06:02  
 <table>
     <tr>
         <th>문제</th>
@@ -653,7 +653,7 @@
         <td><a href="./ruby/2083.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/2108" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 2108 통계학</a></td>
+        <td><a href="https://www.acmicpc.net/problem/2108" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 2108 통계학</a></td>
         <td><a href="./python/2108.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -1309,6 +1309,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3613" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 3613 Java vs C++</a></td>
         <td><a href="./python/3613.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/3649" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 3649 로봇 프로젝트</a></td>
+        <td><a href="./python/3649.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3765" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 3765 Celebrity jeopardy</a></td>
@@ -2603,7 +2607,7 @@
         <td><a href="./python/14065.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/14173" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 14173 Square Pasture</a></td>
+        <td><a href="https://www.acmicpc.net/problem/14173" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 14173 Square Pasture</a></td>
         <td><a href="./python/14173.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -2751,7 +2755,7 @@
         <td><a href="./python/14935.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/15000" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15000 CAPS</a></td>
+        <td><a href="https://www.acmicpc.net/problem/15000" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 15000 CAPS</a></td>
         <td><a href="./python/15000.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
