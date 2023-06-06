@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-06 12:50:13  
+마지막 업데이트: 2023-06-06 16:45:33  
 <table>
     <tr>
         <th>문제</th>
@@ -914,6 +914,10 @@
         <td><a href="./python/2525.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/2529" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 2529 부등호</a></td>
+        <td><a href="./python/2529.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/2530" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 2530 인공지능 시계</a></td>
         <td><a href="./python/2530.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -985,6 +989,10 @@
         <td><a href="https://www.acmicpc.net/problem/2581" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2581 소수</a></td>
         <td><a href="./python/2581.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./cpp/2581.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2583" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 2583 영역 구하기</a></td>
+        <td><a href="./python/2583.nd.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2587" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2587 대표값2</a></td>
@@ -1785,8 +1793,32 @@
         <td><a href="./python/9265.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/9297" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9297 Reducing Improper Fractions</a></td>
+        <td><a href="./python/9297.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9298" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9298 Ant Entrapment</a></td>
+        <td><a href="./python/9298.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9299" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9299 Math Tutoring</a></td>
+        <td><a href="./python/9299.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9306" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9306 Practice: Roll Call</a></td>
+        <td><a href="./python/9306.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9310" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9310 Arithmetic and Geometric Sums</a></td>
+        <td><a href="./python/9310.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/9316" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 9316 Hello Judge</a></td>
         <td><a href="./python/9316.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9317" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9317 Monitor DPI</a></td>
+        <td><a href="./python/9317.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9322" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 9322 철벽 보안 알고리즘</a></td>
@@ -2084,6 +2116,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10818" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10818 최소, 최대</a></td>
         <td><a href="./python/10818.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/10819" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 10819 차이를 최대로</a></td>
+        <td><a href="./python/10819.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10821" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 10821 정수의 개수</a></td>
@@ -2725,6 +2761,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14730" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 14730 謎紛芥索紀 (Small)</a></td>
         <td><a href="./cpp/14730.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/14888" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 14888 연산자 끼워넣기</a></td>
+        <td><a href="./python/14888.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14909" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 14909 양수 개수 세기</a></td>
@@ -3549,6 +3589,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/25628" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 25628 햄버거 만들기</a></td>
         <td><a href="./python/25628.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/25633" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 25633 도미노 넘어뜨리기</a></td>
+        <td><a href="./python/25633.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/25640" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 25640 MBTI</a></td>
