@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-05 20:05:59  
+마지막 업데이트: 2023-06-06 12:50:13  
 <table>
     <tr>
         <th>문제</th>
@@ -1997,7 +1997,7 @@
         <td><a href="./csharp/10610.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/10696" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 10696 Prof. Ossama</a></td>
+        <td><a href="https://www.acmicpc.net/problem/10696" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 10696 Prof. Ossama</a></td>
         <td><a href="./python/10696.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
