@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-12 17:22:13  
+마지막 업데이트: 2023-06-12 17:30:12  
 <table>
     <tr>
         <th>문제</th>
@@ -1233,6 +1233,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2959" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2959 거북이</a></td>
         <td><a href="./python/2959.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2960" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 2960 에라토스테네스의 체</a></td>
+        <td><a href="./python/2960.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2965" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2965 캥거루 세마리</a></td>
