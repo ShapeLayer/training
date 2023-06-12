@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-11 21:51:52  
+마지막 업데이트: 2023-06-12 13:24:46  
 <table>
     <tr>
         <th>문제</th>
@@ -2916,8 +2916,16 @@
         <td><a href="./text/15643.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/15649" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15649 N과 M (1)</a></td>
+        <td><a href="./python/15649.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/15650" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15650 N과 M (2)</a></td>
         <td><a href="./python/15650.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15651" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15651 N과 M (3)</a></td>
+        <td><a href="./python/15651.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15652" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15652 N과 M (4)</a></td>
@@ -2926,6 +2934,14 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15654" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15654 N과 M (5)</a></td>
         <td><a href="./python/15654.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15655" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15655 N과 M (6)</a></td>
+        <td><a href="./python/15655.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15656" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15656 N과 M (7)</a></td>
+        <td><a href="./python/15656.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15657" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15657 N과 M (8)</a></td>
@@ -3693,6 +3709,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27434" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27434 팩토리얼 3</a></td>
         <td><a href="./python/27434.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27590" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 27590 Sun and Moon</a></td>
+        <td><a href="./python/27590.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27866" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27866 문자와 문자열</a></td>
