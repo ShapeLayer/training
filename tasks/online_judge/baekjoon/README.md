@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-12 17:30:12  
+마지막 업데이트: 2023-06-13 20:24:45  
 <table>
     <tr>
         <th>문제</th>
@@ -525,6 +525,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1809" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 1809 Moo</a></td>
         <td><a href="./golfscript/1809.gs"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Golfscript</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1834" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1834 나머지와 몫이 같은 수</a></td>
+        <td><a href="./python/1834.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1837" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 1837 암호제작</a></td>
@@ -1556,6 +1560,10 @@
         <td><a href="./python/5597.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/5598" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5598 카이사르 암호</a></td>
+        <td><a href="./python/5598.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/5622" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5622 다이얼</a></td>
         <td><a href="./python/5622.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -1566,6 +1574,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5637" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 5637 가장 긴 단어</a></td>
         <td><a href="./python/5637.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5656" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5656 비교 연산자</a></td>
+        <td><a href="./python/5656.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5676" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/15.svg" height="13" /> 5676 음주 코딩</a></td>
@@ -1994,6 +2006,10 @@
 <a href="./rust/10172.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
 <a href="./cpp/10172.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
 <a href="./java/10172.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/10173" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 10173 니모를 찾아서</a></td>
+        <td><a href="./python/10173.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10178" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10178 할로윈의 사탕</a></td>
@@ -2444,6 +2460,10 @@
         <td><a href="https://www.acmicpc.net/problem/11557" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 11557 Yangjojang of The Year</a></td>
         <td><a href="./python/11557.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
 <a href="./cpp/11557.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/11575" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 11575 Affine Cipher</a></td>
+        <td><a href="./python/11575.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11650" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 11650 좌표 정렬하기</a></td>
@@ -2958,6 +2978,14 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15663" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 15663 N과 M (9)</a></td>
         <td><a href="./python/15663.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15664" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 15664 N과 M (10)</a></td>
+        <td><a href="./python/15664.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15665" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 15665 N과 M (11)</a></td>
+        <td><a href="./python/15665.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15666" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 15666 N과 M (12)</a></td>
