@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-06-13 20:24:45  
+마지막 업데이트: 2023-06-13 20:53:14  
 <table>
     <tr>
         <th>문제</th>
@@ -3727,6 +3727,10 @@
         <td><a href="./python/26082.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/26209" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26209 Intercepting Information</a></td>
+        <td><a href="./python/26209.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/26307" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26307 Correct</a></td>
         <td><a href="./python/26307.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3737,6 +3741,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/26574" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26574 Copier</a></td>
         <td><a href="./python/26574.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/26575" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26575 Pups</a></td>
+        <td><a href="./python/26575.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/26711" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26711 A+B</a></td>
@@ -3805,6 +3813,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27951" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 27951 옷걸이</a></td>
         <td><a href="./python/27951.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27959" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27959 초코바</a></td>
+        <td><a href="./python/27959.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/28014" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 28014 첨탑 밀어서 부수기</a></td>
