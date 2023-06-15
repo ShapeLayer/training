@@ -1,5 +1,5 @@
 def compute(n: int) -> int:
-    dp = [0 for _i in range(n + 1)]
+    dp = [0 for _i in range(max(3, n + 1))]
     dp[1] = 1
     dp[2] = 2
     for i in range(3, n + 1):
