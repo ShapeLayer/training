@@ -36,7 +36,7 @@ class Solution:
                 idx = self.find(idx)
 
 if __name__ == '__main__':
-    n, q = map(int,input().split())
+    n, q = map(int, input().split())
     solve: Solution = Solution(n, q)
     for _i in range(q):
         a, b, x = map(int, input().split())
