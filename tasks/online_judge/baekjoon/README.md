@@ -14,7 +14,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-06 23:46:11  
+마지막 업데이트: 2023-12-06 23:56:29  
 <table>
     <tr>
         <th>문제</th>
@@ -1557,6 +1557,10 @@
         <td><a href="./python/4504.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/4562" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 4562 No Brainer</a></td>
+        <td><a href="./python/4562.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/4589" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 4589 Gnome Sequencing</a></td>
         <td><a href="./ruby/4589.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
@@ -2182,6 +2186,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9698" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9698 SAHUR & IMSA’</a></td>
         <td><a href="./python/9698.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9713" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9713 Sum of Odd Sequence</a></td>
+        <td><a href="./python/9713.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9724" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9724 Perfect Cube</a></td>
@@ -3945,6 +3953,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/22864" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 22864 피로도</a></td>
         <td><a href="./python/22864.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/22938" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 22938 백발백준하는 명사수</a></td>
+        <td><a href="./python/22938.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/23028" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 23028 5학년은 다니기 싫어요</a></td>
