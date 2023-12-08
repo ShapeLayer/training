@@ -20,7 +20,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-08 19:31:29  
+마지막 업데이트: 2023-12-08 19:45:30  
 <table>
     <tr>
         <th>문제</th>
@@ -1612,6 +1612,10 @@
         <td><a href="./ruby/4880.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/4892" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 4892 숫자 맞추기 게임</a></td>
+        <td><a href="./python/4892.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/4948" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 4948 베르트랑 공준</a></td>
         <td><a href="./python/4948.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -2715,6 +2719,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11286" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 11286 절댓값 힙</a></td>
         <td><a href="./python/11286.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/11319" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 11319 Count Me In</a></td>
+        <td><a href="./python/11319.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11322" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 11322 Numbers are Easy</a></td>
@@ -4003,6 +4011,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/22938" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 22938 백발백준하는 명사수</a></td>
         <td><a href="./python/22938.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/22966" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 22966 가장 쉬운 문제를 찾는 문제</a></td>
+        <td><a href="./python/22966.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/23028" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 23028 5학년은 다니기 싫어요</a></td>
