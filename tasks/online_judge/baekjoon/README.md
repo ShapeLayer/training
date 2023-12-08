@@ -5,22 +5,22 @@
 ## 알고리즘 개념 정리
 
 * 트리
-  * 세그먼트 트리 - [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042) [(답안)](./python/2042.py)
+  * 세그먼트 트리 - [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042), [(답안)](./python/2042.py)
     * [BOJ book, 세그먼트 트리 (Segment Tree)](https://book.acmicpc.net/ds/segment-tree)
     * [kimdukbae, [자료구조] 세그먼트 트리 (Segment Tree), 2021.](https://velog.io/@kimdukbae/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC-Segment-Tree)
-  * 레이지 세그먼트 트리 - [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999) [(답안)](./rust/10999.rs)
+  * 레이지 세그먼트 트리 - [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999), [(답안)](./rust/10999.rs)
     * [BOJ Book, 느리게 갱신되는 세그먼트 트리 (Segment Tree with Lazy Propagation)](https://book.acmicpc.net/ds/segment-tree-lazy-propagation)
 * 문자열
-  * KMP - [1786 찾기](https://www.acmicpc.net/problem/1786) [(답안)](./python/1786.py)  
+  * KMP - [1786 찾기](https://www.acmicpc.net/problem/1786), [(답안)](./python/1786.py)
     * [까만화면, [알고리즘 공부] KMP Algorithm (문자열 검색 알고리즘), 2021.](https://bblackscene21.tistory.com/2)
 * 기하학
-  * 선분 교차 - [17386 선분 교차 1](https://www.acmicpc.net/problem/17386)
-  * 볼록 껍질
+  * 선분 교차 - [17386 선분 교차 1](https://www.acmicpc.net/problem/17386), [(답안)](./swift/17386.swift)
+  * 볼록 껍질 - [1708 볼록 껍질](https://www.acmicpc.net/problem/1708), [(답안)](./python/1708.py)
 
 ## 풀이
 
 
-마지막 업데이트: 2023-12-07 23:59:14  
+마지막 업데이트: 2023-12-08 14:41:23  
 <table>
     <tr>
         <th>문제</th>
@@ -2826,6 +2826,10 @@
         <td><a href="./rust/11657.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/11659" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 11659 구간 합 구하기 4</a></td>
+        <td><a href="./python/11659.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/11660" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 11660 구간 합 구하기 5</a></td>
         <td><a href="./python/11660.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3229,6 +3233,10 @@
         <td><a href="./python/14935.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/14940" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 14940 쉬운 최단거리</a></td>
+        <td><a href="./python/14940.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/15000" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 15000 CAPS</a></td>
         <td><a href="./python/15000.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3271,6 +3279,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15474" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15474 鉛筆 (Pencils)</a></td>
         <td><a href="./python/15474.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15551" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 15551 if 3</a></td>
+        <td><a href="./python/15551.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15552 빠른 A+B</a></td>
@@ -3511,6 +3523,10 @@
         <td><a href="./python/16562.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/16570" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 16570 앞뒤가 맞는 수열</a></td>
+        <td><a href="./python/16570.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/16600" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 16600 Contemporary Art</a></td>
         <td><a href="./python/16600.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3541,6 +3557,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/16727" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 16727 ICPC</a></td>
         <td><a href="./python/16727.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/16900" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 16900 이름 정하기</a></td>
+        <td><a href="./python/16900.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/16916" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 16916 부분 문자열</a></td>
@@ -4173,7 +4193,7 @@
         <td><a href="./ruby/24860.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/24883" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 24883 자동완성</a></td>
+        <td><a href="https://www.acmicpc.net/problem/24883" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 24883 자동완성</a></td>
         <td><a href="./ruby/24883.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
