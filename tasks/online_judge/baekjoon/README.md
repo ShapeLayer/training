@@ -20,7 +20,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-08 14:41:23  
+마지막 업데이트: 2023-12-08 15:08:33  
 <table>
     <tr>
         <th>문제</th>
@@ -4127,6 +4127,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/24365" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 24365 ПЧЕЛИЧКАТА МАЯ</a></td>
         <td><a href="./python/24365.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/24391" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 24391 귀찮은 해강이</a></td>
+        <td><a href="./cpp/24391.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/24416" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 24416 알고리즘 수업 - 피보나치 수 1</a></td>
