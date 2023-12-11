@@ -20,7 +20,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-09 15:54:12  
+마지막 업데이트: 2023-12-10 19:34:05  
 <table>
     <tr>
         <th>문제</th>
@@ -1417,6 +1417,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3009" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 3009 네 번째 점</a></td>
         <td><a href="./python/3009.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/3020" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 3020 개똥벌레</a></td>
+        <td><a href="./cpp/3020.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3029" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 3029 경고</a></td>
@@ -3725,6 +3729,10 @@
 <a href="./cpp/17521.1.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/17530" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 17530 Buffoon</a></td>
+        <td><a href="./python/17530.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/17614" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 17614 369</a></td>
         <td><a href="./python/17614.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3735,6 +3743,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/17863" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 17863 FYI</a></td>
         <td><a href="./python/17863.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/17869" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 17869 Simple Collatz Sequence</a></td>
+        <td><a href="./python/17869.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/17874" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 17874 Piece of Cake!</a></td>
@@ -4011,6 +4023,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/21734" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 21734 SMUPC의 등장</a></td>
         <td><a href="./python/21734.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/21758" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 21758 꿀 따기</a></td>
+        <td><a href="./cpp/21758.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/21921" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 21921 블로그</a></td>
