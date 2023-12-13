@@ -4,6 +4,9 @@
 
 ## 알고리즘 개념 정리
 
+* 다이나믹 프로그래밍
+  * 배낭 문제 - [17845 수강 과목](https://www.acmicpc.net/problem/17845), [(답안)](./python/17845.py)
+    * [ChanBLOG, [알고리즘 트레이닝] 5장 - 동적계획법과 냅색(Knapsack) (백준 12865번 평범한 배낭 문제로 살펴보기)](https://chanhuiseok.github.io/posts/improve-6/)
 * 트리
   * 세그먼트 트리 - [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042), [(답안)](./python/2042.py)
     * [BOJ book, 세그먼트 트리 (Segment Tree)](https://book.acmicpc.net/ds/segment-tree)
@@ -13,6 +16,9 @@
 * 문자열
   * KMP - [1786 찾기](https://www.acmicpc.net/problem/1786), [(답안)](./python/1786.py)
     * [까만화면, [알고리즘 공부] KMP Algorithm (문자열 검색 알고리즘), 2021.](https://bblackscene21.tistory.com/2)
+  * Manacher
+    * [JoonDev, Manacher 알고리즘](https://kangminjun.tistory.com/entry/Manacher-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+    * [Crocus, Manacher 알고리즘(Manacher's Algorithm)](https://www.crocus.co.kr/1075)
 * 기하학
   * 선분 교차 - [17386 선분 교차 1](https://www.acmicpc.net/problem/17386), [(답안)](./swift/17386.swift)
   * 볼록 껍질 - [1708 볼록 껍질](https://www.acmicpc.net/problem/1708), [(답안)](./python/1708.py)
