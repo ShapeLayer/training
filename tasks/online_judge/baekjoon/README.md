@@ -20,7 +20,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-10 19:34:05  
+마지막 업데이트: 2023-12-12 00:00:07  
 <table>
     <tr>
         <th>문제</th>
@@ -1802,6 +1802,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5676" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/15.svg" height="13" /> 5676 음주 코딩</a></td>
         <td><a href="./python/5676.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5691" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 5691 평균 중앙값 문제</a></td>
+        <td><a href="./python/5691.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5717" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 5717 상근이의 친구들</a></td>
@@ -3714,6 +3718,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/17388" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 17388 와글와글 숭고한</a></td>
         <td><a href="./rust/17388.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/17398" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 17398 통신망 분할</a></td>
+        <td><a href="./python/17398.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/17404" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 17404 RGB거리 2</a></td>
