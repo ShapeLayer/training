@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-15 15:32:13  
+마지막 업데이트: 2023-12-15 15:51:20  
 <table>
     <tr>
         <th>문제</th>
@@ -3551,7 +3551,8 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15896" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/21.svg" height="13" /> 15896 &+ +&</a></td>
-        <td><a href="./python/15896.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./cpp/15896.rte.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./python/15896.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15913" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 15913 가위 바위 보 999</a></td>
