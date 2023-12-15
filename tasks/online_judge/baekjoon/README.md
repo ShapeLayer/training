@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-13 23:58:03  
+마지막 업데이트: 2023-12-15 15:32:13  
 <table>
     <tr>
         <th>문제</th>
@@ -631,6 +631,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1904" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 1904 01타일</a></td>
         <td><a href="./rust/1904.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1911" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1911 흙길 보수하기</a></td>
+        <td><a href="./python/1911.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1912" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1912 연속합</a></td>
@@ -1976,6 +1980,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/7785" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 7785 회사에 있는 사람</a></td>
         <td><a href="./python/7785.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/7795" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 7795 먹을 것인가 먹힐 것인가</a></td>
+        <td><a href="./python/7795.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/7891" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 7891 Can you add this?</a></td>
@@ -3534,8 +3542,16 @@
         <td><a href="./ruby/15873.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/15889" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 15889 호 안에 수류탄이야!!</a></td>
+        <td><a href="./python/15889.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/15894" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15894 수학은 체육과목 입니다</a></td>
         <td><a href="./ruby/15894.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15896" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/21.svg" height="13" /> 15896 &+ +&</a></td>
+        <td><a href="./python/15896.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15913" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 15913 가위 바위 보 999</a></td>
@@ -3686,7 +3702,7 @@
         <td><a href="./java/17009.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/17010" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 17010 Time to Decompress</a></td>
+        <td><a href="https://www.acmicpc.net/problem/17010" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 17010 Time to Decompress</a></td>
         <td><a href="./python/17010.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
