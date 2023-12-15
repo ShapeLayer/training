@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-15 15:51:20  
+마지막 업데이트: 2023-12-15 16:03:36  
 <table>
     <tr>
         <th>문제</th>
@@ -3911,6 +3911,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/18822" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 18822 Beginning the Hunt</a></td>
         <td><a href="./text/18822.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/18825" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 18825 눈치게임 A+B! A-B! A+B! 터렛! A+B! 피보나치 함수! A+B! A-B! A+B! 어린 왕자! A+B! ACM Craft! A+B! A-B! A+B! 습격자 초라기! A+B! 벡터 매칭! A+B! A-B! A+B! A/B! A+B! 터렛! A+B! A-B! A+B! 분산처리! A+B! A+B! 마셔라! 마셔라 마셔라! 마셔라 틀이 들어간다!</a></td>
+        <td><a href="./aheui/18825.aheui"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Aheui</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/18826" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 18826 A+B (MC)</a></td>
