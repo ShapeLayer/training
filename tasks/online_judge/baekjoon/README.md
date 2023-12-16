@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-15 16:03:36  
+마지막 업데이트: 2023-12-16 16:22:57  
 <table>
     <tr>
         <th>문제</th>
@@ -3364,6 +3364,10 @@
         <td><a href="./python/15236.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/15311" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 15311 약 팔기</a></td>
+        <td><a href="./python/15311.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/15372" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15372 A Simple Problem.</a></td>
         <td><a href="./python/15372.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3931,6 +3935,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/18870" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 18870 좌표 압축</a></td>
         <td><a href="./python/18870.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/18891" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 18891 제21대 국회의원 선거</a></td>
+        <td><a href="./python/18891.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/19532" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 19532 수학은 비대면강의입니다</a></td>
