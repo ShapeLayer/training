@@ -90,7 +90,7 @@ def compute(p: int, v: int, av: int, parties: list[Party]):
                 party.p[2] = int(party.p_rate[2])
                 party.p_rate[2] -= party.p[2]
                 make_30 += party.p[2]
-            for party in sorted(parties, key=lambda each: each.p_rate[2], reverse=True):
+            for party in sorted(parties, key=lambda each: (each.p_rate[2], each.name), reverse=True):
                 if not party.calc_target:
                     continue
                 if make_30 >= 30:
@@ -106,7 +106,7 @@ def compute(p: int, v: int, av: int, parties: list[Party]):
                 party.p[2] = int(party.p_rate[2])
                 party.p_rate[2] -= party.p[2]
                 make_30 += party.p[2]
-            for party in sorted(parties, key=lambda each: each.p_rate[2], reverse=True):
+            for party in sorted(parties, key=lambda each: (each.p_rate[2], each.name), reverse=True):
                 if not party.calc_target:
                     continue
                 if make_30 >= 30:
@@ -127,7 +127,7 @@ def compute(p: int, v: int, av: int, parties: list[Party]):
             party.p_rate[3] -= party.p[3]
             total += party.p[3]
         
-        for party in sorted(parties, key=lambda each: each.p_rate[3], reverse=True):
+        for party in sorted(parties, key=lambda each: (each.p_rate[3], each.name), reverse=True):
             if not party.calc_target:
                 continue
             if total >= 17:
