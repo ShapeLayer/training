@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-20 21:29:08  
+마지막 업데이트: 2023-12-20 22:58:15  
 <table>
     <tr>
         <th>문제</th>
@@ -3876,6 +3876,15 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/18116" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 18116 로봇 조립</a></td>
         <td><a href="./python/18116.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/18185" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/21.svg" height="13" /> 18185 라면 사기 (Small)</a></td>
+        <td><a href="./cpp/18185.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./cpp/18185.2.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/18186" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/22.svg" height="13" /> 18186 라면 사기 (Large)</a></td>
+        <td><a href="./cpp/18186.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/18198" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 18198 Basketball One-on-One</a></td>
