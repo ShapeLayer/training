@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-20 22:58:15  
+마지막 업데이트: 2023-12-21 01:45:19  
 <table>
     <tr>
         <th>문제</th>
@@ -2012,6 +2012,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/8437" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 8437 Julka</a></td>
         <td><a href="./ruby/8437.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/8464" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/21.svg" height="13" /> 8464 Non-Squarefree Numbers</a></td>
+        <td><a href="./cpp/8464.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/8545" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 8545 Zadanie próbne</a></td>
