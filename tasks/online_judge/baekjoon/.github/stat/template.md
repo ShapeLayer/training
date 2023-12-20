@@ -16,7 +16,7 @@
 * 문자열
   * KMP - [1786 찾기](https://www.acmicpc.net/problem/1786), [(답안)](./python/1786.py)
     * [까만화면, [알고리즘 공부] KMP Algorithm (문자열 검색 알고리즘), 2021.](https://bblackscene21.tistory.com/2)
-  * Manacher
+  * Manacher - [13275 가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275), [(답안)](./python/13275.1.py)
     * [JoonDev, Manacher 알고리즘](https://kangminjun.tistory.com/entry/Manacher-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     * [Crocus, Manacher 알고리즘(Manacher's Algorithm)](https://www.crocus.co.kr/1075)
 * 기하학
