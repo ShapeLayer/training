@@ -16,7 +16,7 @@
 * 문자열
   * KMP - [1786 찾기](https://www.acmicpc.net/problem/1786), [(답안)](./python/1786.py)
     * [까만화면, [알고리즘 공부] KMP Algorithm (문자열 검색 알고리즘), 2021.](https://bblackscene21.tistory.com/2)
-  * Manacher
+  * Manacher - [13275 가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275), [(답안)](./python/13275.1.py)
     * [JoonDev, Manacher 알고리즘](https://kangminjun.tistory.com/entry/Manacher-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
     * [Crocus, Manacher 알고리즘(Manacher's Algorithm)](https://www.crocus.co.kr/1075)
 * 기하학
@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-19 11:17:05  
+마지막 업데이트: 2023-12-20 21:29:08  
 <table>
     <tr>
         <th>문제</th>
@@ -474,7 +474,7 @@
         <td><a href="./cpp/1562.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/1564" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1564 팩토리얼5</a></td>
+        <td><a href="https://www.acmicpc.net/problem/1564" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 1564 팩토리얼5</a></td>
         <td><a href="./ruby/1564.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
@@ -2252,6 +2252,11 @@
 <a href="./rust/9655.1.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/9663" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 9663 N-Queen</a></td>
+        <td><a href="./cpp/9663.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./python/9663.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/9698" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 9698 SAHUR & IMSA’</a></td>
         <td><a href="./python/9698.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3222,6 +3227,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14503" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 14503 로봇 청소기</a></td>
         <td><a href="./python/14503.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/14517" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 14517 팰린드롬 개수 구하기 (Large)</a></td>
+        <td><a href="./python/14517.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14567" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 14567 선수과목 (Prerequisite)</a></td>
