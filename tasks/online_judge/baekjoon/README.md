@@ -26,7 +26,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-21 19:41:55  
+마지막 업데이트: 2023-12-22 12:58:56  
 <table>
     <tr>
         <th>문제</th>
@@ -1533,6 +1533,10 @@
         <td><a href="./python/3787.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/3830" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/18.svg" height="13" /> 3830 교수님은 기다리지 않는다</a></td>
+        <td><a href="./python/3830.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/3845" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 3845 잔디깎기</a></td>
         <td><a href="./python/3845.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -1676,6 +1680,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5086" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 5086 배수와 약수</a></td>
         <td><a href="./python/5086.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5107" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 5107 마니또</a></td>
+        <td><a href="./python/5107.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5176" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5176 대회 자리</a></td>
