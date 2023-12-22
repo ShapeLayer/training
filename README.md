@@ -7,18 +7,11 @@ while not talent:
 ```
 
 ## Shortcuts
-**Major Online Judges**
 * [Baekjoon Online Judge Solutions](./tasks/online_judge/baekjoon/)
-  * Related: [2022 PIMM Algorithm Study](https://github.com/rootachieve/Algorithm-study)
-* [Codeforces](./tasks/online_judge/codeforces/)
-* [LeetCode Solutions](./tasks/online_judge/leetcode/)
+* [Codeforces](./tasks/competitive/codeforces/)
+* [Kaggle](./tasks/competitive/kaggle)
 
-**Minor Online Judges**
-* [Programmers Solutions](./tasks/online_judge/programmers)
-* [Euler Online Judge Solutions](./tasks/online_judge/euleroj)
-
-**University Lectures**
-* [Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
+* [Lecture Tasks of Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
 
 ## Directories
 * [`/implementations`](./implementations/) - Small size toy projects
@@ -30,29 +23,29 @@ while not talent:
 
 ## Language uses
 ```
-Python..............43.26%
-Jupyter Notebook....11.90%
-Rust................11.84%
-Java................9.86%
-C...................7.77%
-C++.................5.99%
-TeX.................3.24%
-Ruby................2.37%
-C#..................0.90%
-R...................0.57%
-HTML................0.57%
-Swift...............0.47%
-CSS.................0.44%
-JavaScript..........0.29%
+Python..............41.73%
+Jupyter Notebook....15.02%
+Rust................11.42%
+Java................9.51%
+C...................7.49%
+C++.................5.78%
+TeX.................3.12%
+Ruby................2.28%
+C#..................0.87%
+R...................0.55%
+HTML................0.55%
+Swift...............0.45%
+CSS.................0.42%
+JavaScript..........0.28%
 Makefile............0.12%
-Shell...............0.12%
-Assembly............0.09%
+Shell...............0.11%
+Assembly............0.08%
 Befunge.............0.06%
 Visual Basic .NET...0.04%
 Ada.................0.03%
 Fortran.............0.02%
 BASIC...............0.02%
-Kotlin..............0.02%
+Kotlin..............0.01%
 Pike................0.01%
 Batchfile...........0.01%
 GLSL................0.01%
