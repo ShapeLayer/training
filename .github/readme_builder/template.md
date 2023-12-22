@@ -7,18 +7,11 @@ while not talent:
 ```
 
 ## Shortcuts
-**Major Online Judges**
 * [Baekjoon Online Judge Solutions](./tasks/online_judge/baekjoon/)
-  * Related: [2022 PIMM Algorithm Study](https://github.com/rootachieve/Algorithm-study)
-* [Codeforces](./tasks/online_judge/codeforces/)
-* [LeetCode Solutions](./tasks/online_judge/leetcode/)
+* [Codeforces](./tasks/competitive/codeforces/)
+* [Kaggle](./tasks/competitive/kaggle)
 
-**Minor Online Judges**
-* [Programmers Solutions](./tasks/online_judge/programmers)
-* [Euler Online Judge Solutions](./tasks/online_judge/euleroj)
-
-**University Lectures**
-* [Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
+* [Lecture Tasks of Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
 
 ## Directories
 * [`/implementations`](./implementations/) - Small size toy projects
