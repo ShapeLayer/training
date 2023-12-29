@@ -8,6 +8,9 @@
   * 배낭 문제 - [17845 수강 과목](https://www.acmicpc.net/problem/17845), [(답안)](./python/17845.py)
     * [ChanBLOG, [알고리즘 트레이닝] 5장 - 동적계획법과 냅색(Knapsack) (백준 12865번 평범한 배낭 문제로 살펴보기)](https://chanhuiseok.github.io/posts/improve-6/)
 * 트리
+  * 가장 가까운 공통 조상
+    * [하눤석, (Python/파이썬) - 백준(BOJ) 3584번 : 가장 가까운 공통 조상](https://recordofwonseok.tistory.com/422)
+    * [EVEerNew, [백준] No.11438 - LCA 2 (C++, 최소 공통 조상)](https://everenew.tistory.com/94)
   * 세그먼트 트리 - [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042), [(답안)](./python/2042.py)
     * [BOJ book, 세그먼트 트리 (Segment Tree)](https://book.acmicpc.net/ds/segment-tree)
     * [kimdukbae, [자료구조] 세그먼트 트리 (Segment Tree), 2021.](https://velog.io/@kimdukbae/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC-Segment-Tree)
