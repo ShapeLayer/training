@@ -1,0 +1,3 @@
+enum RestResponseStatus {
+  SUCCESS, ERROR
+}

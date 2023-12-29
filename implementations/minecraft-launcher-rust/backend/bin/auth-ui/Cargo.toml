@@ -1,0 +1,13 @@
+[package]
+name = "aimless-next-auth-ui"
+version.workspace = true
+license.workspace = true
+authors.workspace = true
+edition.workspace = true
+repository.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aimless-next-commons = { workspace = true }
+reqwest = "0.11.23"
