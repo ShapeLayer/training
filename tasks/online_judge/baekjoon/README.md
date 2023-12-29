@@ -8,6 +8,9 @@
   * 배낭 문제 - [17845 수강 과목](https://www.acmicpc.net/problem/17845), [(답안)](./python/17845.py)
     * [ChanBLOG, [알고리즘 트레이닝] 5장 - 동적계획법과 냅색(Knapsack) (백준 12865번 평범한 배낭 문제로 살펴보기)](https://chanhuiseok.github.io/posts/improve-6/)
 * 트리
+  * 가장 가까운 공통 조상
+    * [하눤석, (Python/파이썬) - 백준(BOJ) 3584번 : 가장 가까운 공통 조상](https://recordofwonseok.tistory.com/422)
+    * [EVEerNew, [백준] No.11438 - LCA 2 (C++, 최소 공통 조상)](https://everenew.tistory.com/94)
   * 세그먼트 트리 - [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042), [(답안)](./python/2042.py)
     * [BOJ book, 세그먼트 트리 (Segment Tree)](https://book.acmicpc.net/ds/segment-tree)
     * [kimdukbae, [자료구조] 세그먼트 트리 (Segment Tree), 2021.](https://velog.io/@kimdukbae/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC-Segment-Tree)
@@ -26,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-25 01:31:43  
+마지막 업데이트: 2023-12-29 12:24:34  
 <table>
     <tr>
         <th>문제</th>
@@ -4852,15 +4855,15 @@
         <td><a href="./cpp/30999.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/31000" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 31000 교환 분배법칙</a></td>
+        <td><a href="https://www.acmicpc.net/problem/31000" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 31000 교환 분배법칙</a></td>
         <td><a href="./cpp/31000.wa.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/31001" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 31001 주식 시뮬레이션</a></td>
+        <td><a href="https://www.acmicpc.net/problem/31001" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 31001 주식 시뮬레이션</a></td>
         <td><a href="./python/31001.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/31002" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 31002 그래프 변환</a></td>
+        <td><a href="https://www.acmicpc.net/problem/31002" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/14.svg" height="13" /> 31002 그래프 변환</a></td>
         <td><a href="./python/31002.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 </table>
