@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2023-12-31 16:47:59  
+마지막 업데이트: 2024-01-01 00:14:45  
 <table>
     <tr>
         <th>문제</th>
@@ -2667,7 +2667,7 @@
         <td><a href="./python/10987.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/10988" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 10988 팰린드롬인지 확인하기</a></td>
+        <td><a href="https://www.acmicpc.net/problem/10988" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10988 팰린드롬인지 확인하기</a></td>
         <td><a href="./python/10988.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -4839,6 +4839,10 @@
         <td><a href="./python/29731.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/29736" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 29736 브실이와 친구가 되고 싶어 🤸‍♀️</a></td>
+        <td><a href="./python/29736.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/29751" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 29751 삼각형</a></td>
         <td><a href="./python/29751.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -4855,8 +4859,16 @@
         <td><a href="./python/30087.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/30501" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 30501 관공... 어찌하여 목만 오셨소...</a></td>
+        <td><a href="./python/30501.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/30676" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 30676 이 별은 무슨 색일까</a></td>
         <td><a href="./python/30676.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/30868" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 30868 개표</a></td>
+        <td><a href="./python/30868.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/30957" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 30957 빅데이터 vs 정보보호 vs 인공지능</a></td>
