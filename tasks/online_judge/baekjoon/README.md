@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-01-05 01:22:48  
+마지막 업데이트: 2024-01-05 11:05:53  
 <table>
     <tr>
         <th>문제</th>
@@ -4901,6 +4901,14 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/31002" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/14.svg" height="13" /> 31002 그래프 변환</a></td>
         <td><a href="./python/31002.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31009" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 31009 진주로 가자! (Easy)</a></td>
+        <td><a href="./python/31009.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31090" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 31090 2023은 무엇이 특별할까?</a></td>
+        <td><a href="./python/31090.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 </table>
 
