@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-01-01 00:14:45  
+마지막 업데이트: 2024-01-05 01:22:48  
 <table>
     <tr>
         <th>문제</th>
@@ -2819,6 +2819,10 @@
         <td><a href="./python/11322.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/11328" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 11328 Strfry</a></td>
+        <td><a href="./python/11328.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/11332" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 11332 시간초과</a></td>
         <td><a href="./ruby/11332.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
@@ -3100,6 +3104,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/13277" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 13277 큰 수 곱셈</a></td>
         <td><a href="./python/13277.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/13300" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 13300 방 배정</a></td>
+        <td><a href="./python/13300.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/13306" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/17.svg" height="13" /> 13306 트리</a></td>
