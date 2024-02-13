@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-13 23:22:51  
+마지막 업데이트: 2024-02-14 00:53:47  
 <table>
     <tr>
         <th>문제</th>
@@ -3050,6 +3050,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11948" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 11948 과목선택</a></td>
         <td><a href="./ruby/11948.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/12018" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 12018 Yonsei TOTO</a></td>
+        <td><a href="./python/12018.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/12085" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 12085 Moist (Small1)</a></td>
