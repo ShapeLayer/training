@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-14 00:53:47  
+마지막 업데이트: 2024-02-14 08:29:50  
 <table>
     <tr>
         <th>문제</th>
@@ -1538,6 +1538,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3765" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 3765 Celebrity jeopardy</a></td>
         <td><a href="./python/3765.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/3780" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 3780 네트워크 연결</a></td>
+        <td><a href="./python/3780.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/3787" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 3787 Count on Canton</a></td>
@@ -3804,6 +3808,10 @@
         <td><a href="./rust/16953.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/16967" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 16967 배열 복원하기</a></td>
+        <td><a href="./python/16967.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/16969" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 16969 차량 번호판 2</a></td>
         <td><a href="./cpp/16969.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
@@ -4933,6 +4941,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/30087" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 30087 진흥원 세미나</a></td>
         <td><a href="./python/30087.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/30468" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 30468 호반우가 학교에 지각한 이유 1</a></td>
+        <td><a href="./csharp/30468.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/30501" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 30501 관공... 어찌하여 목만 오셨소...</a></td>
