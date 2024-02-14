@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-14 08:29:50  
+마지막 업데이트: 2024-02-14 15:29:41  
 <table>
     <tr>
         <th>문제</th>
@@ -1115,6 +1115,10 @@
 <a href="./python/2577.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/2579" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 2579 계단 오르기</a></td>
+        <td><a href="./python/2579.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/2580" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 2580 스도쿠</a></td>
         <td><a href="./python/2580.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -1125,7 +1129,7 @@
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2583" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 2583 영역 구하기</a></td>
-        <td><a href="./python/2583.nd.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+        <td><a href="./python/2583.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2587" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2587 대표값2</a></td>
@@ -2491,7 +2495,7 @@
         <td><a href="./csharp/10610.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/10696" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 10696 Prof. Ossama</a></td>
+        <td><a href="https://www.acmicpc.net/problem/10696" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 10696 Prof. Ossama</a></td>
         <td><a href="./python/10696.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -4221,6 +4225,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/21591" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 21591 Laptop Sticker</a></td>
         <td><a href="./python/21591.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/21598" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 21598 SciComLove</a></td>
+        <td><a href="./python/21598.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/21612" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 21612 Boiling Water</a></td>
