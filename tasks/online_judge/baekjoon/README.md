@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-14 15:29:41  
+마지막 업데이트: 2024-02-15 17:37:07  
 <table>
     <tr>
         <th>문제</th>
@@ -1009,6 +1009,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2490" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 2490 윷놀이</a></td>
         <td><a href="./java/2490.java"><img src="https://img.shields.io/badge/-%20-b07219?style=flat-square"/> Java</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2493" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 2493 탑</a></td>
+        <td><a href="./python/2493.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2495" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 2495 연속구간</a></td>
