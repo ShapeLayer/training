@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-16 07:53:09  
+마지막 업데이트: 2024-02-18 11:48:58  
 <table>
     <tr>
         <th>문제</th>
@@ -2887,7 +2887,7 @@
         <td><a href="./ruby/11401.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/11402" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 11402 이항 계수 4</a></td>
+        <td><a href="https://www.acmicpc.net/problem/11402" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/17.svg" height="13" /> 11402 이항 계수 4</a></td>
         <td><a href="./ruby/11402.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
@@ -3776,7 +3776,7 @@
         <td><a href="./python/16673.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/16677" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 16677 악마 게임</a></td>
+        <td><a href="https://www.acmicpc.net/problem/16677" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 16677 악마 게임</a></td>
         <td><a href="./rust/16677.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
@@ -5001,6 +5001,18 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/31090" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 31090 2023은 무엇이 특별할까?</a></td>
         <td><a href="./python/31090.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31408" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 31408 당직 근무표</a></td>
+        <td><a href="./python/31408.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31410" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 31410 제독 작전</a></td>
+        <td><a href="./cpp/31410.wa.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31413" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 31413 입대</a></td>
+        <td><a href="./python/31413.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 </table>
 
