@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-23 00:53:14  
+마지막 업데이트: 2024-02-23 01:21:00  
 <table>
     <tr>
         <th>문제</th>
@@ -825,6 +825,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2212" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 2212 센서</a></td>
         <td><a href="./rust/2212.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2225" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 2225 합분해</a></td>
+        <td><a href="./python/2225.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2229" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 2229 조 짜기</a></td>
