@@ -1,4 +1,5 @@
 -- https://school.programmers.co.kr/learn/courses/30/lessons/131118
+
 -- 식당 ID, 식당 이름, 음식 종류, 즐겨찾기수, 주소, 리뷰 평균 점수
 
 SELECT REST_ID, REST_NAME, FOOD_TYPE, FAVORITES, ADDRESS, ROUND(AVG(REVIEW_SCORE), 2) AS SCORE
