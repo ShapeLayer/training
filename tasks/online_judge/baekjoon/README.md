@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-02-24 08:23:38  
+마지막 업데이트: 2024-03-01 11:27:24  
 <table>
     <tr>
         <th>문제</th>
@@ -1584,7 +1584,7 @@
         <td><a href="./python/4153.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/4181" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/17.svg" height="13" /> 4181 Convex Hull</a></td>
+        <td><a href="https://www.acmicpc.net/problem/4181" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 4181 Convex Hull</a></td>
         <td><a href="./python/4181.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
