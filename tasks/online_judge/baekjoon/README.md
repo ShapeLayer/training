@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-01 11:27:24  
+마지막 업데이트: 2024-03-01 23:40:06  
 <table>
     <tr>
         <th>문제</th>
@@ -557,6 +557,10 @@
         <td><a href="./python/1747.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/1753" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 1753 최단경로</a></td>
+        <td><a href="./python/1753.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/1759" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1759 암호 만들기</a></td>
         <td><a href="./python/1759.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -646,6 +650,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1912" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 1912 연속합</a></td>
         <td><a href="./rust/1912.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1916" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1916 최소비용 구하기</a></td>
+        <td><a href="./python/1916.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1919" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1919 애너그램 만들기</a></td>
@@ -1895,6 +1903,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5928" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 5928 Contest Timing</a></td>
         <td><a href="./ruby/5928.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5972" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 5972 택배 배송</a></td>
+        <td><a href="./python/5972.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5988" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 5988 홀수일까 짝수일까</a></td>
@@ -3265,6 +3277,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14264" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 14264 정육각형과 삼각형</a></td>
         <td><a href="./python/14264.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/14284" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 14284 간선 이어가기 2</a></td>
+        <td><a href="./python/14284.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14337" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 14337 Helicopter</a></td>
