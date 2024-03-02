@@ -29,7 +29,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-01 23:40:06  
+마지막 업데이트: 2024-03-02 11:26:58  
 <table>
     <tr>
         <th>문제</th>
@@ -3748,6 +3748,10 @@
         <td><a href="./ruby/16170.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/16171" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 16171 나는 친구가 적다 (Small)</a></td>
+        <td><a href="./python/16171.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/16173" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 16173 점프왕 쩰리 (Small)</a></td>
         <td><a href="./cpp/16173.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
@@ -4315,6 +4319,10 @@
         <td><a href="./python/22015.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/22116" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 22116 창영이와 퇴근</a></td>
+        <td><a href="./python/22116.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/22155" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 22155 Простая задача</a></td>
         <td><a href="./python/22155.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -4361,6 +4369,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/23324" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 23324 어려운 모든 정점 쌍 최단 거리</a></td>
         <td><a href="./cpp/23324.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/23348" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23348 스트릿 코딩 파이터</a></td>
+        <td><a href="./python/23348.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/23375" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23375 Arm Coordination</a></td>
