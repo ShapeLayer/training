@@ -45,7 +45,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-17 02:01:02  
+마지막 업데이트: 2024-03-17 02:46:12  
 <table>
     <tr>
         <th>문제</th>
@@ -60,6 +60,7 @@
 <a href="./kotlin/1000.kt"><img src="https://img.shields.io/badge/-%20-A97BFF?style=flat-square"/> Kotlin</a><br>
 <a href="./lua/1000.lua"><img src="https://img.shields.io/badge/-%20-000080?style=flat-square"/> Lua</a><br>
 <a href="./cpp/1000.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a><br>
+<a href="./gleam/1000.nj.gleam"><img src="https://img.shields.io/badge/-%20-ffaff3?style=flat-square"/> Gleam</a><br>
 <a href="./csharp/1000.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
     </tr>
 <tr>
