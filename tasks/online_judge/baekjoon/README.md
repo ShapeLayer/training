@@ -45,7 +45,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-17 02:46:12  
+마지막 업데이트: 2024-03-17 11:54:18  
 <table>
     <tr>
         <th>문제</th>
@@ -1694,6 +1694,10 @@
         <td><a href="./ruby/4714.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/4766" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 4766 일반 화학 실험</a></td>
+        <td><a href="./lua/4766.lua"><img src="https://img.shields.io/badge/-%20-000080?style=flat-square"/> Lua</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/4796" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 4796 캠핑</a></td>
         <td><a href="./ruby/4796.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
@@ -1721,6 +1725,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/4999" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 4999 아!</a></td>
         <td><a href="./python/4999.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5026" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5026 박사 과정</a></td>
+        <td><a href="./python/5026.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5032" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5032 탄산 음료</a></td>
@@ -2188,6 +2196,10 @@
         <td><a href="./python/9086.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/9093" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 9093 단어 뒤집기</a></td>
+        <td><a href="./python/9093.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/9095" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 9095 1, 2, 3 더하기</a></td>
         <td><a href="./rust/9095.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
@@ -2527,6 +2539,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10464" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 10464 XOR</a></td>
         <td><a href="./python/10464.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/10474" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10474 분수좋아해?</a></td>
+        <td><a href="./lua/10474.lua"><img src="https://img.shields.io/badge/-%20-000080?style=flat-square"/> Lua</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10480" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 10480 Oddities</a></td>
