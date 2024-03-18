@@ -45,7 +45,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-17 11:54:18  
+마지막 업데이트: 2024-03-18 13:57:23  
 <table>
     <tr>
         <th>문제</th>
@@ -3162,7 +3162,7 @@
         <td><a href="./python/12756.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/12759" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 12759 틱! 택! 토!</a></td>
+        <td><a href="https://www.acmicpc.net/problem/12759" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 12759 틱! 택! 토!</a></td>
         <td><a href="./python/12759.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -5011,6 +5011,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/29618" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 29618 미술 시간</a></td>
         <td><a href="./python/29618.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/29725" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 29725 체스 초보 브실이</a></td>
+        <td><a href="./lua/29725.lua"><img src="https://img.shields.io/badge/-%20-000080?style=flat-square"/> Lua</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/29731" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 29731 2033년 밈 투표</a></td>
