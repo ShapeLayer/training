@@ -4,6 +4,9 @@
 
 ## 알고리즘 개념 정리
 
+* 경로탐색
+  * 플로이드-워셜 - [17182 우주 탐사선](https://www.acmicpc.net/problem/17182), [(답안)](./python/17182.py)
+    * [ChanBLOG, 알고리즘 - 플로이드-워셜(Floyd-Warshall) 알고리즘](https://chanhuiseok.github.io/posts/algo-50/)
 * 다이나믹 프로그래밍
   * 배낭 문제 - [17845 수강 과목](https://www.acmicpc.net/problem/17845), [(답안)](./python/17845.py)
     * [ChanBLOG, [알고리즘 트레이닝] 5장 - 동적계획법과 냅색(Knapsack) (백준 12865번 평범한 배낭 문제로 살펴보기)](https://chanhuiseok.github.io/posts/improve-6/)
@@ -45,7 +48,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-18 18:10:59  
+마지막 업데이트: 2024-03-22 13:25:57  
 <table>
     <tr>
         <th>문제</th>
@@ -1915,6 +1918,10 @@
         <td><a href="./python/5724.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/5766" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 5766 할아버지는 유명해!</a></td>
+        <td><a href="./python/5766.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/5800" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 5800 성적 통계</a></td>
         <td><a href="./rust/5800.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
@@ -3414,7 +3421,7 @@
         <td><a href="./ruby/14652.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/14653" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 14653 너의 이름은</a></td>
+        <td><a href="https://www.acmicpc.net/problem/14653" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 14653 너의 이름은</a></td>
         <td><a href="./python/14653.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -3931,6 +3938,11 @@
         <td><a href="./python/17119.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/17182" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 17182 우주 탐사선</a></td>
+        <td><a href="./python/17182.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./python/17182.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/17202" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 17202 핸드폰 번호 궁합</a></td>
         <td><a href="./python/17202.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -4441,7 +4453,7 @@
         <td><a href="./ruby/23971.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/24025" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 24025 돌의 정령 줄세우기</a></td>
+        <td><a href="https://www.acmicpc.net/problem/24025" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 24025 돌의 정령 줄세우기</a></td>
         <td><a href="./cpp/24025.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
