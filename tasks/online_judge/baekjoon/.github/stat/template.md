@@ -4,6 +4,9 @@
 
 ## 알고리즘 개념 정리
 
+* 경로탐색
+  * 플로이드-워셜 - [17182 우주 탐사선](https://www.acmicpc.net/problem/17182), [(답안)](./python/17182.py)
+    * [ChanBLOG, 알고리즘 - 플로이드-워셜(Floyd-Warshall) 알고리즘](https://chanhuiseok.github.io/posts/algo-50/)
 * 다이나믹 프로그래밍
   * 배낭 문제 - [17845 수강 과목](https://www.acmicpc.net/problem/17845), [(답안)](./python/17845.py)
     * [ChanBLOG, [알고리즘 트레이닝] 5장 - 동적계획법과 냅색(Knapsack) (백준 12865번 평범한 배낭 문제로 살펴보기)](https://chanhuiseok.github.io/posts/improve-6/)
