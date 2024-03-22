@@ -4,6 +4,9 @@
 
 ## 알고리즘 개념 정리
 
+* 정렬
+  * 위상정렬 - [1766 문제집](https://www.acmicpc.net/problem/1766), [(답안)](./python/1766.py)
+    * [Jin Hur, [위상 정렬] 개념과 예제 문제: 문제집_백준](https://velog.io/@jinh2352/%EC%9C%84%EC%83%81-%EC%A0%95%EB%A0%AC)
 * 경로탐색
   * 플로이드-워셜 - [17182 우주 탐사선](https://www.acmicpc.net/problem/17182), [(답안)](./python/17182.py)
     * [ChanBLOG, 알고리즘 - 플로이드-워셜(Floyd-Warshall) 알고리즘](https://chanhuiseok.github.io/posts/algo-50/)
