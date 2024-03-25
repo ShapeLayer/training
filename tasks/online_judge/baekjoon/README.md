@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-25 12:54:29  
+마지막 업데이트: 2024-03-25 13:13:50  
 <table>
     <tr>
         <th>문제</th>
@@ -3281,6 +3281,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/13560" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/16.svg" height="13" /> 13560 축구 게임</a></td>
         <td><a href="./rust/13560.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/13567" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 13567 로봇</a></td>
+        <td><a href="./python/13567.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/13580" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 13580 Andando no tempo</a></td>
