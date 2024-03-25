@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-03-22 16:44:08  
+마지막 업데이트: 2024-03-25 12:54:29  
 <table>
     <tr>
         <th>문제</th>
@@ -5118,6 +5118,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/31090" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 31090 2023은 무엇이 특별할까?</a></td>
         <td><a href="./python/31090.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31403" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 31403 $A + B - C$</a></td>
+        <td><a href="./python/31403.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/31408" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 31408 당직 근무표</a></td>
