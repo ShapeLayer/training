@@ -19,3 +19,11 @@ print(y_pred)
 from sklearn import metrics
 scores = metrics.accuracy_score(y_test, y_pred)
 print(scores)
+
+## 2024-03-27 업데이트, 교수님 문제 풀이
+from solution import NeighborsClassifier
+y_pred = NeighborsClassifier(6, X_train, y_train, X_test)
+scores = metrics.accuracy_score(y_test, y_pred)
+print(scores)
+matrix = metrics.confusion_matrix(y_test, y_pred)
+print(matrix)
