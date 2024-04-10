@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-10 03:31:26  
+마지막 업데이트: 2024-04-11 01:34:10  
 <table>
     <tr>
         <th>문제</th>
@@ -3783,6 +3783,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15917" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15917 노솔브 방지문제야!!</a></td>
         <td><a href="./python/15917.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15921" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15921 수찬은 마린보이야!!</a></td>
+        <td><a href="./lua/15921.lua"><img src="https://img.shields.io/badge/-%20-000080?style=flat-square"/> Lua</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15922" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 15922 아우으 우아으이야!!</a></td>
