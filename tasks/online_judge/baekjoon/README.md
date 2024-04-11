@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-11 13:35:01  
+마지막 업데이트: 2024-04-12 01:19:39  
 <table>
     <tr>
         <th>문제</th>
@@ -1537,6 +1537,10 @@
         <td><a href="./c/3060.c"><img src="https://img.shields.io/badge/-%20-555555?style=flat-square"/> C</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/3063" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 3063 게시판</a></td>
+        <td><a href="./python/3063.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/3067" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 3067 Coins</a></td>
         <td><a href="./c/3067.c"><img src="https://img.shields.io/badge/-%20-555555?style=flat-square"/> C</a></td>
     </tr>
@@ -2164,6 +2168,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/8958" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 8958 OX퀴즈</a></td>
         <td><a href="./python/8958.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/8974" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 8974 희주의 수학시험</a></td>
+        <td><a href="./python/8974.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/8979" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 8979 올림픽</a></td>
@@ -3020,6 +3028,14 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11586" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 11586 지영 공주님의 마법 거울</a></td>
         <td><a href="./python/11586.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/11596" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 11596 Triangle</a></td>
+        <td><a href="./python/11596.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/11608" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 11608 Complexity</a></td>
+        <td><a href="./python/11608.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/11637" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 11637 인기 투표</a></td>
@@ -4847,6 +4863,14 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/26307" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26307 Correct</a></td>
         <td><a href="./python/26307.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/26509" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 26509 Triangle</a></td>
+        <td><a href="./python/26509.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/26511" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 26511 Complexity</a></td>
+        <td><a href="./python/26511.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/26531" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 26531 Simple Sum</a></td>
