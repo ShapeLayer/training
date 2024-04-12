@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-12 01:19:39  
+마지막 업데이트: 2024-04-12 19:25:32  
 <table>
     <tr>
         <th>문제</th>
@@ -3013,6 +3013,10 @@
         <td><a href="./python/11508.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/11531" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 11531 ACM 대회 채점</a></td>
+        <td><a href="./python/11531.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/11549" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 11549 Identifying tea</a></td>
         <td><a href="./ruby/11549.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
@@ -3763,6 +3767,14 @@
         <td><a href="./python/15780.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/15781" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15781 헬멧과 조끼</a></td>
+        <td><a href="./python/15781.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15784" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15784 질투진서</a></td>
+        <td><a href="./python/15784.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/15792" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 15792 A/B - 2</a></td>
         <td><a href="./python/15792.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3774,6 +3786,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15809" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 15809 전국시대</a></td>
         <td><a href="./python/15809.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15818" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15818 오버플로우와 모듈러</a></td>
+        <td><a href="./python/15818.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15820" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 15820 맞았는데 왜 틀리죠?</a></td>
@@ -4413,6 +4429,10 @@
         <td><a href="./cpp/21758.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/21760" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 21760 야구 시즌</a></td>
+        <td><a href="./python/21760.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/21921" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 21921 블로그</a></td>
         <td><a href="./python/21921.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -4591,6 +4611,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/24266" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 24266 알고리즘 수업 - 알고리즘의 수행 시간 5</a></td>
         <td><a href="./csharp/24266.cs"><img src="https://img.shields.io/badge/-%20-178600?style=flat-square"/> C#</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/24267" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 24267 알고리즘 수업 - 알고리즘의 수행 시간 6</a></td>
+        <td><a href="./python/24267.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/24270" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 24270 미니 버킷 리스트</a></td>
