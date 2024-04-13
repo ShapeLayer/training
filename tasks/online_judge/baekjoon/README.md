@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-13 10:03:12  
+마지막 업데이트: 2024-04-13 10:20:15  
 <table>
     <tr>
         <th>문제</th>
@@ -4974,6 +4974,10 @@
         <td><a href="./python/26307.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/26489" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 26489 Gum Gum for Jay Jay</a></td>
+        <td><a href="./python/26489.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/26509" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 26509 Triangle</a></td>
         <td><a href="./python/26509.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -5006,6 +5010,10 @@
         <td><a href="./python/26768.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/26769" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 26769 Deski</a></td>
+        <td><a href="./python/26769.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/27110" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 27110 특식 배부</a></td>
         <td><a href="./python/27110.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -5016,6 +5024,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27182" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 27182 Rain Diary</a></td>
         <td><a href="./python/27182.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27219" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27219 Робинзон Крузо</a></td>
+        <td><a href="./python/27219.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27294" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27294 몇개고?</a></td>
@@ -5048,6 +5060,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27332" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 27332 11 月 (November)</a></td>
         <td><a href="./python/27332.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/27389" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27389 Metronome</a></td>
+        <td><a href="./python/27389.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/27433" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 27433 팩토리얼 2</a></td>
@@ -5226,6 +5242,10 @@
         <td><a href="./python/28701.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/29163" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 29163 Счастье Мистера Бина</a></td>
+        <td><a href="./python/29163.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/29614" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 29614 학점계산프로그램</a></td>
         <td><a href="./python/29614.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -5246,6 +5266,10 @@
         <td><a href="./python/29618.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/29699" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 29699 Welcome to SMUPC!</a></td>
+        <td><a href="./python/29699.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/29725" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 29725 체스 초보 브실이</a></td>
         <td><a href="./lua/29725.lua"><img src="https://img.shields.io/badge/-%20-000080?style=flat-square"/> Lua</a></td>
     </tr>
@@ -5260,6 +5284,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/29751" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 29751 삼각형</a></td>
         <td><a href="./python/29751.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/30007" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 30007 라면 공식</a></td>
+        <td><a href="./python/30007.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/30008" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 30008 준영이의 등급</a></td>
