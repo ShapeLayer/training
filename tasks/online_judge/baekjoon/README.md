@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-13 04:02:04  
+마지막 업데이트: 2024-04-13 10:03:12  
 <table>
     <tr>
         <th>문제</th>
@@ -4450,6 +4450,10 @@
         <td><a href="./python/21598.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/21603" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 21603 K 2K 게임</a></td>
+        <td><a href="./python/21603.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/21612" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 21612 Boiling Water</a></td>
         <td><a href="./python/21612.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -4480,6 +4484,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/21760" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 21760 야구 시즌</a></td>
         <td><a href="./python/21760.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/21866" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 21866 추첨을 통해 커피를 받자</a></td>
+        <td><a href="./python/21866.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/21921" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 21921 블로그</a></td>
@@ -4558,8 +4566,16 @@
         <td><a href="./python/23246.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/23303" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23303 이 문제는 D2 입니다.</a></td>
+        <td><a href="./python/23303.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/23324" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 23324 어려운 모든 정점 쌍 최단 거리</a></td>
         <td><a href="./cpp/23324.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/23343" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23343 JavaScript</a></td>
+        <td><a href="./python/23343.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/23348" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23348 스트릿 코딩 파이터</a></td>
@@ -4574,8 +4590,24 @@
         <td><a href="./python/23740.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/23794" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23794 골뱅이 찍기 - 정사각형</a></td>
+        <td><a href="./python/23794.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/23795" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 23795 사장님 도박은 재미로 하셔야 합니다</a></td>
         <td><a href="./ruby/23795.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/23802" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23802 골뱅이 찍기 - 뒤집힌 ㄱ</a></td>
+        <td><a href="./python/23802.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/23803" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23803 골뱅이 찍기 - ㄴ</a></td>
+        <td><a href="./python/23803.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/23804" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 23804 골뱅이 찍기 - ㄷ</a></td>
+        <td><a href="./python/23804.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/23825" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 23825 SASA 모형을 만들어보자</a></td>
@@ -4804,6 +4836,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/25238" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 25238 가희와 방어율 무시</a></td>
         <td><a href="./ruby/25238.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/25285" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 25285 심준의 병역판정검사</a></td>
+        <td><a href="./python/25285.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/25304" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 25304 영수증</a></td>
