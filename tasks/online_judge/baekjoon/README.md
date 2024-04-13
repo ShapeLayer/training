@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-14 01:50:57  
+마지막 업데이트: 2024-04-14 01:57:21  
 <table>
     <tr>
         <th>문제</th>
@@ -2750,6 +2750,10 @@
         <td><a href="./python/10828.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/10829" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 10829 이진수 변환</a></td>
+        <td><a href="./python/10829.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/10833" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10833 사과</a></td>
         <td><a href="./python/10833.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -2811,6 +2815,14 @@
         <td><a href="https://www.acmicpc.net/problem/10944" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 10944 랜덤 게임~~</a></td>
         <td><a href="./javascript/10944.1.js"><img src="https://img.shields.io/badge/-%20-f1e05a?style=flat-square"/> JavaScript</a><br>
 <a href="./javascript/10944.2.js"><img src="https://img.shields.io/badge/-%20-f1e05a?style=flat-square"/> JavaScript</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/10946" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 10946 랜덤 게임~~~~</a></td>
+        <td><a href="./text/10946.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/10947" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 10947 로또</a></td>
+        <td><a href="./text/10947.wa.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/10950" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 10950 A+B - 3</a></td>
@@ -4320,6 +4332,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/19602" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 19602 Dog Treats</a></td>
         <td><a href="./python/19602.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/19617" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/0.svg" height="13" /> 19617 랜덤 게임~~~~~</a></td>
+        <td><a href="./text/19617.txt"><img src="https://img.shields.io/badge/-%20-fff?style=flat-square"/> Text</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/19637" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 19637 IF문 좀 대신 써줘</a></td>
