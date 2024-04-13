@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-13 10:20:15  
+마지막 업데이트: 2024-04-13 11:25:54  
 <table>
     <tr>
         <th>문제</th>
@@ -1374,6 +1374,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2845" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 2845 파티가 끝나고 난 뒤</a></td>
         <td><a href="./python/2845.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2846" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2846 오르막길</a></td>
+        <td><a href="./python/2846.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2851" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2851 슈퍼 마리오</a></td>
@@ -5452,6 +5456,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/31668" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 31668 특별한 가지</a></td>
         <td><a href="./python/31668.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/31712" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 31712 핑크빈 레이드</a></td>
+        <td><a href="./python/31712.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/31746" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 31746 SciComLove (2024)</a></td>
