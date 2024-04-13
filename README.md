@@ -23,8 +23,8 @@ while not talent:
 
 ## Language uses
 ```
-Python..............42.52%
-Jupyter Notebook....15.26%
+Python..............42.53%
+Jupyter Notebook....15.25%
 Rust................11.07%
 Java................9.44%
 C...................7.00%
