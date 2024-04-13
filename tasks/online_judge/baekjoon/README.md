@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-13 23:53:53  
+마지막 업데이트: 2024-04-14 01:50:57  
 <table>
     <tr>
         <th>문제</th>
@@ -159,6 +159,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1059" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1059 좋은 구간</a></td>
         <td><a href="./python/1059.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1063" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 1063 킹</a></td>
+        <td><a href="./python/1063.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1064" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 1064 평행사변형</a></td>
@@ -2129,6 +2133,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/7947" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 7947 Koncert</a></td>
         <td><a href="./python/7947.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/8320" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 8320 직사각형을 만드는 방법</a></td>
+        <td><a href="./python/8320.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/8370" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/1.svg" height="13" /> 8370 Plane</a></td>
