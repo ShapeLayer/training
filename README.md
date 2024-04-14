@@ -15,10 +15,10 @@ while not talent:
 
 ## Directories
 * [`/implementations`](./implementations/) - Small size toy projects
+* [`/lectures`](./lectures/) - University programming lecture homeworks
 * [`/notes`](./notes/) - Today I Learned
 * [`/tasks`](./tasks/) - Algorithm problems
   * [`/tasks/books`](./tasks/books/) - Textbook training problmes solutions
-  * [`/tasks/lectures`](./tasks/lectures/) - University programming lecture homeworks
   * [`/tasks/online_judge`](./tasks/online_judge/) - Online judge solutions
 
 ## Language uses

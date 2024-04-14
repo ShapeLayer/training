@@ -1,0 +1,56 @@
+
+/lib/x86_64-linux-gnu/libc.so.6:     file format elf64-x86-64
+
+
+Disassembly of section .plt:
+
+Disassembly of section .plt.got:
+
+Disassembly of section .plt.sec:
+
+Disassembly of section .text:
+
+0000000000114870 <__write@@GLIBC_2.2.5>:
+  114870:	f3 0f 1e fa          	endbr64 
+  114874:	64 8b 04 25 18 00 00 	mov    eax,DWORD PTR fs:0x18
+  11487b:	00 
+  11487c:	85 c0                	test   eax,eax
+  11487e:	75 10                	jne    114890 <__write@@GLIBC_2.2.5+0x20>
+  114880:	b8 01 00 00 00       	mov    eax,0x1
+  114885:	0f 05                	syscall 
+  114887:	48 3d 00 f0 ff ff    	cmp    rax,0xfffffffffffff000
+  11488d:	77 51                	ja     1148e0 <__write@@GLIBC_2.2.5+0x70>
+  11488f:	c3                   	ret    
+  114890:	48 83 ec 28          	sub    rsp,0x28
+  114894:	48 89 54 24 18       	mov    QWORD PTR [rsp+0x18],rdx
+  114899:	48 89 74 24 10       	mov    QWORD PTR [rsp+0x10],rsi
+  11489e:	89 7c 24 08          	mov    DWORD PTR [rsp+0x8],edi
+  1148a2:	e8 49 c1 f7 ff       	call   909f0 <__libc_alloca_cutoff@@GLIBC_PRIVATE+0x50>
+  1148a7:	48 8b 54 24 18       	mov    rdx,QWORD PTR [rsp+0x18]
+  1148ac:	48 8b 74 24 10       	mov    rsi,QWORD PTR [rsp+0x10]
+  1148b1:	41 89 c0             	mov    r8d,eax
+  1148b4:	8b 7c 24 08          	mov    edi,DWORD PTR [rsp+0x8]
+  1148b8:	b8 01 00 00 00       	mov    eax,0x1
+  1148bd:	0f 05                	syscall 
+  1148bf:	48 3d 00 f0 ff ff    	cmp    rax,0xfffffffffffff000
+  1148c5:	77 31                	ja     1148f8 <__write@@GLIBC_2.2.5+0x88>
+  1148c7:	44 89 c7             	mov    edi,r8d
+  1148ca:	48 89 44 24 08       	mov    QWORD PTR [rsp+0x8],rax
+  1148cf:	e8 8c c1 f7 ff       	call   90a60 <__libc_alloca_cutoff@@GLIBC_PRIVATE+0xc0>
+  1148d4:	48 8b 44 24 08       	mov    rax,QWORD PTR [rsp+0x8]
+  1148d9:	48 83 c4 28          	add    rsp,0x28
+  1148dd:	c3                   	ret    
+  1148de:	66 90                	xchg   ax,ax
+  1148e0:	48 8b 15 29 55 10 00 	mov    rdx,QWORD PTR [rip+0x105529]        # 219e10 <h_errlist@@GLIBC_2.2.5+0xb50>
+  1148e7:	f7 d8                	neg    eax
+  1148e9:	64 89 02             	mov    DWORD PTR fs:[rdx],eax
+  1148ec:	48 c7 c0 ff ff ff ff 	mov    rax,0xffffffffffffffff
+  1148f3:	c3                   	ret    
+  1148f4:	0f 1f 40 00          	nop    DWORD PTR [rax+0x0]
+  1148f8:	48 8b 15 11 55 10 00 	mov    rdx,QWORD PTR [rip+0x105511]        # 219e10 <h_errlist@@GLIBC_2.2.5+0xb50>
+  1148ff:	f7 d8                	neg    eax
+  114901:	64 89 02             	mov    DWORD PTR fs:[rdx],eax
+  114904:	48 c7 c0 ff ff ff ff 	mov    rax,0xffffffffffffffff
+  11490b:	eb ba                	jmp    1148c7 <__write@@GLIBC_2.2.5+0x57>
+
+Disassembly of section __libc_freeres_fn:

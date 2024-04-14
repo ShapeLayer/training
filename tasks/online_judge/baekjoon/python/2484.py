@@ -2,16 +2,26 @@ from sys import stdin
 from collections import Counter
 input = stdin.readline
 
-prices = []
-for _i in range(int(input())):
-    gets = dict(Counter(map(int, input().split())))
-    if 4 in gets.values():
-        prices += [50000 + gets.keys() * 5000]
-    elif 3 in gets.values():
-        for i in gets:
-            if gets[i] == 3:
-                prices += [10000 + i * 1000]
-    elif {2} == set(gets.values()):
-        sums = 2000
-        sums += 
-#todo0614
+n = int(input())
+_max = -1
+for _i in range(n):
+    c = Counter([*map(int, input().split())])
+    gets = {}
+    for each in c:
+        if c[each] not in gets:
+            gets[c[each]] = [each]
+        else:
+            gets[c[each]].append(each)
+
+    if 4 in c.values():
+        _max = max(_max, 50_000 + gets.values()[0] * 5_000)
+    elif 3 in c.values():
+        _max = max(_max, 10_000 + gets[gets.index()])
+    elif 2 in c.values():
+        if len(set(c.values())) == 1:
+            _max = max(_max, 2_000 + gets[2][0] * 500 + gets[2][0] * 500)
+        else:
+            _max = max(_max, 2_000 + gets[2][0] * 100)
+    else:
+        _max = max(_max, max(c.keys()) * 100)
+    _max = max(_max, )
