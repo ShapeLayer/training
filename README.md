@@ -11,7 +11,7 @@ while not talent:
 * [Codeforces](./tasks/competitive/codeforces/)
 * [Kaggle](./tasks/competitive/kaggle)
 
-* [Lecture Tasks of Chonnam National University Computer Science Engineering](./lectures/jnu/)
+* [Lecture Tasks of Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
 
 ## Directories
 * [`/implementations`](./implementations/) - Small size toy projects
@@ -23,14 +23,14 @@ while not talent:
 
 ## Language uses
 ```
-Jupyter Notebook....38.27%
-Python..............31.25%
-Rust................7.97%
-Java................6.80%
-C...................5.03%
-C++.................4.12%
+Jupyter Notebook....38.35%
+Python..............31.12%
+Rust................7.99%
+Java................6.81%
+C...................5.04%
+C++.................4.13%
 TeX.................2.10%
-Ruby................1.53%
+Ruby................1.54%
 C#..................0.61%
 HTML................0.39%
 CSS.................0.38%
