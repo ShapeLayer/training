@@ -11,26 +11,26 @@ while not talent:
 * [Codeforces](./tasks/competitive/codeforces/)
 * [Kaggle](./tasks/competitive/kaggle)
 
-* [Lecture Tasks of Chonnam National University Computer Science Engineering](./tasks/lectures/jnu/)
+* [Lecture Tasks of Chonnam National University Computer Science Engineering](./lectures/jnu/)
 
 ## Directories
 * [`/implementations`](./implementations/) - Small size toy projects
+* [`/lectures`](./lectures/)
 * [`/notes`](./notes/) - Today I Learned
 * [`/tasks`](./tasks/) - Algorithm problems
   * [`/tasks/books`](./tasks/books/) - Textbook training problmes solutions
-  * [`/tasks/lectures`](./tasks/lectures/) - University programming lecture homeworks
   * [`/tasks/online_judge`](./tasks/online_judge/) - Online judge solutions
 
 ## Language uses
 ```
-Jupyter Notebook....38.29%
-Python..............31.07%
-Rust................7.98%
-Java................6.80%
-C...................5.18%
+Jupyter Notebook....38.24%
+Python..............31.02%
+Rust................7.97%
+Java................6.79%
+C...................5.31%
 C++.................4.12%
 TeX.................2.10%
-Ruby................1.54%
+Ruby................1.53%
 C#..................0.61%
 HTML................0.39%
 CSS.................0.38%
