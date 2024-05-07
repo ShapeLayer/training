@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-04-21 19:27:33  
+마지막 업데이트: 2024-05-07 09:55:16  
 <table>
     <tr>
         <th>문제</th>
@@ -334,7 +334,7 @@
         <td><a href="./ruby/1267.rb"><img src="https://img.shields.io/badge/-%20-701516?style=flat-square"/> Ruby</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/1268" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 1268 임시 반장 정하기</a></td>
+        <td><a href="https://www.acmicpc.net/problem/1268" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1268 임시 반장 정하기</a></td>
         <td><a href="./python/1268.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
@@ -1630,7 +1630,7 @@
         <td><a href="./python/3830.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/3845" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 3845 잔디깎기</a></td>
+        <td><a href="https://www.acmicpc.net/problem/3845" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 3845 잔디깎기</a></td>
         <td><a href="./python/3845.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
