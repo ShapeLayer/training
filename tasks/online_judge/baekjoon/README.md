@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-05-07 09:55:16  
+마지막 업데이트: 2024-05-10 15:15:33  
 <table>
     <tr>
         <th>문제</th>
@@ -810,6 +810,11 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2140" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 2140 지뢰찾기</a></td>
         <td><a href="./python/2140.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2141" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 2141 우체국</a></td>
+        <td><a href="./python/2141.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a><br>
+<a href="./python/2141.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2149" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 2149 암호 해독</a></td>
@@ -4349,6 +4354,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/19637" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 19637 IF문 좀 대신 써줘</a></td>
         <td><a href="./python/19637.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/19644" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/13.svg" height="13" /> 19644 좀비 떼가 기관총 진지에도 오다니</a></td>
+        <td><a href="./python/19644.to.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/19698" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 19698 헛간 청약</a></td>
