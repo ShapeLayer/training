@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-05-22 00:45:21  
+마지막 업데이트: 2024-05-22 01:32:14  
 <table>
     <tr>
         <th>문제</th>
@@ -2764,6 +2764,10 @@
         <td><a href="./python/10829.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
+        <td><a href="https://www.acmicpc.net/problem/10830" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 10830 행렬 제곱</a></td>
+        <td><a href="./python/10830.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
         <td><a href="https://www.acmicpc.net/problem/10833" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 10833 사과</a></td>
         <td><a href="./python/10833.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
@@ -3695,6 +3699,10 @@
         <td><a href="https://www.acmicpc.net/problem/15552" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/2.svg" height="13" /> 15552 빠른 A+B</a></td>
         <td><a href="./rust/15552.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
 <a href="./python/15552.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/15591" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 15591 MooTube (Silver)</a></td>
+        <td><a href="./python/15591.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/15596" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 15596 정수 N개의 합</a></td>
