@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-05-22 01:32:14  
+마지막 업데이트: 2024-05-22 15:15:36  
 <table>
     <tr>
         <th>문제</th>
@@ -553,6 +553,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1676" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1676 팩토리얼 0의 개수</a></td>
         <td><a href="./rust/1676.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1684" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/11.svg" height="13" /> 1684 같은 나머지</a></td>
+        <td><a href="./python/1684.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1697" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 1697 숨바꼭질</a></td>
