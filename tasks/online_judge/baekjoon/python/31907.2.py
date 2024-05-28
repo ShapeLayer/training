@@ -1,0 +1,1 @@
+n=int(input());[[print(''.join([e*n for e in r])) for i in range(n)] for r in ['G...','.I.T','..S.']]
