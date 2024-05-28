@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-05-22 15:15:36  
+마지막 업데이트: 2024-05-24 15:02:37  
 <table>
     <tr>
         <th>문제</th>
@@ -537,6 +537,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1647" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/12.svg" height="13" /> 1647 도시 분할 계획</a></td>
         <td><a href="./python/1647.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/1652" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 1652 누울 자리를 찾아라</a></td>
+        <td><a href="./python/1652.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/1668" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 1668 트로피 진열</a></td>
@@ -1375,6 +1379,10 @@
         <td><a href="https://www.acmicpc.net/problem/2805" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 2805 나무 자르기</a></td>
         <td><a href="./rust/2805.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a><br>
 <a href="./python/2805.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/2816" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 2816 디지털 티비</a></td>
+        <td><a href="./python/2816.wa.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/2822" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 2822 점수 계산</a></td>
@@ -2235,6 +2243,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9012" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 9012 괄호</a></td>
         <td><a href="./python/9012.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/9017" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/8.svg" height="13" /> 9017 크로스 컨트리</a></td>
+        <td><a href="./python/9017.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/9020" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/9.svg" height="13" /> 9020 골드바흐의 추측</a></td>
