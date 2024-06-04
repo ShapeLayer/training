@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-05-28 15:11:13  
+마지막 업데이트: 2024-06-04 17:04:49  
 <table>
     <tr>
         <th>문제</th>
@@ -3600,7 +3600,7 @@
         <td><a href="./python/14681.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/14720" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/3.svg" height="13" /> 14720 우유 축제</a></td>
+        <td><a href="https://www.acmicpc.net/problem/14720" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 14720 우유 축제</a></td>
         <td><a href="./rust/14720.rs"><img src="https://img.shields.io/badge/-%20-dea584?style=flat-square"/> Rust</a></td>
     </tr>
 <tr>
@@ -5541,7 +5541,7 @@
 <a href="./python/31907.1.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
-        <td><a href="https://www.acmicpc.net/problem/31908" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/5.svg" height="13" /> 31908 커플링 매치</a></td>
+        <td><a href="https://www.acmicpc.net/problem/31908" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 31908 커플링 매치</a></td>
         <td><a href="./python/31908.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
