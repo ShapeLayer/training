@@ -3,14 +3,13 @@ from collections import deque
 input = stdin.readline
 
 def compute(l, ml, mk, c, zombies):
-    queue = [zombies.popleft() if len(zombies) else 0 for _i in range(ml)]
+    queue = deque([zombies.popleft() if len(zombies) else 0 for _i in range(ml)])
     while True:
-        queue = [*map(lambda each: each - mk, queue)]
-
         if not queue:
             break
+        [queue.append(queue.popleft() - mk) for _i in range(min(ml, len(queue)))]
 
-        if queue.pop(0) > 0:
+        if queue.popleft() > 0:
             if c > 0:
                 c -= 1
                 continue
