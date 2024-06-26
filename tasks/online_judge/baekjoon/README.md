@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-06-24 13:32:30  
+마지막 업데이트: 2024-06-26 14:25:08  
 <table>
     <tr>
         <th>문제</th>
@@ -3610,6 +3610,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14730" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 14730 謎紛芥索紀 (Small)</a></td>
         <td><a href="./cpp/14730.cpp"><img src="https://img.shields.io/badge/-%20-f34b7d?style=flat-square"/> C++</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/14803" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 14803 Steed 2: Cruise Control (Small)</a></td>
+        <td><a href="./python/14803.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/14888" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/10.svg" height="13" /> 14888 연산자 끼워넣기</a></td>
