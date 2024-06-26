@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-06-26 14:25:08  
+마지막 업데이트: 2024-06-26 14:33:21  
 <table>
     <tr>
         <th>문제</th>
@@ -1810,6 +1810,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5176" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5176 대회 자리</a></td>
         <td><a href="./python/5176.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/5210" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/6.svg" height="13" /> 5210 Campus Buildings</a></td>
+        <td><a href="./python/5210.wf.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/5218" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 5218 알파벳 거리</a></td>
