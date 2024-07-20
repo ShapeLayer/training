@@ -51,7 +51,7 @@
 ## 풀이
 
 
-마지막 업데이트: 2024-07-13 12:02:37  
+마지막 업데이트: 2024-07-20 12:05:04  
 <table>
     <tr>
         <th>문제</th>
@@ -3994,6 +3994,10 @@
 <tr>
         <td><a href="https://www.acmicpc.net/problem/16171" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 16171 나는 친구가 적다 (Small)</a></td>
         <td><a href="./python/16171.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
+    </tr>
+<tr>
+        <td><a href="https://www.acmicpc.net/problem/16172" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/4.svg" height="13" /> 16172 나는 친구가 적다 (Large)</a></td>
+        <td><a href="./python/16172.py"><img src="https://img.shields.io/badge/-%20-3572A5?style=flat-square"/> Python</a></td>
     </tr>
 <tr>
         <td><a href="https://www.acmicpc.net/problem/16173" target="_blank" rel="noreferrer noopener"><img src="https://static.solved.ac/tier_small/7.svg" height="13" /> 16173 점프왕 쩰리 (Small)</a></td>
