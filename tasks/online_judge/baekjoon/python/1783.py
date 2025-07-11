@@ -12,7 +12,7 @@ def _move_lt_4(N, M, y, x, depth):
             new_depth = _move_lt_4(N, M, ny, nx, depth + 1)
     
     return new_depth
-        
+
 
 def compute(N: int, M: int):
     result = _move_lt_4(N, M, 0, 0, 0) + 1
