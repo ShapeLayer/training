@@ -16,21 +16,13 @@ void compute() {
   for (int i = 0; i < 3; i++) {
     if (dots[i].first == dots[i].second) continue;
     mid = (dots[i].first + dots[i].second) / 2.0;
-    offset = 0;
+    offset = min(0., mid * 2 - total_size);
 
     // make mid into origin
     // fold using origin as folding point
     for (int j = 0; j < 3; j++) {
-      dots[j].first = FOLD(dots[j].first, mid);
-      dots[j].second = FOLD(dots[j].second, mid);
-      offset = min(offset, min(dots[j].first, dots[j].second));
-    }
-
-    offset = min(offset, mid * 2 - total_size);
-
-    for (int j = 0; j < 3; j++) {
-      dots[j].first -= offset;
-      dots[j].second -= offset;
+      dots[j].first = FOLD(dots[j].first, mid) - offset;
+      dots[j].second = FOLD(dots[j].second, mid) - offset;
     }
 
     total_size = max(mid - offset, total_size - mid);
@@ -39,17 +31,14 @@ void compute() {
 
 int main() {
   cin >> total_size;
-  total_size *= 100;
   for (int i = 0; i < 3; i++) {
     cin >> dots[i].first >> dots[i].second;
-    dots[i].first *= 100;
-    dots[i].second *= 100;
   }
 
   compute();
   cout << fixed;
   cout.precision(1);
-  cout << total_size / 100 << endl;
+  cout << total_size << endl;
 
   return 0;
 }
